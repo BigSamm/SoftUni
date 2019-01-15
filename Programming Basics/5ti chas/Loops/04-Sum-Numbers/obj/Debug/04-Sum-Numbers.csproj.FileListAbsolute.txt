@@ -1,0 +1,5 @@
+E:\SoftUni\5ti chas\Loops\04-Sum-Numbers\bin\Debug\04-Sum-Numbers.exe.config
+E:\SoftUni\5ti chas\Loops\04-Sum-Numbers\bin\Debug\04-Sum-Numbers.exe
+E:\SoftUni\5ti chas\Loops\04-Sum-Numbers\bin\Debug\04-Sum-Numbers.pdb
+E:\SoftUni\5ti chas\Loops\04-Sum-Numbers\obj\Debug\04-Sum-Numbers.exe
+E:\SoftUni\5ti chas\Loops\04-Sum-Numbers\obj\Debug\04-Sum-Numbers.pdb

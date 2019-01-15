@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\02. Ladybugs\bin\Debug\_02.Ladybugs.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\02. Ladybugs\bin\Debug\_02.Ladybugs.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\02. Ladybugs\bin\Debug\_02.Ladybugs.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\02. Ladybugs\obj\Debug\02. Ladybugs.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\02. Ladybugs\obj\Debug\_02.Ladybugs.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\02. Ladybugs\obj\Debug\_02.Ladybugs.pdb

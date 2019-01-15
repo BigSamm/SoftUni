@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\02. Bank Account Methods\bin\Debug\netcoreapp1.1\02. Bank Account Methods.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\02. Bank Account Methods\bin\Debug\netcoreapp1.1\02. Bank Account Methods.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\02. Bank Account Methods\bin\Debug\netcoreapp1.1\02. Bank Account Methods.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\02. Bank Account Methods\bin\Debug\netcoreapp1.1\02. Bank Account Methods.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\02. Bank Account Methods\bin\Debug\netcoreapp1.1\02. Bank Account Methods.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\02. Bank Account Methods\obj\Debug\netcoreapp1.1\02. Bank Account Methods.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\02. Bank Account Methods\obj\Debug\netcoreapp1.1\02. Bank Account Methods.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\02. Bank Account Methods\obj\Debug\netcoreapp1.1\02. Bank Account Methods.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\02. Bank Account Methods\obj\Debug\netcoreapp1.1\02. Bank Account Methods.pdb

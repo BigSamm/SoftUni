@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\09.Linked_List_Traversal\bin\Debug\netcoreapp2.0\09.Linked_List_Traversal.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\09.Linked_List_Traversal\bin\Debug\netcoreapp2.0\09.Linked_List_Traversal.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\09.Linked_List_Traversal\bin\Debug\netcoreapp2.0\09.Linked_List_Traversal.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\09.Linked_List_Traversal\bin\Debug\netcoreapp2.0\09.Linked_List_Traversal.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\09.Linked_List_Traversal\bin\Debug\netcoreapp2.0\09.Linked_List_Traversal.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\09.Linked_List_Traversal\obj\Debug\netcoreapp2.0\09.Linked_List_Traversal.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\09.Linked_List_Traversal\obj\Debug\netcoreapp2.0\09.Linked_List_Traversal.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\09.Linked_List_Traversal\obj\Debug\netcoreapp2.0\09.Linked_List_Traversal.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\09.Linked_List_Traversal\obj\Debug\netcoreapp2.0\09.Linked_List_Traversal.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\09.Linked_List_Traversal\obj\Debug\netcoreapp2.0\09.Linked_List_Traversal.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\09.Linked_List_Traversal\obj\Debug\netcoreapp2.0\09.Linked_List_Traversal.pdb

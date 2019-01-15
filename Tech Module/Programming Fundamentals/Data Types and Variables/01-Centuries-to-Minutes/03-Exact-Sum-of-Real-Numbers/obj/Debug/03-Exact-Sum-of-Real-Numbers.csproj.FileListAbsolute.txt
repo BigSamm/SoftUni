@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\03-Exact-Sum-of-Real-Numbers\bin\Debug\03-Exact-Sum-of-Real-Numbers.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\03-Exact-Sum-of-Real-Numbers\bin\Debug\03-Exact-Sum-of-Real-Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\03-Exact-Sum-of-Real-Numbers\bin\Debug\03-Exact-Sum-of-Real-Numbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\03-Exact-Sum-of-Real-Numbers\obj\Debug\03-Exact-Sum-of-Real-Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\03-Exact-Sum-of-Real-Numbers\obj\Debug\03-Exact-Sum-of-Real-Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\03-Exact-Sum-of-Real-Numbers\obj\Debug\03-Exact-Sum-of-Real-Numbers.pdb

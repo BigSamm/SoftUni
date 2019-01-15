@@ -1,0 +1,11 @@
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\03.Request_Parser\bin\Debug\netcoreapp2.0\03.Request_Parser.deps.json
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\03.Request_Parser\bin\Debug\netcoreapp2.0\03.Request_Parser.runtimeconfig.json
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\03.Request_Parser\bin\Debug\netcoreapp2.0\03.Request_Parser.runtimeconfig.dev.json
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\03.Request_Parser\bin\Debug\netcoreapp2.0\03.Request_Parser.dll
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\03.Request_Parser\bin\Debug\netcoreapp2.0\03.Request_Parser.pdb
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\03.Request_Parser\obj\Debug\netcoreapp2.0\03.Request_Parser.csprojAssemblyReference.cache
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\03.Request_Parser\obj\Debug\netcoreapp2.0\03.Request_Parser.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\03.Request_Parser\obj\Debug\netcoreapp2.0\03.Request_Parser.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\03.Request_Parser\obj\Debug\netcoreapp2.0\03.Request_Parser.AssemblyInfo.cs
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\03.Request_Parser\obj\Debug\netcoreapp2.0\03.Request_Parser.dll
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\03.Request_Parser\obj\Debug\netcoreapp2.0\03.Request_Parser.pdb

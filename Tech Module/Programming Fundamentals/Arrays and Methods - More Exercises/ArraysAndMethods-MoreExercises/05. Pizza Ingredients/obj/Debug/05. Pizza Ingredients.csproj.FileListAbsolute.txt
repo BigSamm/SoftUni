@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\05. Pizza Ingredients\obj\Debug\05. Pizza Ingredients.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\05. Pizza Ingredients\obj\Debug\_05.Pizza_Ingredients.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\05. Pizza Ingredients\obj\Debug\_05.Pizza_Ingredients.pdb

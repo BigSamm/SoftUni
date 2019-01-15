@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\08-House-Builder\bin\Debug\08-House-Builder.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\08-House-Builder\bin\Debug\08-House-Builder.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\08-House-Builder\bin\Debug\08-House-Builder.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\08-House-Builder\obj\Debug\08-House-Builder.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\08-House-Builder\obj\Debug\08-House-Builder.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\08-House-Builder\obj\Debug\08-House-Builder.pdb

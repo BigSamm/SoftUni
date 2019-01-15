@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\02. Sneaking\bin\Debug\netcoreapp1.1\02. Sneaking.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\02. Sneaking\bin\Debug\netcoreapp1.1\02. Sneaking.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\02. Sneaking\bin\Debug\netcoreapp1.1\02. Sneaking.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\02. Sneaking\bin\Debug\netcoreapp1.1\02. Sneaking.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\02. Sneaking\bin\Debug\netcoreapp1.1\02. Sneaking.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\02. Sneaking\obj\Debug\netcoreapp1.1\02. Sneaking.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\02. Sneaking\obj\Debug\netcoreapp1.1\02. Sneaking.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\02. Sneaking\obj\Debug\netcoreapp1.1\02. Sneaking.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\02. Sneaking\obj\Debug\netcoreapp1.1\02. Sneaking.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\4ti chas\Complex-Conditions\07-Fruit-Shop\bin\Debug\07-Fruit-Shop.exe.config
+E:\SoftUni\4ti chas\Complex-Conditions\07-Fruit-Shop\bin\Debug\07-Fruit-Shop.exe
+E:\SoftUni\4ti chas\Complex-Conditions\07-Fruit-Shop\bin\Debug\07-Fruit-Shop.pdb
+E:\SoftUni\4ti chas\Complex-Conditions\07-Fruit-Shop\obj\Debug\07-Fruit-Shop.csprojResolveAssemblyReference.cache
+E:\SoftUni\4ti chas\Complex-Conditions\07-Fruit-Shop\obj\Debug\07-Fruit-Shop.exe
+E:\SoftUni\4ti chas\Complex-Conditions\07-Fruit-Shop\obj\Debug\07-Fruit-Shop.pdb

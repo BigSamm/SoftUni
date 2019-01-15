@@ -1,0 +1,41 @@
+﻿@model Eventures.ViewModels.Events.AllEventsViewModel
+
+@{
+    ViewData["Title"] = "All Events";
+}
+
+<h1 class="text-center">All Events</h1>
+<hr class="hr-2" />
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Start</th>
+            <th scope="col">End</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{ int index = 1; }
+        @foreach (var item in Model.Events)
+        {
+            <tr>
+                <th scope="row">@index</th>
+                <td>@item.Name</td>
+                <td>@item.StartStr</td>
+                <td>@item.EndStr</td>
+                <td>
+                    <form asp-controller="Orders" asp-action="Order" method="post" class="form-inline">
+                        <input type="hidden" name="eventId" value="@item.Id" />
+                        <label class="control-label font-weight-bold">Tickets</label>
+                        <input type="number" min="1" step="1" name="tickets" class="form-control m-1" />
+                        <input type="submit" value="Order" class="btn eventures-bg-color" />
+                    </form>
+                </td>
+            </tr>
+
+            index++;
+        }
+    </tbody>
+</table>

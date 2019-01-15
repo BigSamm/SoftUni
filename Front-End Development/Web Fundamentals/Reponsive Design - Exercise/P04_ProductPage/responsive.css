@@ -1,0 +1,16 @@
+@media screen and (max-width: 640px) {
+    body {
+        max-width: 100%;
+    }
+    .wrap {
+        width: 100%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    #products-liked-list {
+        text-align: center;
+    }
+    #header-top-area h1, #header-top-area h2, #header-top-area > a, .box {
+        background: url(images/sprite.png) no-repeat 155px -65px;
+    }
+}

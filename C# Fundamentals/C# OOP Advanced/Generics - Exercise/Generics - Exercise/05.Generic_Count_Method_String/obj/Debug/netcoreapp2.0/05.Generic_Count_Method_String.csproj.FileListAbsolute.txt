@@ -1,0 +1,14 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\05.Generic_Count_Method_String\bin\Debug\netcoreapp2.0\05.Generic_Count_Method_String.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\05.Generic_Count_Method_String\bin\Debug\netcoreapp2.0\05.Generic_Count_Method_String.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\05.Generic_Count_Method_String\bin\Debug\netcoreapp2.0\05.Generic_Count_Method_String.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\05.Generic_Count_Method_String\bin\Debug\netcoreapp2.0\05.Generic_Count_Method_String.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\05.Generic_Count_Method_String\bin\Debug\netcoreapp2.0\05.Generic_Count_Method_String.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\05.Generic_Count_Method_String\bin\Debug\netcoreapp2.0\00.Generic_Box.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\05.Generic_Count_Method_String\bin\Debug\netcoreapp2.0\00.Generic_Box.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\05.Generic_Count_Method_String\obj\Debug\netcoreapp2.0\05.Generic_Count_Method_String.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\05.Generic_Count_Method_String\obj\Debug\netcoreapp2.0\05.Generic_Count_Method_String.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\05.Generic_Count_Method_String\obj\Debug\netcoreapp2.0\05.Generic_Count_Method_String.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\05.Generic_Count_Method_String\obj\Debug\netcoreapp2.0\05.Generic_Count_Method_String.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\05.Generic_Count_Method_String\obj\Debug\netcoreapp2.0\05.Generic_Count_Method_String.csproj.CopyComplete
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\05.Generic_Count_Method_String\obj\Debug\netcoreapp2.0\05.Generic_Count_Method_String.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\05.Generic_Count_Method_String\obj\Debug\netcoreapp2.0\05.Generic_Count_Method_String.pdb

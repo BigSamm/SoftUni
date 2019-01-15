@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\3. Word Count\bin\Debug\netcoreapp2.0\3. Word Count.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\3. Word Count\bin\Debug\netcoreapp2.0\3. Word Count.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\3. Word Count\bin\Debug\netcoreapp2.0\3. Word Count.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\3. Word Count\bin\Debug\netcoreapp2.0\3. Word Count.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\3. Word Count\bin\Debug\netcoreapp2.0\3. Word Count.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\3. Word Count\obj\Debug\netcoreapp2.0\3. Word Count.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\3. Word Count\obj\Debug\netcoreapp2.0\3. Word Count.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\3. Word Count\obj\Debug\netcoreapp2.0\3. Word Count.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\3. Word Count\obj\Debug\netcoreapp2.0\3. Word Count.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\3. Word Count\obj\Debug\netcoreapp2.0\3. Word Count.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\3. Word Count\obj\Debug\netcoreapp2.0\3. Word Count.csprojResolveAssemblyReference.cache

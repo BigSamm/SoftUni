@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\07. Query Mess\bin\Debug\_07.Query_Mess.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\07. Query Mess\bin\Debug\_07.Query_Mess.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\07. Query Mess\bin\Debug\_07.Query_Mess.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\07. Query Mess\obj\Debug\07. Query Mess.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\07. Query Mess\obj\Debug\_07.Query_Mess.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\07. Query Mess\obj\Debug\_07.Query_Mess.pdb

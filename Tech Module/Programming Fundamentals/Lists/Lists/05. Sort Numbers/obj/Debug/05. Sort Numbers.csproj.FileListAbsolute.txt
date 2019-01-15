@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.pdb

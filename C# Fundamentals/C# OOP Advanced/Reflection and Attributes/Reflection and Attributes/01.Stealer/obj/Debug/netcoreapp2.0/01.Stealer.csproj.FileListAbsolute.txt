@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\01.Stealer\bin\Debug\netcoreapp2.0\01.Stealer.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\01.Stealer\bin\Debug\netcoreapp2.0\01.Stealer.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\01.Stealer\bin\Debug\netcoreapp2.0\01.Stealer.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\01.Stealer\bin\Debug\netcoreapp2.0\01.Stealer.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\01.Stealer\bin\Debug\netcoreapp2.0\01.Stealer.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\01.Stealer\obj\Debug\netcoreapp2.0\01.Stealer.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\01.Stealer\obj\Debug\netcoreapp2.0\01.Stealer.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\01.Stealer\obj\Debug\netcoreapp2.0\01.Stealer.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\01.Stealer\obj\Debug\netcoreapp2.0\01.Stealer.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\01.Stealer\obj\Debug\netcoreapp2.0\01.Stealer.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\01.Stealer\obj\Debug\netcoreapp2.0\01.Stealer.pdb

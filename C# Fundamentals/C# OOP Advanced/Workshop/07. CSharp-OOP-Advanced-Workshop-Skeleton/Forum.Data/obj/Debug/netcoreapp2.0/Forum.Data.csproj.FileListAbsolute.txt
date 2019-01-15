@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Data\bin\Debug\netcoreapp2.0\Forum.DataModels.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Data\bin\Debug\netcoreapp2.0\Forum.DataModels.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csproj.CopyComplete
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.pdb

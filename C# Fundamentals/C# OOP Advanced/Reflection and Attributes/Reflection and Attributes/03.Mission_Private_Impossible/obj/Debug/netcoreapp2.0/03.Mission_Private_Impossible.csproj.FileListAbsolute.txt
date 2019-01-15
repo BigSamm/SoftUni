@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\03.Mission_Private_Impossible\bin\Debug\netcoreapp2.0\03.Mission_Private_Impossible.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\03.Mission_Private_Impossible\bin\Debug\netcoreapp2.0\03.Mission_Private_Impossible.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\03.Mission_Private_Impossible\bin\Debug\netcoreapp2.0\03.Mission_Private_Impossible.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\03.Mission_Private_Impossible\bin\Debug\netcoreapp2.0\03.Mission_Private_Impossible.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\03.Mission_Private_Impossible\bin\Debug\netcoreapp2.0\03.Mission_Private_Impossible.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\03.Mission_Private_Impossible\obj\Debug\netcoreapp2.0\03.Mission_Private_Impossible.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\03.Mission_Private_Impossible\obj\Debug\netcoreapp2.0\03.Mission_Private_Impossible.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\03.Mission_Private_Impossible\obj\Debug\netcoreapp2.0\03.Mission_Private_Impossible.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\03.Mission_Private_Impossible\obj\Debug\netcoreapp2.0\03.Mission_Private_Impossible.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\03.Mission_Private_Impossible\obj\Debug\netcoreapp2.0\03.Mission_Private_Impossible.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\03.Mission_Private_Impossible\obj\Debug\netcoreapp2.0\03.Mission_Private_Impossible.pdb

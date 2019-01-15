@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\03. Safe Manipulation\obj\Debug\_03.Safe_Manipulation.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\03. Safe Manipulation\obj\Debug\_03.Safe_Manipulation.pdb

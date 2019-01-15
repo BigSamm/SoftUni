@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\05.Mordors_Cruel_Plan\bin\Debug\netcoreapp2.0\05.Mordors_Cruel_Plan.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\05.Mordors_Cruel_Plan\bin\Debug\netcoreapp2.0\05.Mordors_Cruel_Plan.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\05.Mordors_Cruel_Plan\bin\Debug\netcoreapp2.0\05.Mordors_Cruel_Plan.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\05.Mordors_Cruel_Plan\bin\Debug\netcoreapp2.0\05.Mordors_Cruel_Plan.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\05.Mordors_Cruel_Plan\bin\Debug\netcoreapp2.0\05.Mordors_Cruel_Plan.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\05.Mordors_Cruel_Plan\obj\Debug\netcoreapp2.0\05.Mordors_Cruel_Plan.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\05.Mordors_Cruel_Plan\obj\Debug\netcoreapp2.0\05.Mordors_Cruel_Plan.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\05.Mordors_Cruel_Plan\obj\Debug\netcoreapp2.0\05.Mordors_Cruel_Plan.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\05.Mordors_Cruel_Plan\obj\Debug\netcoreapp2.0\05.Mordors_Cruel_Plan.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\05.Mordors_Cruel_Plan\obj\Debug\netcoreapp2.0\05.Mordors_Cruel_Plan.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\05.Mordors_Cruel_Plan\obj\Debug\netcoreapp2.0\05.Mordors_Cruel_Plan.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\01.URL_Decode\bin\Debug\netcoreapp2.0\01.URL_Decode.deps.json
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\01.URL_Decode\bin\Debug\netcoreapp2.0\01.URL_Decode.runtimeconfig.json
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\01.URL_Decode\bin\Debug\netcoreapp2.0\01.URL_Decode.runtimeconfig.dev.json
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\01.URL_Decode\bin\Debug\netcoreapp2.0\01.URL_Decode.dll
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\01.URL_Decode\bin\Debug\netcoreapp2.0\01.URL_Decode.pdb
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\01.URL_Decode\obj\Debug\netcoreapp2.0\01.URL_Decode.csprojAssemblyReference.cache
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\01.URL_Decode\obj\Debug\netcoreapp2.0\01.URL_Decode.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\01.URL_Decode\obj\Debug\netcoreapp2.0\01.URL_Decode.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\01.URL_Decode\obj\Debug\netcoreapp2.0\01.URL_Decode.AssemblyInfo.cs
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\01.URL_Decode\obj\Debug\netcoreapp2.0\01.URL_Decode.dll
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\01.URL_Decode\obj\Debug\netcoreapp2.0\01.URL_Decode.pdb

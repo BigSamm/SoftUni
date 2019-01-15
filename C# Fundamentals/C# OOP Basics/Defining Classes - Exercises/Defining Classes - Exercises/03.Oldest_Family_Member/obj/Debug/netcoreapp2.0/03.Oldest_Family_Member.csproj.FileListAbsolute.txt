@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\03.Oldest_Family_Member\bin\Debug\netcoreapp2.0\03.Oldest_Family_Member.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\03.Oldest_Family_Member\bin\Debug\netcoreapp2.0\03.Oldest_Family_Member.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\03.Oldest_Family_Member\bin\Debug\netcoreapp2.0\03.Oldest_Family_Member.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\03.Oldest_Family_Member\bin\Debug\netcoreapp2.0\03.Oldest_Family_Member.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\03.Oldest_Family_Member\bin\Debug\netcoreapp2.0\03.Oldest_Family_Member.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\03.Oldest_Family_Member\obj\Debug\netcoreapp2.0\03.Oldest_Family_Member.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\03.Oldest_Family_Member\obj\Debug\netcoreapp2.0\03.Oldest_Family_Member.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\03.Oldest_Family_Member\obj\Debug\netcoreapp2.0\03.Oldest_Family_Member.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\03.Oldest_Family_Member\obj\Debug\netcoreapp2.0\03.Oldest_Family_Member.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\03.Oldest_Family_Member\obj\Debug\netcoreapp2.0\03.Oldest_Family_Member.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\03.Oldest_Family_Member\obj\Debug\netcoreapp2.0\03.Oldest_Family_Member.pdb

@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\03. Crypto Blockchain\bin\Debug\netcoreapp1.1\03. Crypto Blockchain.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\03. Crypto Blockchain\bin\Debug\netcoreapp1.1\03. Crypto Blockchain.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\03. Crypto Blockchain\bin\Debug\netcoreapp1.1\03. Crypto Blockchain.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\03. Crypto Blockchain\bin\Debug\netcoreapp1.1\03. Crypto Blockchain.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\03. Crypto Blockchain\bin\Debug\netcoreapp1.1\03. Crypto Blockchain.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\03. Crypto Blockchain\obj\Debug\netcoreapp1.1\03. Crypto Blockchain.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\03. Crypto Blockchain\obj\Debug\netcoreapp1.1\03. Crypto Blockchain.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\03. Crypto Blockchain\obj\Debug\netcoreapp1.1\03. Crypto Blockchain.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\03. Crypto Blockchain\obj\Debug\netcoreapp1.1\03. Crypto Blockchain.pdb

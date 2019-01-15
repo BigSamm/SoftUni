@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\01. Odd Lines\bin\Debug\netcoreapp2.0\01. Odd Lines.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\01. Odd Lines\bin\Debug\netcoreapp2.0\01. Odd Lines.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\01. Odd Lines\bin\Debug\netcoreapp2.0\01. Odd Lines.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\01. Odd Lines\bin\Debug\netcoreapp2.0\01. Odd Lines.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\01. Odd Lines\bin\Debug\netcoreapp2.0\01. Odd Lines.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\01. Odd Lines\obj\Debug\netcoreapp2.0\01. Odd Lines.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\01. Odd Lines\obj\Debug\netcoreapp2.0\01. Odd Lines.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\01. Odd Lines\obj\Debug\netcoreapp2.0\01. Odd Lines.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\01. Odd Lines\obj\Debug\netcoreapp2.0\01. Odd Lines.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\01. Odd Lines\obj\Debug\netcoreapp2.0\01. Odd Lines.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\01. Odd Lines\obj\Debug\netcoreapp2.0\01. Odd Lines.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Debit-Card-Number\04-Beverage-Labels\bin\Debug\04-Beverage-Labels.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Debit-Card-Number\04-Beverage-Labels\bin\Debug\04-Beverage-Labels.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Debit-Card-Number\04-Beverage-Labels\bin\Debug\04-Beverage-Labels.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Debit-Card-Number\04-Beverage-Labels\obj\Debug\04-Beverage-Labels.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Debit-Card-Number\04-Beverage-Labels\obj\Debug\04-Beverage-Labels.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Debit-Card-Number\04-Beverage-Labels\obj\Debug\04-Beverage-Labels.pdb

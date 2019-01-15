@@ -1,0 +1,2 @@
+E:\SoftUni\Exam - 20 November 2016\Exam\04-Logistics\bin\Debug\04-Logistics.exe.config
+E:\SoftUni\Exam - 20 November 2016\Exam\04-Logistics\obj\Debug\04-Logistics.csprojResolveAssemblyReference.cache

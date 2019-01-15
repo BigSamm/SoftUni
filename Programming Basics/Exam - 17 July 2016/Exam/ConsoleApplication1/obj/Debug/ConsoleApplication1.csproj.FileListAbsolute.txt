@@ -1,0 +1,6 @@
+E:\SoftUni\Exam - 17 July 2016\Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\SoftUni\Exam - 17 July 2016\Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\SoftUni\Exam - 17 July 2016\Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\SoftUni\Exam - 17 July 2016\Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\SoftUni\Exam - 17 July 2016\Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\SoftUni\Exam - 17 July 2016\Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

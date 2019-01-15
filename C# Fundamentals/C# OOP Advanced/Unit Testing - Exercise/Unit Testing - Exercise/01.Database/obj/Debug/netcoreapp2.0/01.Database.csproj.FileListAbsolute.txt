@@ -1,0 +1,15 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\01.Database\bin\Debug\netcoreapp2.0\01.Database.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\01.Database\bin\Debug\netcoreapp2.0\01.Database.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\01.Database\bin\Debug\netcoreapp2.0\01.Database.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\01.Database\bin\Debug\netcoreapp2.0\01.Database.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\01.Database\obj\Debug\netcoreapp2.0\01.Database.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\01.Database\obj\Debug\netcoreapp2.0\01.Database.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\01.Database\obj\Debug\netcoreapp2.0\01.Database.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\01.Database\obj\Debug\netcoreapp2.0\01.Database.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\01.Database\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\01.Database\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\01.Database\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\01.Database\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\01.Database\bin\Debug\netcoreapp2.0\01.Database.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\01.Database\obj\Debug\netcoreapp2.0\01.Database.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\01.Database\obj\Debug\netcoreapp2.0\01.Database.pdb

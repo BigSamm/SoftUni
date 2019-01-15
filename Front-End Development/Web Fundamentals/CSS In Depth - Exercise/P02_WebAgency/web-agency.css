@@ -1,0 +1,91 @@
+@import "https://fonts.googleapis.com/css?family=Lato:300,400,900";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+    font-size: 16px;
+    background-color: #24437c;
+    color: white;
+}
+
+.nav-primary {
+    float: right;
+    margin-right: 30px;
+}
+.nav-item {
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 35px;
+    margin-right: 20px;
+    color: white;
+    text-transform: capitalize;
+}
+.nav-item a {
+    color: white;
+    text-decoration: none;
+}
+.cta-btn {
+    background-color: #3dc1ef;
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
+}
+
+.nav-brand {
+
+}
+
+.header-title {
+    font-size: 80px;
+    text-align: center;
+    margin-top: 250px;
+    font-weight: lighter;
+    text-transform: capitalize;
+}
+
+.header-subtitle {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: lighter;
+    text-transform: capitalize;
+    color: #4e7e9a;
+}
+
+#button-container {
+    text-align: center;
+    margin-top: 50px;
+    text-transform: capitalize;
+}
+.header-btn.cta-btn {
+    padding: 10px 20px;
+}
+
+.header-services {
+    margin-top: 100px;
+}
+.service {
+    display: inline-block;
+    width: 15%;
+    margin-left: 200px;
+    padding: 80px 40px;
+}
+.service:hover {
+    background-color: #3dc1ef;
+}
+.service-title {
+    margin-bottom: 40px;
+    width: 70%;
+    text-transform: capitalize;
+    font-weight: lighter;
+    margin-left: 60px;
+}
+.service-link{
+    display: block;
+    margin: 20px 0;
+    color: white;
+    text-decoration: none;
+}

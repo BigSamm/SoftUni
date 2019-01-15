@@ -1,0 +1,5 @@
+E:\SoftUni\4ti chas\Complex-Conditions\06-Point-on-Rectangle-Border\bin\Debug\06-Point-on-Rectangle-Border.exe.config
+E:\SoftUni\4ti chas\Complex-Conditions\06-Point-on-Rectangle-Border\bin\Debug\06-Point-on-Rectangle-Border.exe
+E:\SoftUni\4ti chas\Complex-Conditions\06-Point-on-Rectangle-Border\bin\Debug\06-Point-on-Rectangle-Border.pdb
+E:\SoftUni\4ti chas\Complex-Conditions\06-Point-on-Rectangle-Border\obj\Debug\06-Point-on-Rectangle-Border.exe
+E:\SoftUni\4ti chas\Complex-Conditions\06-Point-on-Rectangle-Border\obj\Debug\06-Point-on-Rectangle-Border.pdb

@@ -1,0 +1,14 @@
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P10_DepartmentsWithMoreThan5Employees\bin\Debug\netcoreapp2.0\P10_DepartmentsWithMoreThan5Employees.deps.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P10_DepartmentsWithMoreThan5Employees\bin\Debug\netcoreapp2.0\P10_DepartmentsWithMoreThan5Employees.runtimeconfig.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P10_DepartmentsWithMoreThan5Employees\bin\Debug\netcoreapp2.0\P10_DepartmentsWithMoreThan5Employees.runtimeconfig.dev.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P10_DepartmentsWithMoreThan5Employees\bin\Debug\netcoreapp2.0\P10_DepartmentsWithMoreThan5Employees.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P10_DepartmentsWithMoreThan5Employees\bin\Debug\netcoreapp2.0\P10_DepartmentsWithMoreThan5Employees.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P10_DepartmentsWithMoreThan5Employees\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P10_DepartmentsWithMoreThan5Employees\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P10_DepartmentsWithMoreThan5Employees\obj\Debug\netcoreapp2.0\P10_DepartmentsWithMoreThan5Employees.csprojAssemblyReference.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P10_DepartmentsWithMoreThan5Employees\obj\Debug\netcoreapp2.0\P10_DepartmentsWithMoreThan5Employees.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P10_DepartmentsWithMoreThan5Employees\obj\Debug\netcoreapp2.0\P10_DepartmentsWithMoreThan5Employees.AssemblyInfoInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P10_DepartmentsWithMoreThan5Employees\obj\Debug\netcoreapp2.0\P10_DepartmentsWithMoreThan5Employees.AssemblyInfo.cs
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P10_DepartmentsWithMoreThan5Employees\obj\Debug\netcoreapp2.0\P10_DepartmentsWithMoreThan5Employees.csproj.CopyComplete
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P10_DepartmentsWithMoreThan5Employees\obj\Debug\netcoreapp2.0\P10_DepartmentsWithMoreThan5Employees.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P10_DepartmentsWithMoreThan5Employees\obj\Debug\netcoreapp2.0\P10_DepartmentsWithMoreThan5Employees.pdb

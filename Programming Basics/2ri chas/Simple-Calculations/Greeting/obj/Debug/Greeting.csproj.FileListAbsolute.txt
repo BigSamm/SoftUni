@@ -1,0 +1,6 @@
+E:\SoftUni\2ri chas\Simple-Calculations\Greeting\bin\Debug\Greeting.exe.config
+E:\SoftUni\2ri chas\Simple-Calculations\Greeting\bin\Debug\Greeting.exe
+E:\SoftUni\2ri chas\Simple-Calculations\Greeting\bin\Debug\Greeting.pdb
+E:\SoftUni\2ri chas\Simple-Calculations\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
+E:\SoftUni\2ri chas\Simple-Calculations\Greeting\obj\Debug\Greeting.exe
+E:\SoftUni\2ri chas\Simple-Calculations\Greeting\obj\Debug\Greeting.pdb

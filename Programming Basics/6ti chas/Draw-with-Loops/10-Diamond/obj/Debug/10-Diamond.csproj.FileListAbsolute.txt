@@ -1,0 +1,6 @@
+E:\SoftUni\6ti chas\Draw-with-Loops\10-Diamond\bin\Debug\10-Diamond.exe.config
+E:\SoftUni\6ti chas\Draw-with-Loops\10-Diamond\bin\Debug\10-Diamond.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\10-Diamond\bin\Debug\10-Diamond.pdb
+E:\SoftUni\6ti chas\Draw-with-Loops\10-Diamond\obj\Debug\10-Diamond.csprojResolveAssemblyReference.cache
+E:\SoftUni\6ti chas\Draw-with-Loops\10-Diamond\obj\Debug\10-Diamond.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\10-Diamond\obj\Debug\10-Diamond.pdb

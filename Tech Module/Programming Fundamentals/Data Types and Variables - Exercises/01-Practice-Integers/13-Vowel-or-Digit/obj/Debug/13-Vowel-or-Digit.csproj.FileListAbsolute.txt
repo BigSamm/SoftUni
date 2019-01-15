@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\13-Vowel-or-Digit\bin\Debug\13-Vowel-or-Digit.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\13-Vowel-or-Digit\bin\Debug\13-Vowel-or-Digit.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\13-Vowel-or-Digit\bin\Debug\13-Vowel-or-Digit.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\13-Vowel-or-Digit\obj\Debug\13-Vowel-or-Digit.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\13-Vowel-or-Digit\obj\Debug\13-Vowel-or-Digit.pdb

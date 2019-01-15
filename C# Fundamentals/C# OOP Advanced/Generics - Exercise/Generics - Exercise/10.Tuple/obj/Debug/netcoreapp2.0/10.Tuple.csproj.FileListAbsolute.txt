@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\10.Tuple\bin\Debug\netcoreapp2.0\10.Tuple.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\10.Tuple\bin\Debug\netcoreapp2.0\10.Tuple.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\10.Tuple\bin\Debug\netcoreapp2.0\10.Tuple.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\10.Tuple\bin\Debug\netcoreapp2.0\10.Tuple.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\10.Tuple\bin\Debug\netcoreapp2.0\10.Tuple.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.csprojResolveAssemblyReference.cache

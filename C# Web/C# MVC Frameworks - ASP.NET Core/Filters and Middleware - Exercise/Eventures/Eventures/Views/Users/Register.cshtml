@@ -1,0 +1,61 @@
+﻿@model Eventures.ViewModels.Users.UserRegisterViewModel
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1 class="text-center">Register</h1>
+<hr class="w-75 hr-2" />
+<form method="post" class="mx-auto w-75 text-center font-weight-bold">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="row d-flex justify-content-between">
+        <div class="form-group col-5">
+            <label asp-for="Username" class="control-label"></label>
+            <input asp-for="Username" class="form-control" placeholder="Username..." />
+            <span asp-validation-for="Username" class="text-danger"></span>
+        </div>
+        <div class="form-group col-5">
+            <label asp-for="Email" class="control-label"></label>
+            <input asp-for="Email" class="form-control" placeholder="Email..." />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="row d-flex justify-content-between">
+        <div class="form-group col-6">
+            <label asp-for="Password" class="control-label"></label>
+            <input asp-for="Password" class="form-control" placeholder="Password..." />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+        <div class="form-group col-6">
+            <label asp-for="ConfirmPassword" class="control-label"></label>
+            <input asp-for="ConfirmPassword" class="form-control" placeholder="Confirm Password..." />
+            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+        </div>
+    </div>
+    <hr class="hr-2" />
+    <div class="row d-flex justify-content-between">
+        <div class="form-group col-6">
+            <label asp-for="FirstName" class="control-label"></label>
+            <input asp-for="FirstName" class="form-control" placeholder="First Name..." />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+        <div class="form-group col-6">
+            <label asp-for="LastName" class="control-label"></label>
+            <input asp-for="LastName" class="form-control" placeholder="Last Name..." />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="UCN" class="control-label"></label>
+        <input asp-for="UCN" class="form-control" placeholder="Universal Citizen Number..." />
+        <span asp-validation-for="UCN" class="text-danger"></span>
+    </div>
+    <hr class="hr-2 mt-5" />
+    <div class="button-holder d-flex justify-content-center">
+        <input type="submit" value="Register" class="btn eventures-bg-color" />
+    </div>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

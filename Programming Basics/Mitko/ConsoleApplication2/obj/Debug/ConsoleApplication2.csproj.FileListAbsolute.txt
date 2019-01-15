@@ -1,0 +1,5 @@
+E:\SoftUni\Mitko\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+E:\SoftUni\Mitko\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+E:\SoftUni\Mitko\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+E:\SoftUni\Mitko\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+E:\SoftUni\Mitko\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

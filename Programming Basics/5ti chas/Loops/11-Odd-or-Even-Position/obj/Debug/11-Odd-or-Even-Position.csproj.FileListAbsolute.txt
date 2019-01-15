@@ -1,0 +1,6 @@
+E:\SoftUni\5ti chas\Loops\11-Odd-or-Even-Position\bin\Debug\11-Odd-or-Even-Position.exe.config
+E:\SoftUni\5ti chas\Loops\11-Odd-or-Even-Position\obj\Debug\11-Odd-or-Even-Position.csprojResolveAssemblyReference.cache
+E:\SoftUni\5ti chas\Loops\11-Odd-or-Even-Position\bin\Debug\11-Odd-or-Even-Position.exe
+E:\SoftUni\5ti chas\Loops\11-Odd-or-Even-Position\bin\Debug\11-Odd-or-Even-Position.pdb
+E:\SoftUni\5ti chas\Loops\11-Odd-or-Even-Position\obj\Debug\11-Odd-or-Even-Position.exe
+E:\SoftUni\5ti chas\Loops\11-Odd-or-Even-Position\obj\Debug\11-Odd-or-Even-Position.pdb

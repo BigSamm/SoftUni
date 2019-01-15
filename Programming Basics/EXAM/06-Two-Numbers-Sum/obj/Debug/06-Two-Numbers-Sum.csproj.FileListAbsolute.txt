@@ -1,0 +1,6 @@
+E:\SoftUni\EXAM\06-Two-Numbers-Sum\bin\Debug\06-Two-Numbers-Sum.exe.config
+E:\SoftUni\EXAM\06-Two-Numbers-Sum\bin\Debug\06-Two-Numbers-Sum.exe
+E:\SoftUni\EXAM\06-Two-Numbers-Sum\bin\Debug\06-Two-Numbers-Sum.pdb
+E:\SoftUni\EXAM\06-Two-Numbers-Sum\obj\Debug\06-Two-Numbers-Sum.exe
+E:\SoftUni\EXAM\06-Two-Numbers-Sum\obj\Debug\06-Two-Numbers-Sum.pdb
+E:\SoftUni\EXAM\06-Two-Numbers-Sum\obj\Debug\06-Two-Numbers-Sum.csprojResolveAssemblyReference.cache

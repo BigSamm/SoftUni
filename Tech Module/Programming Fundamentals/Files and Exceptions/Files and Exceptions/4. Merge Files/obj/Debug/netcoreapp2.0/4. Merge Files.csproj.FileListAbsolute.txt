@@ -1,0 +1,10 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\4. Merge Files\bin\Debug\netcoreapp2.0\4. Merge Files.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\4. Merge Files\bin\Debug\netcoreapp2.0\4. Merge Files.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\4. Merge Files\bin\Debug\netcoreapp2.0\4. Merge Files.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\4. Merge Files\bin\Debug\netcoreapp2.0\4. Merge Files.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\4. Merge Files\bin\Debug\netcoreapp2.0\4. Merge Files.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\4. Merge Files\obj\Debug\netcoreapp2.0\4. Merge Files.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\4. Merge Files\obj\Debug\netcoreapp2.0\4. Merge Files.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\4. Merge Files\obj\Debug\netcoreapp2.0\4. Merge Files.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\4. Merge Files\obj\Debug\netcoreapp2.0\4. Merge Files.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\4. Merge Files\obj\Debug\netcoreapp2.0\4. Merge Files.pdb

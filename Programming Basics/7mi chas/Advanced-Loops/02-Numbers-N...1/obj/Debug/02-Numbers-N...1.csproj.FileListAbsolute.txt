@@ -1,0 +1,5 @@
+E:\SoftUni\6ti chas\Advanced-Loops\02-Numbers-N...1\bin\Debug\_02_Numbers_N._._._1.exe.config
+E:\SoftUni\6ti chas\Advanced-Loops\02-Numbers-N...1\bin\Debug\_02_Numbers_N._._._1.exe
+E:\SoftUni\6ti chas\Advanced-Loops\02-Numbers-N...1\bin\Debug\_02_Numbers_N._._._1.pdb
+E:\SoftUni\6ti chas\Advanced-Loops\02-Numbers-N...1\obj\Debug\_02_Numbers_N._._._1.exe
+E:\SoftUni\6ti chas\Advanced-Loops\02-Numbers-N...1\obj\Debug\_02_Numbers_N._._._1.pdb

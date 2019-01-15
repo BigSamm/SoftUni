@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\05-Boolean-Variable\bin\Debug\05-Boolean-Variable.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\05-Boolean-Variable\bin\Debug\05-Boolean-Variable.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\05-Boolean-Variable\bin\Debug\05-Boolean-Variable.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\05-Boolean-Variable\obj\Debug\05-Boolean-Variable.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\05-Boolean-Variable\obj\Debug\05-Boolean-Variable.pdb

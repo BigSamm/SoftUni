@@ -1,0 +1,6 @@
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\01-Fishland\bin\Debug\01-Fishland.exe.config
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\01-Fishland\bin\Debug\01-Fishland.exe
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\01-Fishland\bin\Debug\01-Fishland.pdb
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\01-Fishland\obj\Debug\01-Fishland.csprojResolveAssemblyReference.cache
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\01-Fishland\obj\Debug\01-Fishland.exe
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\01-Fishland\obj\Debug\01-Fishland.pdb

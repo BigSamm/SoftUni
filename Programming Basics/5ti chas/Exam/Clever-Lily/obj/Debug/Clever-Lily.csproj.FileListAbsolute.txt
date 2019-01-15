@@ -1,0 +1,6 @@
+E:\SoftUni\5ti chas\Exam\Clever-Lily\bin\Debug\Clever-Lily.exe.config
+E:\SoftUni\5ti chas\Exam\Clever-Lily\bin\Debug\Clever-Lily.exe
+E:\SoftUni\5ti chas\Exam\Clever-Lily\bin\Debug\Clever-Lily.pdb
+E:\SoftUni\5ti chas\Exam\Clever-Lily\obj\Debug\Clever-Lily.csprojResolveAssemblyReference.cache
+E:\SoftUni\5ti chas\Exam\Clever-Lily\obj\Debug\Clever-Lily.exe
+E:\SoftUni\5ti chas\Exam\Clever-Lily\obj\Debug\Clever-Lily.pdb

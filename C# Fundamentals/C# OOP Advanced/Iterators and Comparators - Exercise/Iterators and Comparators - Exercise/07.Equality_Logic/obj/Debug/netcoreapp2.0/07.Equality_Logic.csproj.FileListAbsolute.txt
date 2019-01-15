@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\07.Equality_Logic\bin\Debug\netcoreapp2.0\07.Equality_Logic.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\07.Equality_Logic\bin\Debug\netcoreapp2.0\07.Equality_Logic.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\07.Equality_Logic\bin\Debug\netcoreapp2.0\07.Equality_Logic.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\07.Equality_Logic\bin\Debug\netcoreapp2.0\07.Equality_Logic.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\07.Equality_Logic\bin\Debug\netcoreapp2.0\07.Equality_Logic.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\07.Equality_Logic\obj\Debug\netcoreapp2.0\07.Equality_Logic.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\07.Equality_Logic\obj\Debug\netcoreapp2.0\07.Equality_Logic.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\07.Equality_Logic\obj\Debug\netcoreapp2.0\07.Equality_Logic.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\07.Equality_Logic\obj\Debug\netcoreapp2.0\07.Equality_Logic.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\07.Equality_Logic\obj\Debug\netcoreapp2.0\07.Equality_Logic.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\07.Equality_Logic\obj\Debug\netcoreapp2.0\07.Equality_Logic.pdb

@@ -1,0 +1,7 @@
+E:\SoftUni\8mi chas\Exam 28 August 2016\06-Numbers\bin\Debug\06-Numbers.exe.config
+E:\SoftUni\Exam 28 August 2016\06-Numbers\bin\Debug\06-Numbers.exe.config
+E:\SoftUni\Exam 28 August 2016\06-Numbers\bin\Debug\06-Numbers.exe
+E:\SoftUni\Exam 28 August 2016\06-Numbers\bin\Debug\06-Numbers.pdb
+E:\SoftUni\Exam 28 August 2016\06-Numbers\obj\Debug\06-Numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\Exam 28 August 2016\06-Numbers\obj\Debug\06-Numbers.exe
+E:\SoftUni\Exam 28 August 2016\06-Numbers\obj\Debug\06-Numbers.pdb

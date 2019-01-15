@@ -1,0 +1,14 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\02.Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\02.Generic_Box_of_Integer.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\02.Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\02.Generic_Box_of_Integer.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\02.Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\02.Generic_Box_of_Integer.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\02.Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\02.Generic_Box_of_Integer.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\02.Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\02.Generic_Box_of_Integer.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\02.Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\00.Generic_Box.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\02.Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\00.Generic_Box.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\02.Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\02.Generic_Box_of_Integer.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\02.Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\02.Generic_Box_of_Integer.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\02.Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\02.Generic_Box_of_Integer.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\02.Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\02.Generic_Box_of_Integer.csproj.CopyComplete
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\02.Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\02.Generic_Box_of_Integer.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\02.Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\02.Generic_Box_of_Integer.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\02.Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\02.Generic_Box_of_Integer.csprojResolveAssemblyReference.cache

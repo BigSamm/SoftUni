@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\08. Use Your Chains, Buddy\bin\Debug\_08.Use_Your_Chains__Buddy.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\08. Use Your Chains, Buddy\bin\Debug\_08.Use_Your_Chains__Buddy.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\08. Use Your Chains, Buddy\bin\Debug\_08.Use_Your_Chains__Buddy.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\08. Use Your Chains, Buddy\obj\Debug\08. Use Your Chains, Buddy.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\08. Use Your Chains, Buddy\obj\Debug\_08.Use_Your_Chains__Buddy.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\08. Use Your Chains, Buddy\obj\Debug\_08.Use_Your_Chains__Buddy.pdb

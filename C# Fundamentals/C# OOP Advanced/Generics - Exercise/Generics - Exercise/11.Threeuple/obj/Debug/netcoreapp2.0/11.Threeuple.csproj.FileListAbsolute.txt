@@ -1,0 +1,10 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.pdb

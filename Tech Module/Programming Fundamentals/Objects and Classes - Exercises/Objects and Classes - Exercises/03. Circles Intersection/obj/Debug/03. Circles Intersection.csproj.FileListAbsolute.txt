@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\03. Circles Intersection\obj\Debug\03. Circles Intersection.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\03. Circles Intersection\obj\Debug\_03.Circles_Intersection.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\03. Circles Intersection\obj\Debug\_03.Circles_Intersection.pdb

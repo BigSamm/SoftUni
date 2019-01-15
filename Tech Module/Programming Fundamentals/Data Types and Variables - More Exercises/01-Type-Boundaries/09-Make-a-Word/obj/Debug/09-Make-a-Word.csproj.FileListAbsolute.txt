@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\09-Make-a-Word\bin\Debug\09-Make-a-Word.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\09-Make-a-Word\bin\Debug\09-Make-a-Word.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\09-Make-a-Word\bin\Debug\09-Make-a-Word.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\09-Make-a-Word\obj\Debug\09-Make-a-Word.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\09-Make-a-Word\obj\Debug\09-Make-a-Word.pdb

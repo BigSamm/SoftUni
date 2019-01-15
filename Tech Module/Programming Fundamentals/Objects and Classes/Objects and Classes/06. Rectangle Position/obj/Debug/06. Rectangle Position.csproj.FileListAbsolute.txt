@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\06. Rectangle Position\obj\Debug\06. Rectangle Position.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\06. Rectangle Position\obj\Debug\_06.Rectangle_Position.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\06. Rectangle Position\obj\Debug\_06.Rectangle_Position.pdb

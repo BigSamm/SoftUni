@@ -1,0 +1,14 @@
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.deps.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.dev.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csprojAssemblyReference.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfoInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfo.cs
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csproj.CopyComplete
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.pdb

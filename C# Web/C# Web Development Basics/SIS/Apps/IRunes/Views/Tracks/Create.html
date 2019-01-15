@@ -1,0 +1,47 @@
+﻿<header>
+    <nav class="navbar navbar-expand-lg bg-success">
+        <a class="navbar-brand text-white" href="/">IRunes</a>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="/Albums/All">Albums</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="/Users/Logout">Logout</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <hr style="height: 2px" class="bg-success" />
+</header>
+
+<main>
+    <div class="container">
+        <h1 class="text-success text-center">Create Track</h1>
+        <hr style="height: 2px" class="bg-success" />
+        <form action="/Tracks/Create" method="post">
+            <div class="form-group">
+                <label>Name</label>
+                <input type="text" name="name" placeholder="Name..." class="form-control" />
+            </div>
+            <div class="d-flex justify-content-between">
+                <div class="form-group col-5 p-0">
+                    <label>Link</label>
+                    <input type="text" name="link" placeholder="Link..." class="form-control" />
+                </div>
+                <div class="form-group col-5 p-0">
+                    <label>Price</label>
+                    <input type="text" name="price" placeholder="Price..." class="form-control" />
+                </div>
+            </div>
+            <hr style="height: 2px" class="bg-success" />
+            <div class="d-flex justify-content-around">
+                <input type="submit" value="Create" class="btn btn-success" />
+                <a href="/Albums/Details?id={{albumId}}" class="btn btn-success">Back To Album</a>
+            </div>
+        </form>
+    </div>
+</main>

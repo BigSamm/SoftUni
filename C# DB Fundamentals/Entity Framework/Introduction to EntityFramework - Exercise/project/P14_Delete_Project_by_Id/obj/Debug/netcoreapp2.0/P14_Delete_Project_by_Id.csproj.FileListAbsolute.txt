@@ -1,0 +1,14 @@
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P14_Delete_Project_by_Id\bin\Debug\netcoreapp2.0\P14_Delete_Project_by_Id.deps.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P14_Delete_Project_by_Id\bin\Debug\netcoreapp2.0\P14_Delete_Project_by_Id.runtimeconfig.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P14_Delete_Project_by_Id\bin\Debug\netcoreapp2.0\P14_Delete_Project_by_Id.runtimeconfig.dev.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P14_Delete_Project_by_Id\bin\Debug\netcoreapp2.0\P14_Delete_Project_by_Id.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P14_Delete_Project_by_Id\bin\Debug\netcoreapp2.0\P14_Delete_Project_by_Id.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P14_Delete_Project_by_Id\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P14_Delete_Project_by_Id\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P14_Delete_Project_by_Id\obj\Debug\netcoreapp2.0\P14_Delete_Project_by_Id.csprojAssemblyReference.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P14_Delete_Project_by_Id\obj\Debug\netcoreapp2.0\P14_Delete_Project_by_Id.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P14_Delete_Project_by_Id\obj\Debug\netcoreapp2.0\P14_Delete_Project_by_Id.AssemblyInfoInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P14_Delete_Project_by_Id\obj\Debug\netcoreapp2.0\P14_Delete_Project_by_Id.AssemblyInfo.cs
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P14_Delete_Project_by_Id\obj\Debug\netcoreapp2.0\P14_Delete_Project_by_Id.csproj.CopyComplete
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P14_Delete_Project_by_Id\obj\Debug\netcoreapp2.0\P14_Delete_Project_by_Id.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P14_Delete_Project_by_Id\obj\Debug\netcoreapp2.0\P14_Delete_Project_by_Id.pdb

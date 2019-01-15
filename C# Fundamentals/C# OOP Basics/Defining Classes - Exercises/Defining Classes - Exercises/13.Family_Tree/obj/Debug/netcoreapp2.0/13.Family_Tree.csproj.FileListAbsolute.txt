@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\13.Family_Tree\bin\Debug\netcoreapp2.0\13.Family_Tree.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\13.Family_Tree\bin\Debug\netcoreapp2.0\13.Family_Tree.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\13.Family_Tree\bin\Debug\netcoreapp2.0\13.Family_Tree.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\13.Family_Tree\bin\Debug\netcoreapp2.0\13.Family_Tree.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\13.Family_Tree\bin\Debug\netcoreapp2.0\13.Family_Tree.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\13.Family_Tree\obj\Debug\netcoreapp2.0\13.Family_Tree.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\13.Family_Tree\obj\Debug\netcoreapp2.0\13.Family_Tree.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\13.Family_Tree\obj\Debug\netcoreapp2.0\13.Family_Tree.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\13.Family_Tree\obj\Debug\netcoreapp2.0\13.Family_Tree.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\13.Family_Tree\obj\Debug\netcoreapp2.0\13.Family_Tree.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\13.Family_Tree\obj\Debug\netcoreapp2.0\13.Family_Tree.csprojResolveAssemblyReference.cache

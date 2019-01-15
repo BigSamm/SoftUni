@@ -1,0 +1,9 @@
+E:\SoftUni\6ti chas\Advanced-Loops\06-Number-in-Range-[1...100]\bin\Debug\_06_Number_in_Range__1._._._100_.exe.config
+E:\SoftUni\6ti chas\Advanced-Loops\06-Number-in-Range-[1...100]\bin\Debug\_06_Number_in_Range__1._._._100_.exe
+E:\SoftUni\6ti chas\Advanced-Loops\06-Number-in-Range-[1...100]\bin\Debug\_06_Number_in_Range__1._._._100_.pdb
+E:\SoftUni\6ti chas\Advanced-Loops\06-Number-in-Range-[1...100]\obj\Debug\_06_Number_in_Range__1._._._100_.exe
+E:\SoftUni\6ti chas\Advanced-Loops\06-Number-in-Range-[1...100]\obj\Debug\_06_Number_in_Range__1._._._100_.pdb
+E:\SoftUni\6ti chas\Advanced-Loops\06-Number-in-Range-[1...100]\obj\Debug\06-Number-in-Range-[1...100].csprojResolveAssemblyReference.cache
+E:\SoftUni\7ti chas\Advanced-Loops\06-Number-in-Range-[1...100]\bin\Debug\_06_Number_in_Range__1._._._100_.exe.config
+E:\SoftUni\7ti chas\Advanced-Loops\06-Number-in-Range-[1...100]\obj\Debug\_06_Number_in_Range__1._._._100_.exe
+E:\SoftUni\7ti chas\Advanced-Loops\06-Number-in-Range-[1...100]\obj\Debug\_06_Number_in_Range__1._._._100_.pdb

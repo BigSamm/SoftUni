@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\05.Create_Attribute\bin\Debug\netcoreapp2.0\05.Create_Attribute.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\05.Create_Attribute\bin\Debug\netcoreapp2.0\05.Create_Attribute.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\05.Create_Attribute\bin\Debug\netcoreapp2.0\05.Create_Attribute.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\05.Create_Attribute\bin\Debug\netcoreapp2.0\05.Create_Attribute.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\05.Create_Attribute\bin\Debug\netcoreapp2.0\05.Create_Attribute.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\05.Create_Attribute\obj\Debug\netcoreapp2.0\05.Create_Attribute.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\05.Create_Attribute\obj\Debug\netcoreapp2.0\05.Create_Attribute.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\05.Create_Attribute\obj\Debug\netcoreapp2.0\05.Create_Attribute.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\05.Create_Attribute\obj\Debug\netcoreapp2.0\05.Create_Attribute.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\05.Create_Attribute\obj\Debug\netcoreapp2.0\05.Create_Attribute.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\05.Create_Attribute\obj\Debug\netcoreapp2.0\05.Create_Attribute.csprojResolveAssemblyReference.cache

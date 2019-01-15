@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\01. Key Revolver\bin\Debug\netcoreapp1.1\01. Key Revolver.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\01. Key Revolver\bin\Debug\netcoreapp1.1\01. Key Revolver.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\01. Key Revolver\bin\Debug\netcoreapp1.1\01. Key Revolver.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\01. Key Revolver\bin\Debug\netcoreapp1.1\01. Key Revolver.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\01. Key Revolver\bin\Debug\netcoreapp1.1\01. Key Revolver.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\01. Key Revolver\obj\Debug\netcoreapp1.1\01. Key Revolver.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\01. Key Revolver\obj\Debug\netcoreapp1.1\01. Key Revolver.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\01. Key Revolver\obj\Debug\netcoreapp1.1\01. Key Revolver.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\01. Key Revolver\obj\Debug\netcoreapp1.1\01. Key Revolver.pdb

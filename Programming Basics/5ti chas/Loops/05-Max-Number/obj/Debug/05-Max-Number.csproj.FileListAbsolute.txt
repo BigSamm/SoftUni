@@ -1,0 +1,6 @@
+E:\SoftUni\5ti chas\Loops\05-Max-Number\bin\Debug\05-Max-Number.exe.config
+E:\SoftUni\5ti chas\Loops\05-Max-Number\obj\Debug\05-Max-Number.csprojResolveAssemblyReference.cache
+E:\SoftUni\5ti chas\Loops\05-Max-Number\bin\Debug\05-Max-Number.exe
+E:\SoftUni\5ti chas\Loops\05-Max-Number\bin\Debug\05-Max-Number.pdb
+E:\SoftUni\5ti chas\Loops\05-Max-Number\obj\Debug\05-Max-Number.exe
+E:\SoftUni\5ti chas\Loops\05-Max-Number\obj\Debug\05-Max-Number.pdb

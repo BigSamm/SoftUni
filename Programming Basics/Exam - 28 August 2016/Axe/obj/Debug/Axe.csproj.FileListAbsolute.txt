@@ -1,0 +1,5 @@
+E:\SoftUni\8mi chas\Exam 28 August 2016\Axe\bin\Debug\Axe.exe.config
+E:\SoftUni\8mi chas\Exam 28 August 2016\Axe\bin\Debug\Axe.exe
+E:\SoftUni\8mi chas\Exam 28 August 2016\Axe\bin\Debug\Axe.pdb
+E:\SoftUni\8mi chas\Exam 28 August 2016\Axe\obj\Debug\Axe.exe
+E:\SoftUni\8mi chas\Exam 28 August 2016\Axe\obj\Debug\Axe.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\07. Count Numbers\bin\Debug\_07.Count_Numbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\07. Count Numbers\obj\Debug\07. Count Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\07. Count Numbers\obj\Debug\_07.Count_Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\07. Count Numbers\obj\Debug\_07.Count_Numbers.pdb

@@ -1,0 +1,35 @@
+﻿@model Eventures.ViewModels.Users.UsersAdministrationViewModel
+@{
+    ViewData["Title"] = "Administration";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center">Administration</h1>
+<hr class="hr-2" />
+
+<div class="d-flex justify-content-around">
+    <section class="w-25">
+        <h2 class="text-center">Administrators</h2>
+        <ul class="border border-dark rounded">
+            @foreach (var admin in Model.Admins)
+            {
+                <div class="row d-flex justify-content-between w-75  mt-5 mb-5 mx-auto">
+                    <li><b>@admin.UserName</b></li>
+                    <a href="/Users/Demote?id=@admin.Id" class="btn bg-primary text-white">Demote</a>
+                </div>
+            }
+        </ul>
+    </section>
+    <section class="w-25">
+        <h2 class="text-center">Users</h2>
+        <ul class="border border-dark rounded">
+            @foreach (var user in Model.Users)
+            {
+                <div class="row d-flex justify-content-between w-75  mt-5 mb-5 mx-auto">
+                    <li><b>@user.UserName</b></li>
+                    <a href="/Users/Promote?id=@user.Id" class="btn bg-primary text-white">Promote</a>
+                </div>
+            }
+        </ul>
+    </section>
+</div>

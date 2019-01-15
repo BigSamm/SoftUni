@@ -1,0 +1,11 @@
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.deps.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.runtimeconfig.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.runtimeconfig.dev.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.csprojAssemblyReference.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.AssemblyInfoInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.AssemblyInfo.cs
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.pdb

@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #ddd;
+  main {
+    margin-top: 20px;
+    div {
+      width: 80%;
+      margin: 10px 10%;
+      display: flex;
+      justify-content: space-around;
+        img {
+          width: 300px;
+          height: 300px;
+          margin: 5px;
+        }
+        @-webkit-keyframes RotateCar{
+          0% {
+            -webkit-transform: translate(0px, 0px) rotate(0deg);
+          }
+          25% {
+            -webkit-transform: translate(0px, 15px) rotate(90deg);
+            width: 50%;
+            height: 50%;
+          }
+          50% {
+            -webkit-transform: translate(15px, 15px) rotate(360deg);
+            width: 300%;
+            height: 300%;
+          }
+          100% {
+            -webkit-transform: translate(0px, 0px);
+          }
+        }
+        img:hover {
+          position: relative;
+          -webkit-animation-name: RotateCar;
+          -webkit-animation-delay: 1.0s;
+          -webkit-animation-duration: 3.7s;
+          -webkit-animation-timing-function: ease;
+        }
+
+    }
+  }
+}

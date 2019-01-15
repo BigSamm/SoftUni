@@ -1,0 +1,6 @@
+E:\SoftUni\4ti chas\Complex-Conditions\Fruit-or-Vegetable\bin\Debug\Fruit-or-Vegetable.exe.config
+E:\SoftUni\4ti chas\Complex-Conditions\Fruit-or-Vegetable\bin\Debug\Fruit-or-Vegetable.exe
+E:\SoftUni\4ti chas\Complex-Conditions\Fruit-or-Vegetable\bin\Debug\Fruit-or-Vegetable.pdb
+E:\SoftUni\4ti chas\Complex-Conditions\Fruit-or-Vegetable\obj\Debug\Fruit-or-Vegetable.exe
+E:\SoftUni\4ti chas\Complex-Conditions\Fruit-or-Vegetable\obj\Debug\Fruit-or-Vegetable.pdb
+E:\SoftUni\4ti chas\Complex-Conditions\Fruit-or-Vegetable\obj\Debug\Fruit-or-Vegetable.csprojResolveAssemblyReference.cache

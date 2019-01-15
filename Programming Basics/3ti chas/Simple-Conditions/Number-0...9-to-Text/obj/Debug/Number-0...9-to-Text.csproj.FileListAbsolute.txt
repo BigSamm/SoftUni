@@ -1,0 +1,5 @@
+E:\SoftUni\3ti chas\Simple-Conditions\Number-0...9-to-Text\bin\Debug\Number_0._._._9_to_Text.exe.config
+E:\SoftUni\3ti chas\Simple-Conditions\Number-0...9-to-Text\bin\Debug\Number_0._._._9_to_Text.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Number-0...9-to-Text\bin\Debug\Number_0._._._9_to_Text.pdb
+E:\SoftUni\3ti chas\Simple-Conditions\Number-0...9-to-Text\obj\Debug\Number_0._._._9_to_Text.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Number-0...9-to-Text\obj\Debug\Number_0._._._9_to_Text.pdb

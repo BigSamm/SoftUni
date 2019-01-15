@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\14-Boat-Simulator\bin\Debug\14-Boat-Simulator.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\14-Boat-Simulator\bin\Debug\14-Boat-Simulator.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\14-Boat-Simulator\bin\Debug\14-Boat-Simulator.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\14-Boat-Simulator\obj\Debug\14-Boat-Simulator.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\14-Boat-Simulator\obj\Debug\14-Boat-Simulator.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\14-Boat-Simulator\obj\Debug\14-Boat-Simulator.csprojResolveAssemblyReference.cache

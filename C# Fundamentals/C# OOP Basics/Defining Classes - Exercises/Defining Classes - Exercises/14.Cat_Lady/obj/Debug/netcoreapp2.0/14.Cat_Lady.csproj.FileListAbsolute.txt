@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\14.Cat_Lady\bin\Debug\netcoreapp2.0\14.Cat_Lady.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\14.Cat_Lady\bin\Debug\netcoreapp2.0\14.Cat_Lady.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\14.Cat_Lady\bin\Debug\netcoreapp2.0\14.Cat_Lady.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\14.Cat_Lady\bin\Debug\netcoreapp2.0\14.Cat_Lady.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\14.Cat_Lady\bin\Debug\netcoreapp2.0\14.Cat_Lady.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\14.Cat_Lady\obj\Debug\netcoreapp2.0\14.Cat_Lady.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\14.Cat_Lady\obj\Debug\netcoreapp2.0\14.Cat_Lady.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\14.Cat_Lady\obj\Debug\netcoreapp2.0\14.Cat_Lady.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\14.Cat_Lady\obj\Debug\netcoreapp2.0\14.Cat_Lady.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\14.Cat_Lady\obj\Debug\netcoreapp2.0\14.Cat_Lady.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\14.Cat_Lady\obj\Debug\netcoreapp2.0\14.Cat_Lady.pdb

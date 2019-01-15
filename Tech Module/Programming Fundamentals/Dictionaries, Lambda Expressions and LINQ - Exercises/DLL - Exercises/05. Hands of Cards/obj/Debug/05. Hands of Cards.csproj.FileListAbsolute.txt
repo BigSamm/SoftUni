@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\05. Hands of Cards\bin\Debug\_05.Hands_of_Cards.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\05. Hands of Cards\bin\Debug\_05.Hands_of_Cards.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\05. Hands of Cards\bin\Debug\_05.Hands_of_Cards.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\05. Hands of Cards\obj\Debug\05. Hands of Cards.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\05. Hands of Cards\obj\Debug\_05.Hands_of_Cards.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\05. Hands of Cards\obj\Debug\_05.Hands_of_Cards.pdb

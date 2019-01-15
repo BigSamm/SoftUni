@@ -1,0 +1,6 @@
+E:\SoftUni\4ti chas\2\Point-in-the-Figure\bin\Debug\Point-in-the-Figure.exe.config
+E:\SoftUni\4ti chas\2\Point-in-the-Figure\obj\Debug\Point-in-the-Figure.csprojResolveAssemblyReference.cache
+E:\SoftUni\4ti chas\2\Point-in-the-Figure\bin\Debug\Point-in-the-Figure.exe
+E:\SoftUni\4ti chas\2\Point-in-the-Figure\bin\Debug\Point-in-the-Figure.pdb
+E:\SoftUni\4ti chas\2\Point-in-the-Figure\obj\Debug\Point-in-the-Figure.exe
+E:\SoftUni\4ti chas\2\Point-in-the-Figure\obj\Debug\Point-in-the-Figure.pdb

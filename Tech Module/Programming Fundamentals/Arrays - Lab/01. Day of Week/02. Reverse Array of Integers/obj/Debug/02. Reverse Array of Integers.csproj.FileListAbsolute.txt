@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays - Lab\01. Day of Week\02. Reverse Array of Integers\bin\Debug\_02.Reverse_Array_of_Integers.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays - Lab\01. Day of Week\02. Reverse Array of Integers\bin\Debug\_02.Reverse_Array_of_Integers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays - Lab\01. Day of Week\02. Reverse Array of Integers\bin\Debug\_02.Reverse_Array_of_Integers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays - Lab\01. Day of Week\02. Reverse Array of Integers\obj\Debug\_02.Reverse_Array_of_Integers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays - Lab\01. Day of Week\02. Reverse Array of Integers\obj\Debug\_02.Reverse_Array_of_Integers.pdb

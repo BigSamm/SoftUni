@@ -1,0 +1,10 @@
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Exam - 05.01.2018\project\.vs\PetClinic\lut\0\b\PetClinic\Debug\netcoreapp2.0\PetClinic.deps.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Exam - 05.01.2018\project\.vs\PetClinic\lut\0\b\PetClinic\Debug\netcoreapp2.0\PetClinic.runtimeconfig.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Exam - 05.01.2018\project\.vs\PetClinic\lut\0\b\PetClinic\Debug\netcoreapp2.0\PetClinic.runtimeconfig.dev.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Exam - 05.01.2018\project\.vs\PetClinic\lut\0\b\PetClinic\Debug\netcoreapp2.0\PetClinic.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Exam - 05.01.2018\project\.vs\PetClinic\lut\0\i\PetClinic\Debug\netcoreapp2.0\PetClinic.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Exam - 05.01.2018\project\.vs\PetClinic\lut\0\i\PetClinic\Debug\netcoreapp2.0\PetClinic.AssemblyInfoInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Exam - 05.01.2018\project\.vs\PetClinic\lut\0\i\PetClinic\Debug\netcoreapp2.0\PetClinic.AssemblyInfo.cs
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Exam - 05.01.2018\project\.vs\PetClinic\lut\0\i\PetClinic\Debug\netcoreapp2.0\PetClinic.csproj.CopyComplete
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Exam - 05.01.2018\project\.vs\PetClinic\lut\0\i\PetClinic\Debug\netcoreapp2.0\PetClinic.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Exam - 05.01.2018\project\.vs\PetClinic\lut\0\i\PetClinic\Debug\netcoreapp2.0\PetClinic.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\SoftUni\4ti chas\Complex-Conditions\05-Invalid-Number\bin\Debug\05-Invalid-Number.exe.config
+E:\SoftUni\4ti chas\Complex-Conditions\05-Invalid-Number\bin\Debug\05-Invalid-Number.exe
+E:\SoftUni\4ti chas\Complex-Conditions\05-Invalid-Number\bin\Debug\05-Invalid-Number.pdb
+E:\SoftUni\4ti chas\Complex-Conditions\05-Invalid-Number\obj\Debug\05-Invalid-Number.exe
+E:\SoftUni\4ti chas\Complex-Conditions\05-Invalid-Number\obj\Debug\05-Invalid-Number.pdb
+E:\SoftUni\4ti chas\Complex-Conditions\05-Invalid-Number\obj\Debug\05-Invalid-Number.csprojResolveAssemblyReference.cache

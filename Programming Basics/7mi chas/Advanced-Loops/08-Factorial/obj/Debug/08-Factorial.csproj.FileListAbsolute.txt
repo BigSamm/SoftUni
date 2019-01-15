@@ -1,0 +1,6 @@
+E:\SoftUni\7ti chas\Advanced-Loops\08-Factorial\bin\Debug\08-Factorial.exe.config
+E:\SoftUni\7ti chas\Advanced-Loops\08-Factorial\bin\Debug\08-Factorial.exe
+E:\SoftUni\7ti chas\Advanced-Loops\08-Factorial\bin\Debug\08-Factorial.pdb
+E:\SoftUni\7ti chas\Advanced-Loops\08-Factorial\obj\Debug\08-Factorial.csprojResolveAssemblyReference.cache
+E:\SoftUni\7ti chas\Advanced-Loops\08-Factorial\obj\Debug\08-Factorial.exe
+E:\SoftUni\7ti chas\Advanced-Loops\08-Factorial\obj\Debug\08-Factorial.pdb

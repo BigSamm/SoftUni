@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\02-Vapor-Store\obj\Debug\02-Vapor-Store.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\02-Vapor-Store\bin\Debug\02-Vapor-Store.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\02-Vapor-Store\bin\Debug\02-Vapor-Store.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\02-Vapor-Store\bin\Debug\02-Vapor-Store.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\02-Vapor-Store\obj\Debug\02-Vapor-Store.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\02-Vapor-Store\obj\Debug\02-Vapor-Store.pdb

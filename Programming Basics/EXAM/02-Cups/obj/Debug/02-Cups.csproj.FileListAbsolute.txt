@@ -1,0 +1,5 @@
+E:\SoftUni\EXAM\02-Cups\bin\Debug\02-Cups.exe.config
+E:\SoftUni\EXAM\02-Cups\bin\Debug\02-Cups.exe
+E:\SoftUni\EXAM\02-Cups\bin\Debug\02-Cups.pdb
+E:\SoftUni\EXAM\02-Cups\obj\Debug\02-Cups.exe
+E:\SoftUni\EXAM\02-Cups\obj\Debug\02-Cups.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\07.Inferno_Infinity\bin\Debug\netcoreapp2.0\07.Inferno_Infinity.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\07.Inferno_Infinity\bin\Debug\netcoreapp2.0\07.Inferno_Infinity.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\07.Inferno_Infinity\bin\Debug\netcoreapp2.0\07.Inferno_Infinity.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\07.Inferno_Infinity\bin\Debug\netcoreapp2.0\07.Inferno_Infinity.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\07.Inferno_Infinity\bin\Debug\netcoreapp2.0\07.Inferno_Infinity.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\07.Inferno_Infinity\obj\Debug\netcoreapp2.0\07.Inferno_Infinity.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\07.Inferno_Infinity\obj\Debug\netcoreapp2.0\07.Inferno_Infinity.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\07.Inferno_Infinity\obj\Debug\netcoreapp2.0\07.Inferno_Infinity.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\07.Inferno_Infinity\obj\Debug\netcoreapp2.0\07.Inferno_Infinity.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\07.Inferno_Infinity\obj\Debug\netcoreapp2.0\07.Inferno_Infinity.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\07.Inferno_Infinity\obj\Debug\netcoreapp2.0\07.Inferno_Infinity.pdb

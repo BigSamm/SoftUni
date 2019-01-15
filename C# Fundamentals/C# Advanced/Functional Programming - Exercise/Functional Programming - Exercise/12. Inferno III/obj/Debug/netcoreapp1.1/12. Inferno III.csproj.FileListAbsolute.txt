@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\12. Inferno III\bin\Debug\netcoreapp1.1\12. Inferno III.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\12. Inferno III\bin\Debug\netcoreapp1.1\12. Inferno III.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\12. Inferno III\bin\Debug\netcoreapp1.1\12. Inferno III.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\12. Inferno III\bin\Debug\netcoreapp1.1\12. Inferno III.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\12. Inferno III\bin\Debug\netcoreapp1.1\12. Inferno III.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\12. Inferno III\obj\Debug\netcoreapp1.1\12. Inferno III.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\12. Inferno III\obj\Debug\netcoreapp1.1\12. Inferno III.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\12. Inferno III\obj\Debug\netcoreapp1.1\12. Inferno III.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\12. Inferno III\obj\Debug\netcoreapp1.1\12. Inferno III.pdb

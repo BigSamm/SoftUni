@@ -1,0 +1,5 @@
+E:\SoftUni\6ti chas\1\3\bin\Debug\3.exe.config
+E:\SoftUni\6ti chas\1\3\bin\Debug\3.exe
+E:\SoftUni\6ti chas\1\3\bin\Debug\3.pdb
+E:\SoftUni\6ti chas\1\3\obj\Debug\3.exe
+E:\SoftUni\6ti chas\1\3\obj\Debug\3.pdb

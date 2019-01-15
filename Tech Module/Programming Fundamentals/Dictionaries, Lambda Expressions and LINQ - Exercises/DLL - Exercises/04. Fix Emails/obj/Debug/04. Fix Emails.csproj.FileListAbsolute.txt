@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\04. Fix Emails\bin\Debug\_04.Fix_Emails.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\04. Fix Emails\obj\Debug\04. Fix Emails.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\04. Fix Emails\obj\Debug\_04.Fix_Emails.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\04. Fix Emails\obj\Debug\_04.Fix_Emails.pdb

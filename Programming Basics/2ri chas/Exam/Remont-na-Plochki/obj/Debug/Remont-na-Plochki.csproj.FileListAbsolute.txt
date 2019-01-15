@@ -1,0 +1,5 @@
+E:\SoftUni\2ri chas\Exam\Remont-na-Plochki\bin\Debug\Remont-na-Plochki.exe.config
+E:\SoftUni\2ri chas\Exam\Remont-na-Plochki\bin\Debug\Remont-na-Plochki.exe
+E:\SoftUni\2ri chas\Exam\Remont-na-Plochki\bin\Debug\Remont-na-Plochki.pdb
+E:\SoftUni\2ri chas\Exam\Remont-na-Plochki\obj\Debug\Remont-na-Plochki.exe
+E:\SoftUni\2ri chas\Exam\Remont-na-Plochki\obj\Debug\Remont-na-Plochki.pdb

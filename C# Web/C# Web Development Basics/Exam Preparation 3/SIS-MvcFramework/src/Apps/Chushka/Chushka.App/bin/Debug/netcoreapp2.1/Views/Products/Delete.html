@@ -1,0 +1,46 @@
+﻿<h1 class="text-center">Delete Product</h1>
+<hr class="hr-2 bg-dark" />
+<form class="mx-auto half-width" method="post" action="/products/delete">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" class="form-control" id="name" value="@Model.Name" name="name" disabled>
+    </div>
+    <div class="form-group">
+        <label for="price">Price</label>
+        <input type="number" class="form-control" id="price" value="@Model.Price" name="price" disabled>
+    </div>
+    <div class="form-group">
+        <label for="description">Description</label>
+        <textarea class="form-control" id="description" name="description" draggable="false" rows="5" disabled>@Model.Description</textarea>
+    </div>
+    <div class="form-group">
+        <h3 class="text-center">Product Type</h3>
+        <hr class="hr-2 bg-dark half-width" />
+        <div class="d-flex justify-content-around">
+            { var types = new[] { "Food", "Domestic", "Health", "Cosmetic", "Other" }; }
+            @foreach(var type in types)
+            {
+                @if (type == Model.Type)
+                {
+                    <div class="col-md-2">
+                        <input id="@type" type="radio" name="type" value="@type" checked disabled>
+                        <label for="@type">@type</label>
+                    </div>
+                }
+                @else
+                {
+                    <div class="col-md-2">
+                        <input id="@type" type="radio" name="type" value="@type" disabled>
+                        <label for="@type">@type</label>
+                    </div>
+                }
+            }
+        </div>
+        <hr class="hr-2 bg-dark half-width" />
+    </div>
+    <div class="button-holder d-flex justify-content-around w-50 mx-auto">
+        <button type="submit" class="btn chushka-bg-color">Delete</button>
+        <a onclick="window.history.back()" class="btn chushka-bg-color text-white">Cancel</a>
+    </div>
+</form>

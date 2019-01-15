@@ -1,0 +1,6 @@
+E:\SoftUni\3ti chas\Simple-Conditions\Metric-Converter\bin\Debug\Metric-Converter.exe.config
+E:\SoftUni\3ti chas\Simple-Conditions\Metric-Converter\bin\Debug\Metric-Converter.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Metric-Converter\bin\Debug\Metric-Converter.pdb
+E:\SoftUni\3ti chas\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.pdb
+E:\SoftUni\3ti chas\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.csprojResolveAssemblyReference.cache

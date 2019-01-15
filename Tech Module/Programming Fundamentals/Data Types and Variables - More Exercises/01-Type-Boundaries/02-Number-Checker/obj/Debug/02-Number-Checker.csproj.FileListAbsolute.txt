@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\02-Number-Checker\bin\Debug\02-Number-Checker.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\02-Number-Checker\bin\Debug\02-Number-Checker.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\02-Number-Checker\bin\Debug\02-Number-Checker.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\02-Number-Checker\obj\Debug\02-Number-Checker.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\02-Number-Checker\obj\Debug\02-Number-Checker.pdb

@@ -1,0 +1,5 @@
+E:\SoftUni\6ti chas\Advanced-Loops\04-Even-Powers-of-2\bin\Debug\04-Even-Powers-of-2.exe.config
+E:\SoftUni\6ti chas\Advanced-Loops\04-Even-Powers-of-2\bin\Debug\04-Even-Powers-of-2.exe
+E:\SoftUni\6ti chas\Advanced-Loops\04-Even-Powers-of-2\bin\Debug\04-Even-Powers-of-2.pdb
+E:\SoftUni\6ti chas\Advanced-Loops\04-Even-Powers-of-2\obj\Debug\04-Even-Powers-of-2.exe
+E:\SoftUni\6ti chas\Advanced-Loops\04-Even-Powers-of-2\obj\Debug\04-Even-Powers-of-2.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\04. Supermarket Database\bin\Debug\_04.Supermarket_Database.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\04. Supermarket Database\bin\Debug\_04.Supermarket_Database.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\04. Supermarket Database\bin\Debug\_04.Supermarket_Database.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\04. Supermarket Database\obj\Debug\_04.Supermarket_Database.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\04. Supermarket Database\obj\Debug\_04.Supermarket_Database.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\04. Supermarket Database\obj\Debug\04. Supermarket Database.csprojResolveAssemblyReference.cache

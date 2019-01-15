@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam - 26 February 2017\Exam - 26 February 2017\03. Hornet Assault\bin\Debug\_03.Hornet_Assault.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam - 26 February 2017\Exam - 26 February 2017\03. Hornet Assault\bin\Debug\_03.Hornet_Assault.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam - 26 February 2017\Exam - 26 February 2017\03. Hornet Assault\bin\Debug\_03.Hornet_Assault.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam - 26 February 2017\Exam - 26 February 2017\03. Hornet Assault\obj\Debug\03. Hornet Assault.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam - 26 February 2017\Exam - 26 February 2017\03. Hornet Assault\obj\Debug\_03.Hornet_Assault.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam - 26 February 2017\Exam - 26 February 2017\03. Hornet Assault\obj\Debug\_03.Hornet_Assault.pdb

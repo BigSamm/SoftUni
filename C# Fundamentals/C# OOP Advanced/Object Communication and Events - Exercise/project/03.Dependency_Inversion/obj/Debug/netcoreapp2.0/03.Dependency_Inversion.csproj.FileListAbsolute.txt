@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\03.Dependency_Inversion\bin\Debug\netcoreapp2.0\03.Dependency_Inversion.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\03.Dependency_Inversion\bin\Debug\netcoreapp2.0\03.Dependency_Inversion.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\03.Dependency_Inversion\bin\Debug\netcoreapp2.0\03.Dependency_Inversion.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\03.Dependency_Inversion\bin\Debug\netcoreapp2.0\03.Dependency_Inversion.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\03.Dependency_Inversion\bin\Debug\netcoreapp2.0\03.Dependency_Inversion.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\03.Dependency_Inversion\obj\Debug\netcoreapp2.0\03.Dependency_Inversion.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\03.Dependency_Inversion\obj\Debug\netcoreapp2.0\03.Dependency_Inversion.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\03.Dependency_Inversion\obj\Debug\netcoreapp2.0\03.Dependency_Inversion.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\03.Dependency_Inversion\obj\Debug\netcoreapp2.0\03.Dependency_Inversion.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\03.Dependency_Inversion\obj\Debug\netcoreapp2.0\03.Dependency_Inversion.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\03.Dependency_Inversion\obj\Debug\netcoreapp2.0\03.Dependency_Inversion.csprojResolveAssemblyReference.cache

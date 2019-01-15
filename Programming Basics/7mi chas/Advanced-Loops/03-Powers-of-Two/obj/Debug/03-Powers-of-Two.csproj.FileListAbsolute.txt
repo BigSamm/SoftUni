@@ -1,0 +1,5 @@
+E:\SoftUni\6ti chas\Advanced-Loops\03-Powers-of-Two\bin\Debug\03-Powers-of-Two.exe.config
+E:\SoftUni\6ti chas\Advanced-Loops\03-Powers-of-Two\bin\Debug\03-Powers-of-Two.exe
+E:\SoftUni\6ti chas\Advanced-Loops\03-Powers-of-Two\bin\Debug\03-Powers-of-Two.pdb
+E:\SoftUni\6ti chas\Advanced-Loops\03-Powers-of-Two\obj\Debug\03-Powers-of-Two.exe
+E:\SoftUni\6ti chas\Advanced-Loops\03-Powers-of-Two\obj\Debug\03-Powers-of-Two.pdb

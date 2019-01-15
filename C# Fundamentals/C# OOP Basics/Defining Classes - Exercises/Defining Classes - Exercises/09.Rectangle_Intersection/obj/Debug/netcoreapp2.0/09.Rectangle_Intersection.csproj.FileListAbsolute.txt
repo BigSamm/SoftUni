@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\09.Rectangle_Intersection\bin\Debug\netcoreapp2.0\09.Rectangle_Intersection.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\09.Rectangle_Intersection\bin\Debug\netcoreapp2.0\09.Rectangle_Intersection.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\09.Rectangle_Intersection\bin\Debug\netcoreapp2.0\09.Rectangle_Intersection.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\09.Rectangle_Intersection\bin\Debug\netcoreapp2.0\09.Rectangle_Intersection.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\09.Rectangle_Intersection\bin\Debug\netcoreapp2.0\09.Rectangle_Intersection.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\09.Rectangle_Intersection\obj\Debug\netcoreapp2.0\09.Rectangle_Intersection.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\09.Rectangle_Intersection\obj\Debug\netcoreapp2.0\09.Rectangle_Intersection.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\09.Rectangle_Intersection\obj\Debug\netcoreapp2.0\09.Rectangle_Intersection.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\09.Rectangle_Intersection\obj\Debug\netcoreapp2.0\09.Rectangle_Intersection.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\09.Rectangle_Intersection\obj\Debug\netcoreapp2.0\09.Rectangle_Intersection.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\09.Rectangle_Intersection\obj\Debug\netcoreapp2.0\09.Rectangle_Intersection.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\4ti chas\2\of-Stars\bin\Debug\of-Stars.exe.config
+E:\SoftUni\4ti chas\2\of-Stars\bin\Debug\of-Stars.exe
+E:\SoftUni\4ti chas\2\of-Stars\bin\Debug\of-Stars.pdb
+E:\SoftUni\4ti chas\2\of-Stars\obj\Debug\of-Stars.exe
+E:\SoftUni\4ti chas\2\of-Stars\obj\Debug\of-Stars.pdb
+E:\SoftUni\4ti chas\2\of-Stars\obj\Debug\of-Stars.csprojResolveAssemblyReference.cache

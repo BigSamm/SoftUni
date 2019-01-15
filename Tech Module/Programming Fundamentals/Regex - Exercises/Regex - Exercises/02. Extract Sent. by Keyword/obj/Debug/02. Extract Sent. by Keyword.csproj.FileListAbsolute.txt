@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\02. Extract Sent. by Keyword\bin\Debug\_02.Extract_Sent.by_Keyword.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\02. Extract Sent. by Keyword\bin\Debug\_02.Extract_Sent.by_Keyword.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\02. Extract Sent. by Keyword\bin\Debug\_02.Extract_Sent.by_Keyword.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\02. Extract Sent. by Keyword\obj\Debug\02. Extract Sent. by Keyword.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\02. Extract Sent. by Keyword\obj\Debug\_02.Extract_Sent.by_Keyword.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\02. Extract Sent. by Keyword\obj\Debug\_02.Extract_Sent.by_Keyword.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\03. A Miner Task\bin\Debug\_03.A_Miner_Task.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\03. A Miner Task\bin\Debug\_03.A_Miner_Task.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\03. A Miner Task\bin\Debug\_03.A_Miner_Task.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\03. A Miner Task\obj\Debug\03. A Miner Task.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\03. A Miner Task\obj\Debug\_03.A_Miner_Task.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\03. A Miner Task\obj\Debug\_03.A_Miner_Task.pdb

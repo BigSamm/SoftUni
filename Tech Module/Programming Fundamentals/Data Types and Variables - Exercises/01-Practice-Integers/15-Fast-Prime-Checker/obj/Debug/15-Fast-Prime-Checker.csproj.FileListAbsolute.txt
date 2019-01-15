@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\15-Fast-Prime-Checker\bin\Debug\15-Fast-Prime-Checker.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\15-Fast-Prime-Checker\bin\Debug\15-Fast-Prime-Checker.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\15-Fast-Prime-Checker\bin\Debug\15-Fast-Prime-Checker.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\15-Fast-Prime-Checker\obj\Debug\15-Fast-Prime-Checker.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\15-Fast-Prime-Checker\obj\Debug\15-Fast-Prime-Checker.pdb

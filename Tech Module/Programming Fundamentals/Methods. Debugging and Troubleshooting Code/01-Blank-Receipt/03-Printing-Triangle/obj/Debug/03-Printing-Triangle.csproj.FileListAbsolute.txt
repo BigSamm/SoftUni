@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\03-Printing-Triangle\bin\Debug\03-Printing-Triangle.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\03-Printing-Triangle\bin\Debug\03-Printing-Triangle.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\03-Printing-Triangle\bin\Debug\03-Printing-Triangle.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\03-Printing-Triangle\obj\Debug\03-Printing-Triangle.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\03-Printing-Triangle\obj\Debug\03-Printing-Triangle.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\03-Printing-Triangle\obj\Debug\03-Printing-Triangle.pdb

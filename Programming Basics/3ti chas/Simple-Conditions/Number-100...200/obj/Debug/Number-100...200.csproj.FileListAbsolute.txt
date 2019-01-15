@@ -1,0 +1,5 @@
+E:\SoftUni\3ti chas\Simple-Conditions\Number-100...200\bin\Debug\Number_100._._._200.exe.config
+E:\SoftUni\3ti chas\Simple-Conditions\Number-100...200\bin\Debug\Number_100._._._200.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Number-100...200\bin\Debug\Number_100._._._200.pdb
+E:\SoftUni\3ti chas\Simple-Conditions\Number-100...200\obj\Debug\Number_100._._._200.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Number-100...200\obj\Debug\Number_100._._._200.pdb

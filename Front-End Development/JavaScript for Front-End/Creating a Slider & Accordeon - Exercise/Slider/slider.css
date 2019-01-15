@@ -1,0 +1,13 @@
+.slider {
+    width: 650px;
+    margin: 0 auto;
+}
+.slick-prev:before,
+.slick-next:before {
+    color: black;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}

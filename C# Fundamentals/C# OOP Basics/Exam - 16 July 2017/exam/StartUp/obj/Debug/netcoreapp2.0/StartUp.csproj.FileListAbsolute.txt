@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam - 16 July 2017\exam\StartUp\bin\Debug\netcoreapp2.0\StartUp.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam - 16 July 2017\exam\StartUp\bin\Debug\netcoreapp2.0\StartUp.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam - 16 July 2017\exam\StartUp\bin\Debug\netcoreapp2.0\StartUp.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam - 16 July 2017\exam\StartUp\bin\Debug\netcoreapp2.0\StartUp.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam - 16 July 2017\exam\StartUp\bin\Debug\netcoreapp2.0\StartUp.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam - 16 July 2017\exam\StartUp\obj\Debug\netcoreapp2.0\StartUp.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam - 16 July 2017\exam\StartUp\obj\Debug\netcoreapp2.0\StartUp.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam - 16 July 2017\exam\StartUp\obj\Debug\netcoreapp2.0\StartUp.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam - 16 July 2017\exam\StartUp\obj\Debug\netcoreapp2.0\StartUp.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam - 16 July 2017\exam\StartUp\obj\Debug\netcoreapp2.0\StartUp.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam - 16 July 2017\exam\StartUp\obj\Debug\netcoreapp2.0\StartUp.pdb

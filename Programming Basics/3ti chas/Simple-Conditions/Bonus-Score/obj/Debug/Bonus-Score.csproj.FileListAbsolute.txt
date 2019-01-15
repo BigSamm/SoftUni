@@ -1,0 +1,5 @@
+E:\SoftUni\3ti chas\Simple-Conditions\Bonus-Score\bin\Debug\Bonus-Score.exe.config
+E:\SoftUni\3ti chas\Simple-Conditions\Bonus-Score\bin\Debug\Bonus-Score.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Bonus-Score\bin\Debug\Bonus-Score.pdb
+E:\SoftUni\3ti chas\Simple-Conditions\Bonus-Score\obj\Debug\Bonus-Score.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Bonus-Score\obj\Debug\Bonus-Score.pdb

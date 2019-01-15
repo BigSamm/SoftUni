@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\02.Multiple_Implementation\bin\Debug\netcoreapp2.0\02.Multiple_Implementation.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\02.Multiple_Implementation\bin\Debug\netcoreapp2.0\02.Multiple_Implementation.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\02.Multiple_Implementation\bin\Debug\netcoreapp2.0\02.Multiple_Implementation.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\02.Multiple_Implementation\bin\Debug\netcoreapp2.0\02.Multiple_Implementation.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\02.Multiple_Implementation\bin\Debug\netcoreapp2.0\02.Multiple_Implementation.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\02.Multiple_Implementation\obj\Debug\netcoreapp2.0\02.Multiple_Implementation.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\02.Multiple_Implementation\obj\Debug\netcoreapp2.0\02.Multiple_Implementation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\02.Multiple_Implementation\obj\Debug\netcoreapp2.0\02.Multiple_Implementation.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\02.Multiple_Implementation\obj\Debug\netcoreapp2.0\02.Multiple_Implementation.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\02.Multiple_Implementation\obj\Debug\netcoreapp2.0\02.Multiple_Implementation.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\02.Multiple_Implementation\obj\Debug\netcoreapp2.0\02.Multiple_Implementation.pdb

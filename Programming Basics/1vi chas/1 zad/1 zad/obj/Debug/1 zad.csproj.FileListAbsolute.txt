@@ -1,0 +1,6 @@
+E:\SoftUni\1vi chas\1 zad\1 zad\bin\Debug\1 zad.exe.config
+E:\SoftUni\1vi chas\1 zad\1 zad\bin\Debug\1 zad.exe
+E:\SoftUni\1vi chas\1 zad\1 zad\bin\Debug\1 zad.pdb
+E:\SoftUni\1vi chas\1 zad\1 zad\obj\Debug\1 zad.csprojResolveAssemblyReference.cache
+E:\SoftUni\1vi chas\1 zad\1 zad\obj\Debug\1 zad.exe
+E:\SoftUni\1vi chas\1 zad\1 zad\obj\Debug\1 zad.pdb

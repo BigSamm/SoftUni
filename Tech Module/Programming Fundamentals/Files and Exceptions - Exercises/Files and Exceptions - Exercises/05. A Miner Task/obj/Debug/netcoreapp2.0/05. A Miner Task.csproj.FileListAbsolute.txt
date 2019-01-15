@@ -1,0 +1,10 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\05. A Miner Task\bin\Debug\netcoreapp2.0\05. A Miner Task.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\05. A Miner Task\bin\Debug\netcoreapp2.0\05. A Miner Task.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\05. A Miner Task\bin\Debug\netcoreapp2.0\05. A Miner Task.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\05. A Miner Task\bin\Debug\netcoreapp2.0\05. A Miner Task.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\05. A Miner Task\bin\Debug\netcoreapp2.0\05. A Miner Task.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\05. A Miner Task\obj\Debug\netcoreapp2.0\05. A Miner Task.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\05. A Miner Task\obj\Debug\netcoreapp2.0\05. A Miner Task.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\05. A Miner Task\obj\Debug\netcoreapp2.0\05. A Miner Task.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\05. A Miner Task\obj\Debug\netcoreapp2.0\05. A Miner Task.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\05. A Miner Task\obj\Debug\netcoreapp2.0\05. A Miner Task.pdb

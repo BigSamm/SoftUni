@@ -1,0 +1,5 @@
+E:\SoftUni\Exam - 20 November 2016\Exam\03-Bike-Race\bin\Debug\03-Bike-Race.exe.config
+E:\SoftUni\Exam - 20 November 2016\Exam\03-Bike-Race\bin\Debug\03-Bike-Race.exe
+E:\SoftUni\Exam - 20 November 2016\Exam\03-Bike-Race\bin\Debug\03-Bike-Race.pdb
+E:\SoftUni\Exam - 20 November 2016\Exam\03-Bike-Race\obj\Debug\03-Bike-Race.exe
+E:\SoftUni\Exam - 20 November 2016\Exam\03-Bike-Race\obj\Debug\03-Bike-Race.pdb

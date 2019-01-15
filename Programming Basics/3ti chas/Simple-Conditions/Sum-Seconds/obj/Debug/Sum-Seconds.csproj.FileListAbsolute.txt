@@ -1,0 +1,5 @@
+E:\SoftUni\3ti chas\Simple-Conditions\Sum-Seconds\bin\Debug\Sum-Seconds.exe.config
+E:\SoftUni\3ti chas\Simple-Conditions\Sum-Seconds\bin\Debug\Sum-Seconds.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Sum-Seconds\bin\Debug\Sum-Seconds.pdb
+E:\SoftUni\3ti chas\Simple-Conditions\Sum-Seconds\obj\Debug\Sum-Seconds.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Sum-Seconds\obj\Debug\Sum-Seconds.pdb

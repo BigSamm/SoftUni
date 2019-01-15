@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\02. Manipulate Array\obj\Debug\02. Manipulate Array.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\02. Manipulate Array\obj\Debug\_02.Manipulate_Array.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\02. Manipulate Array\obj\Debug\_02.Manipulate_Array.pdb

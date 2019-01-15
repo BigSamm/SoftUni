@@ -1,0 +1,6 @@
+E:\SoftUni\5ti chas\Loops\10-Half-Sum-Element\bin\Debug\10-Half-Sum-Element.exe.config
+E:\SoftUni\5ti chas\Loops\10-Half-Sum-Element\obj\Debug\10-Half-Sum-Element.csprojResolveAssemblyReference.cache
+E:\SoftUni\5ti chas\Loops\10-Half-Sum-Element\bin\Debug\10-Half-Sum-Element.exe
+E:\SoftUni\5ti chas\Loops\10-Half-Sum-Element\bin\Debug\10-Half-Sum-Element.pdb
+E:\SoftUni\5ti chas\Loops\10-Half-Sum-Element\obj\Debug\10-Half-Sum-Element.exe
+E:\SoftUni\5ti chas\Loops\10-Half-Sum-Element\obj\Debug\10-Half-Sum-Element.pdb

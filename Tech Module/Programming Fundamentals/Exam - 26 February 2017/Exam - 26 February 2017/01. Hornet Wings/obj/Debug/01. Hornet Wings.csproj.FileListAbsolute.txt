@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam - 26 February 2017\Exam - 26 February 2017\01. Hornet Wings\bin\Debug\_01.Hornet_Wings.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam - 26 February 2017\Exam - 26 February 2017\01. Hornet Wings\bin\Debug\_01.Hornet_Wings.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam - 26 February 2017\Exam - 26 February 2017\01. Hornet Wings\bin\Debug\_01.Hornet_Wings.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam - 26 February 2017\Exam - 26 February 2017\01. Hornet Wings\obj\Debug\01. Hornet Wings.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam - 26 February 2017\Exam - 26 February 2017\01. Hornet Wings\obj\Debug\_01.Hornet_Wings.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam - 26 February 2017\Exam - 26 February 2017\01. Hornet Wings\obj\Debug\_01.Hornet_Wings.pdb

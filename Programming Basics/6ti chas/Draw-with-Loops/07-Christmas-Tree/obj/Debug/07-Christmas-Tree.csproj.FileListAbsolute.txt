@@ -1,0 +1,6 @@
+E:\SoftUni\6ti chas\Draw-with-Loops\07-Christmas-Tree\bin\Debug\07-Christmas-Tree.exe.config
+E:\SoftUni\6ti chas\Draw-with-Loops\07-Christmas-Tree\bin\Debug\07-Christmas-Tree.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\07-Christmas-Tree\bin\Debug\07-Christmas-Tree.pdb
+E:\SoftUni\6ti chas\Draw-with-Loops\07-Christmas-Tree\obj\Debug\07-Christmas-Tree.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\07-Christmas-Tree\obj\Debug\07-Christmas-Tree.pdb
+E:\SoftUni\6ti chas\Draw-with-Loops\07-Christmas-Tree\obj\Debug\07-Christmas-Tree.csprojResolveAssemblyReference.cache

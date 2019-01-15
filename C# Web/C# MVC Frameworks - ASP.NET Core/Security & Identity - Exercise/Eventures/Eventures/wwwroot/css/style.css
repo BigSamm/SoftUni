@@ -1,0 +1,46 @@
+.app {
+    width: 100%;
+    height: 100%;
+}
+nav a {
+    color: black;
+    font-weight: bold;
+}
+
+.half-width {
+    width: 50%;
+}
+
+textarea {
+    resize: none;
+}
+
+.eventures-bg-color {
+    background-color: #AFEEEE;
+    color: black;
+}
+
+.nav-link-blue {
+    color: blue;
+}
+
+.hr-2 {
+    height: 3px;
+    background-color: #AFEEEE;
+}
+
+.hr-1 {
+    height: 1px;
+}
+
+.table-hover>tbody>tr:hover {
+    background-color: #DC143C;
+    color: #F8F8FF;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    border: 0;
+    width: 98%;
+}

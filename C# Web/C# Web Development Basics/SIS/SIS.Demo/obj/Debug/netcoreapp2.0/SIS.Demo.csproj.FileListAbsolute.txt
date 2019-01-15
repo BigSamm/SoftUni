@@ -1,0 +1,64 @@
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.deps.json
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.runtimeconfig.json
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.runtimeconfig.dev.json
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csprojAssemblyReference.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.AssemblyInfo.cs
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csproj.CopyComplete
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.deps.json
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.runtimeconfig.json
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.runtimeconfig.dev.json
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.dll
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csprojAssemblyReference.cache
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.AssemblyInfo.cs
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csproj.CopyComplete
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.dll
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.deps.json
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.runtimeconfig.json
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.runtimeconfig.dev.json
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csprojAssemblyReference.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.AssemblyInfo.cs
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csproj.CopyComplete
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.deps.json
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.runtimeconfig.json
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.runtimeconfig.dev.json
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.dll
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csprojAssemblyReference.cache
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.AssemblyInfo.cs
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csproj.CopyComplete
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.dll
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.pdb

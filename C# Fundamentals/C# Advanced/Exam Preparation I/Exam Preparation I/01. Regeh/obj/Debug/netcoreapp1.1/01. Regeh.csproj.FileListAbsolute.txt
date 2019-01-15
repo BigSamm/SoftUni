@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\01. Regeh\bin\Debug\netcoreapp1.1\01. Regeh.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\01. Regeh\bin\Debug\netcoreapp1.1\01. Regeh.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\01. Regeh\bin\Debug\netcoreapp1.1\01. Regeh.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\01. Regeh\bin\Debug\netcoreapp1.1\01. Regeh.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\01. Regeh\bin\Debug\netcoreapp1.1\01. Regeh.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\01. Regeh\obj\Debug\netcoreapp1.1\01. Regeh.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\01. Regeh\obj\Debug\netcoreapp1.1\01. Regeh.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\01. Regeh\obj\Debug\netcoreapp1.1\01. Regeh.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\01. Regeh\obj\Debug\netcoreapp1.1\01. Regeh.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\01. Regeh\obj\Debug\netcoreapp1.1\01. Regeh.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\01. Regeh\obj\Debug\netcoreapp1.1\01. Regeh.AssemblyInfoInputs.cache

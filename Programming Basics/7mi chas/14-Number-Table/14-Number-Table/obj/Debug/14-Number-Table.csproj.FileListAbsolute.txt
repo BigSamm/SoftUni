@@ -1,0 +1,6 @@
+E:\SoftUni\7ti chas\14-Number-Table\14-Number-Table\bin\Debug\14-Number-Table.exe.config
+E:\SoftUni\7ti chas\14-Number-Table\14-Number-Table\bin\Debug\14-Number-Table.exe
+E:\SoftUni\7ti chas\14-Number-Table\14-Number-Table\bin\Debug\14-Number-Table.pdb
+E:\SoftUni\7ti chas\14-Number-Table\14-Number-Table\obj\Debug\14-Number-Table.csprojResolveAssemblyReference.cache
+E:\SoftUni\7ti chas\14-Number-Table\14-Number-Table\obj\Debug\14-Number-Table.exe
+E:\SoftUni\7ti chas\14-Number-Table\14-Number-Table\obj\Debug\14-Number-Table.pdb

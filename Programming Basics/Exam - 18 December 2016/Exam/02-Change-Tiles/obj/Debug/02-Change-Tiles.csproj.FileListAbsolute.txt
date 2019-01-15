@@ -1,0 +1,6 @@
+E:\SoftUni\Exam - 18 December 2016\Exam\02-Change-Tiles\bin\Debug\02-Change-Tiles.exe.config
+E:\SoftUni\Exam - 18 December 2016\Exam\02-Change-Tiles\bin\Debug\02-Change-Tiles.exe
+E:\SoftUni\Exam - 18 December 2016\Exam\02-Change-Tiles\bin\Debug\02-Change-Tiles.pdb
+E:\SoftUni\Exam - 18 December 2016\Exam\02-Change-Tiles\obj\Debug\02-Change-Tiles.exe
+E:\SoftUni\Exam - 18 December 2016\Exam\02-Change-Tiles\obj\Debug\02-Change-Tiles.pdb
+E:\SoftUni\Exam - 18 December 2016\Exam\02-Change-Tiles\obj\Debug\02-Change-Tiles.csprojResolveAssemblyReference.cache

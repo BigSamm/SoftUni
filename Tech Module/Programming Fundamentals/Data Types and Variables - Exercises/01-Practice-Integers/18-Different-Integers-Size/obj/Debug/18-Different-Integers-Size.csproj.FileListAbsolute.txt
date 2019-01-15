@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\18-Different-Integers-Size\bin\Debug\18-Different-Integers-Size.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\18-Different-Integers-Size\bin\Debug\18-Different-Integers-Size.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\18-Different-Integers-Size\bin\Debug\18-Different-Integers-Size.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\18-Different-Integers-Size\obj\Debug\18-Different-Integers-Size.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\18-Different-Integers-Size\obj\Debug\18-Different-Integers-Size.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\18-Different-Integers-Size\obj\Debug\18-Different-Integers-Size.pdb

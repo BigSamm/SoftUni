@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\01-Choose-a-Drink\obj\Debug\01-Choose-a-Drink.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\01-Choose-a-Drink\bin\Debug\01-Choose-a-Drink.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\01-Choose-a-Drink\bin\Debug\01-Choose-a-Drink.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\01-Choose-a-Drink\bin\Debug\01-Choose-a-Drink.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\01-Choose-a-Drink\obj\Debug\01-Choose-a-Drink.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\01-Choose-a-Drink\obj\Debug\01-Choose-a-Drink.pdb

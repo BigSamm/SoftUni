@@ -1,0 +1,49 @@
+﻿@model Chushka.ViewModels.Products.ProductBaseViewModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1 class="text-center">Delete Product</h1>
+<hr class="hr-2 bg-dark" />
+<form class="mx-auto half-width" method="post" action="/products/delete">
+    <input asp-for="Id" type="hidden" />
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" disabled />
+    </div>
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" type="number" class="form-control" disabled />
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control" draggable="false" rows="5" disabled></textarea>
+    </div>
+    <div class="form-group">
+        <h3 class="text-center">Product Type</h3>
+        <hr class="hr-2 bg-dark half-width" />
+        <div class="d-flex justify-content-around">
+            @{ var types = new[] { "Food", "Domestic", "Health", "Cosmetic", "Other" }; }
+            @foreach (var type in types)
+            {
+                <div class="col-md-2">
+                    @if (type == Model.Type)
+                    {
+                        <input asp-for="Type" type="radio" value="@type" checked disabled>
+                    }
+                    else
+                    {
+                        <input asp-for="Type" type="radio" value="@type" disabled>
+                    }
+                    <label asp-for="Type">@type</label>
+                </div>
+            }
+        </div>
+        <hr class="hr-2 bg-dark half-width" />
+    </div>
+    <div class="button-holder d-flex justify-content-around w-50 mx-auto">
+        <button type="submit" class="btn chushka-bg-color">Delete</button>
+        <a onclick="window.history.back()" class="btn chushka-bg-color text-white">Cancel</a>
+    </div>
+</form>

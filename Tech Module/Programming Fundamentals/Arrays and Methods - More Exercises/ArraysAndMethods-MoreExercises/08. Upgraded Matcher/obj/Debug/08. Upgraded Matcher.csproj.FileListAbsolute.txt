@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\08. Upgraded Matcher\bin\Debug\_08.Upgraded_Matcher.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\08. Upgraded Matcher\bin\Debug\_08.Upgraded_Matcher.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\08. Upgraded Matcher\bin\Debug\_08.Upgraded_Matcher.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\08. Upgraded Matcher\obj\Debug\08. Upgraded Matcher.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\08. Upgraded Matcher\obj\Debug\_08.Upgraded_Matcher.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\08. Upgraded Matcher\obj\Debug\_08.Upgraded_Matcher.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\02-Max-Method\bin\Debug\02-Max-Method.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\02-Max-Method\bin\Debug\02-Max-Method.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\02-Max-Method\bin\Debug\02-Max-Method.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\02-Max-Method\obj\Debug\02-Max-Method.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\02-Max-Method\obj\Debug\02-Max-Method.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\02-Max-Method\obj\Debug\02-Max-Method.pdb

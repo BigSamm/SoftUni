@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.Class_Box_Data_Validation\bin\Debug\netcoreapp2.0\02.Class_Box_Data_Validation.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.Class_Box_Data_Validation\bin\Debug\netcoreapp2.0\02.Class_Box_Data_Validation.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.Class_Box_Data_Validation\bin\Debug\netcoreapp2.0\02.Class_Box_Data_Validation.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.Class_Box_Data_Validation\bin\Debug\netcoreapp2.0\02.Class_Box_Data_Validation.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.Class_Box_Data_Validation\bin\Debug\netcoreapp2.0\02.Class_Box_Data_Validation.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.Class_Box_Data_Validation\obj\Debug\netcoreapp2.0\02.Class_Box_Data_Validation.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.Class_Box_Data_Validation\obj\Debug\netcoreapp2.0\02.Class_Box_Data_Validation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.Class_Box_Data_Validation\obj\Debug\netcoreapp2.0\02.Class_Box_Data_Validation.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.Class_Box_Data_Validation\obj\Debug\netcoreapp2.0\02.Class_Box_Data_Validation.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.Class_Box_Data_Validation\obj\Debug\netcoreapp2.0\02.Class_Box_Data_Validation.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.Class_Box_Data_Validation\obj\Debug\netcoreapp2.0\02.Class_Box_Data_Validation.pdb

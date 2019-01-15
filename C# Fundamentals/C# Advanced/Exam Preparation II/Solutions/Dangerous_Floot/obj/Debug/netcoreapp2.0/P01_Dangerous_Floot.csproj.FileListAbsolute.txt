@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Dangerous_Floot\bin\Debug\netcoreapp2.0\P01_Dangerous_Floot.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Dangerous_Floot\bin\Debug\netcoreapp2.0\P01_Dangerous_Floot.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Dangerous_Floot\bin\Debug\netcoreapp2.0\P01_Dangerous_Floot.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Dangerous_Floot\bin\Debug\netcoreapp2.0\P01_Dangerous_Floot.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Dangerous_Floot\bin\Debug\netcoreapp2.0\P01_Dangerous_Floot.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Dangerous_Floot\obj\Debug\netcoreapp2.0\P01_Dangerous_Floot.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Dangerous_Floot\obj\Debug\netcoreapp2.0\P01_Dangerous_Floot.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Dangerous_Floot\obj\Debug\netcoreapp2.0\P01_Dangerous_Floot.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Dangerous_Floot\obj\Debug\netcoreapp2.0\P01_Dangerous_Floot.pdb

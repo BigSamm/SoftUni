@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\04. Roli The Coder\obj\Debug\04. Roli The Coder.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\04. Roli The Coder\bin\Debug\_04.Roli_The_Coder.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\04. Roli The Coder\bin\Debug\_04.Roli_The_Coder.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\04. Roli The Coder\bin\Debug\_04.Roli_The_Coder.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\04. Roli The Coder\obj\Debug\_04.Roli_The_Coder.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\04. Roli The Coder\obj\Debug\_04.Roli_The_Coder.pdb

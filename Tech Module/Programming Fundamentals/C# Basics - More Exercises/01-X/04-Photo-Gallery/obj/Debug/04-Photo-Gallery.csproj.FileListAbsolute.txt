@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\04-Photo-Gallery\bin\Debug\04-Photo-Gallery.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\04-Photo-Gallery\bin\Debug\04-Photo-Gallery.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\04-Photo-Gallery\bin\Debug\04-Photo-Gallery.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\04-Photo-Gallery\obj\Debug\04-Photo-Gallery.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\04-Photo-Gallery\obj\Debug\04-Photo-Gallery.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\04-Photo-Gallery\obj\Debug\04-Photo-Gallery.pdb

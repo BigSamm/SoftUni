@@ -1,0 +1,5 @@
+E:\SoftUni\EXAM\05-Hourglass\bin\Debug\05-Hourglass.exe.config
+E:\SoftUni\EXAM\05-Hourglass\bin\Debug\05-Hourglass.exe
+E:\SoftUni\EXAM\05-Hourglass\bin\Debug\05-Hourglass.pdb
+E:\SoftUni\EXAM\05-Hourglass\obj\Debug\05-Hourglass.exe
+E:\SoftUni\EXAM\05-Hourglass\obj\Debug\05-Hourglass.pdb

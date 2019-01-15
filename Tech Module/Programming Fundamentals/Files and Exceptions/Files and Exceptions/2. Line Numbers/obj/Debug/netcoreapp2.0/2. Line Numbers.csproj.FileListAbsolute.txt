@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\2. Line Numbers\bin\Debug\netcoreapp2.0\2. Line Numbers.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\2. Line Numbers\bin\Debug\netcoreapp2.0\2. Line Numbers.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\2. Line Numbers\bin\Debug\netcoreapp2.0\2. Line Numbers.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\2. Line Numbers\bin\Debug\netcoreapp2.0\2. Line Numbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\2. Line Numbers\bin\Debug\netcoreapp2.0\2. Line Numbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\2. Line Numbers\obj\Debug\netcoreapp2.0\2. Line Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\2. Line Numbers\obj\Debug\netcoreapp2.0\2. Line Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\2. Line Numbers\obj\Debug\netcoreapp2.0\2. Line Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\2. Line Numbers\obj\Debug\netcoreapp2.0\2. Line Numbers.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\2. Line Numbers\obj\Debug\netcoreapp2.0\2. Line Numbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\2. Line Numbers\obj\Debug\netcoreapp2.0\2. Line Numbers.pdb

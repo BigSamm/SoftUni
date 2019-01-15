@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\02. Append Lists\bin\Debug\_02.Append_Lists.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\02. Append Lists\bin\Debug\_02.Append_Lists.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\02. Append Lists\bin\Debug\_02.Append_Lists.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\02. Append Lists\obj\Debug\_02.Append_Lists.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\02. Append Lists\obj\Debug\_02.Append_Lists.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\3ti chas\Exam\Harvest\bin\Debug\Harvest.exe.config
+E:\SoftUni\3ti chas\Exam\Harvest\bin\Debug\Harvest.exe
+E:\SoftUni\3ti chas\Exam\Harvest\bin\Debug\Harvest.pdb
+E:\SoftUni\3ti chas\Exam\Harvest\obj\Debug\Harvest.csprojResolveAssemblyReference.cache
+E:\SoftUni\3ti chas\Exam\Harvest\obj\Debug\Harvest.exe
+E:\SoftUni\3ti chas\Exam\Harvest\obj\Debug\Harvest.pdb

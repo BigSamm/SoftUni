@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\08-Employee-Data\bin\Debug\08-Employee-Data.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\08-Employee-Data\bin\Debug\08-Employee-Data.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\08-Employee-Data\bin\Debug\08-Employee-Data.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\08-Employee-Data\obj\Debug\08-Employee-Data.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\08-Employee-Data\obj\Debug\08-Employee-Data.pdb

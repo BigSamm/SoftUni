@@ -1,0 +1,5 @@
+E:\SoftUni\6ti chas\Draw-with-Loops\05-Square-Frame\bin\Debug\05-Square-Frame.exe.config
+E:\SoftUni\6ti chas\Draw-with-Loops\05-Square-Frame\bin\Debug\05-Square-Frame.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\05-Square-Frame\bin\Debug\05-Square-Frame.pdb
+E:\SoftUni\6ti chas\Draw-with-Loops\05-Square-Frame\obj\Debug\05-Square-Frame.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\05-Square-Frame\obj\Debug\05-Square-Frame.pdb

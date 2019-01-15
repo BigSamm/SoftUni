@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\06-Interval-of-Numbers\bin\Debug\06-Interval-of-Numbers.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\06-Interval-of-Numbers\bin\Debug\06-Interval-of-Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\06-Interval-of-Numbers\bin\Debug\06-Interval-of-Numbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\06-Interval-of-Numbers\obj\Debug\06-Interval-of-Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\06-Interval-of-Numbers\obj\Debug\06-Interval-of-Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\06-Interval-of-Numbers\obj\Debug\06-Interval-of-Numbers.pdb

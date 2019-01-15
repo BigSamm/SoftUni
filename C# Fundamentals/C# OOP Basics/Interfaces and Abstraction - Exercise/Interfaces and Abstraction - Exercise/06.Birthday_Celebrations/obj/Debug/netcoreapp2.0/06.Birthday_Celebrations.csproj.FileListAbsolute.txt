@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\06.Birthday_Celebrations\bin\Debug\netcoreapp2.0\06.Birthday_Celebrations.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\06.Birthday_Celebrations\bin\Debug\netcoreapp2.0\06.Birthday_Celebrations.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\06.Birthday_Celebrations\bin\Debug\netcoreapp2.0\06.Birthday_Celebrations.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\06.Birthday_Celebrations\bin\Debug\netcoreapp2.0\06.Birthday_Celebrations.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\06.Birthday_Celebrations\bin\Debug\netcoreapp2.0\06.Birthday_Celebrations.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\06.Birthday_Celebrations\obj\Debug\netcoreapp2.0\06.Birthday_Celebrations.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\06.Birthday_Celebrations\obj\Debug\netcoreapp2.0\06.Birthday_Celebrations.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\06.Birthday_Celebrations\obj\Debug\netcoreapp2.0\06.Birthday_Celebrations.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\06.Birthday_Celebrations\obj\Debug\netcoreapp2.0\06.Birthday_Celebrations.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\06.Birthday_Celebrations\obj\Debug\netcoreapp2.0\06.Birthday_Celebrations.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\06.Birthday_Celebrations\obj\Debug\netcoreapp2.0\06.Birthday_Celebrations.pdb

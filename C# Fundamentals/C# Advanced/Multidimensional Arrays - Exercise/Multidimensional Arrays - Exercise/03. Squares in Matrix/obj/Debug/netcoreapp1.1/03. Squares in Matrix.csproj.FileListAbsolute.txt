@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. Squares in Matrix\bin\Debug\netcoreapp1.1\03. Squares in Matrix.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. Squares in Matrix\bin\Debug\netcoreapp1.1\03. Squares in Matrix.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. Squares in Matrix\bin\Debug\netcoreapp1.1\03. Squares in Matrix.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. Squares in Matrix\bin\Debug\netcoreapp1.1\03. Squares in Matrix.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. Squares in Matrix\bin\Debug\netcoreapp1.1\03. Squares in Matrix.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. Squares in Matrix\obj\Debug\netcoreapp1.1\03. Squares in Matrix.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. Squares in Matrix\obj\Debug\netcoreapp1.1\03. Squares in Matrix.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. Squares in Matrix\obj\Debug\netcoreapp1.1\03. Squares in Matrix.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. Squares in Matrix\obj\Debug\netcoreapp1.1\03. Squares in Matrix.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. Squares in Matrix\obj\Debug\netcoreapp1.1\03. Squares in Matrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. Squares in Matrix\obj\Debug\netcoreapp1.1\03. Squares in Matrix.AssemblyInfoInputs.cache

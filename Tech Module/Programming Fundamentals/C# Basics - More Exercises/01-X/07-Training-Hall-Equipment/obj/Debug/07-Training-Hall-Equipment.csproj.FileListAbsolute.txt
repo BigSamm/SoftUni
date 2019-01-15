@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\07-Training-Hall-Equipment\bin\Debug\07-Training-Hall-Equipment.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\07-Training-Hall-Equipment\bin\Debug\07-Training-Hall-Equipment.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\07-Training-Hall-Equipment\bin\Debug\07-Training-Hall-Equipment.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\07-Training-Hall-Equipment\obj\Debug\07-Training-Hall-Equipment.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\07-Training-Hall-Equipment\obj\Debug\07-Training-Hall-Equipment.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\07-Training-Hall-Equipment\obj\Debug\07-Training-Hall-Equipment.pdb

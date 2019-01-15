@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Vollkorn');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    width: calc(100% - 20px);
+    padding: 10px;
+    height: calc(100% - 20px);
+}
+
+h1 {
+    padding: 20px 0 0 250px;
+}
+
+main {
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+main div {
+    padding-bottom: 40px;
+}
+main div figure {
+    border: 1px solid gray;
+    width: 28%;
+    float: left;
+    margin-right: 20px;
+}
+main div p {
+    width: 60%;
+}
+main div p:first-of-type {
+    font-style: italic;
+}
+main div h2 {
+    padding: 10px 0;
+    color: #72aeb4;
+}
+
+figure, p, h2 {
+    display: inline-block;
+}
+a {
+    color: #72aeb4;
+}

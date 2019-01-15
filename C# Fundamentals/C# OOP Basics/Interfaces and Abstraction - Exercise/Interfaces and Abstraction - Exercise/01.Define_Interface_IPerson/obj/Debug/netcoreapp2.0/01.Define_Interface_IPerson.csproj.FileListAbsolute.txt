@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\01.Define_Interface_IPerson\bin\Debug\netcoreapp2.0\01.Define_Interface_IPerson.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\01.Define_Interface_IPerson\bin\Debug\netcoreapp2.0\01.Define_Interface_IPerson.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\01.Define_Interface_IPerson\bin\Debug\netcoreapp2.0\01.Define_Interface_IPerson.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\01.Define_Interface_IPerson\bin\Debug\netcoreapp2.0\01.Define_Interface_IPerson.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\01.Define_Interface_IPerson\bin\Debug\netcoreapp2.0\01.Define_Interface_IPerson.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\01.Define_Interface_IPerson\obj\Debug\netcoreapp2.0\01.Define_Interface_IPerson.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\01.Define_Interface_IPerson\obj\Debug\netcoreapp2.0\01.Define_Interface_IPerson.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\01.Define_Interface_IPerson\obj\Debug\netcoreapp2.0\01.Define_Interface_IPerson.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\01.Define_Interface_IPerson\obj\Debug\netcoreapp2.0\01.Define_Interface_IPerson.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\01.Define_Interface_IPerson\obj\Debug\netcoreapp2.0\01.Define_Interface_IPerson.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\01.Define_Interface_IPerson\obj\Debug\netcoreapp2.0\01.Define_Interface_IPerson.pdb

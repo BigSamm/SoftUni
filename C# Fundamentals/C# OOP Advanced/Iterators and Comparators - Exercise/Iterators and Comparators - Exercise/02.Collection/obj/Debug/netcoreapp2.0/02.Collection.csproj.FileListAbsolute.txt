@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\2ri chas\Simple-Calculations\Pravougulnik\bin\Debug\Pravougulnik.exe.config
+E:\SoftUni\2ri chas\Simple-Calculations\Pravougulnik\bin\Debug\Pravougulnik.exe
+E:\SoftUni\2ri chas\Simple-Calculations\Pravougulnik\bin\Debug\Pravougulnik.pdb
+E:\SoftUni\2ri chas\Simple-Calculations\Pravougulnik\obj\Debug\Pravougulnik.csprojResolveAssemblyReference.cache
+E:\SoftUni\2ri chas\Simple-Calculations\Pravougulnik\obj\Debug\Pravougulnik.exe
+E:\SoftUni\2ri chas\Simple-Calculations\Pravougulnik\obj\Debug\Pravougulnik.pdb

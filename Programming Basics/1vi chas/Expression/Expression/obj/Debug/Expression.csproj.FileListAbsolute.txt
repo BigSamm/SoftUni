@@ -1,0 +1,5 @@
+E:\SoftUni\1vi chas\Expression\Expression\bin\Debug\Expression.exe.config
+E:\SoftUni\1vi chas\Expression\Expression\bin\Debug\Expression.exe
+E:\SoftUni\1vi chas\Expression\Expression\bin\Debug\Expression.pdb
+E:\SoftUni\1vi chas\Expression\Expression\obj\Debug\Expression.exe
+E:\SoftUni\1vi chas\Expression\Expression\obj\Debug\Expression.pdb

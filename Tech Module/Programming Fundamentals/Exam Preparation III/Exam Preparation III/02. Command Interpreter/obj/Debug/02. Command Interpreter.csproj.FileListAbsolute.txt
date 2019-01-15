@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation III\Exam Preparation III\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation III\Exam Preparation III\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation III\Exam Preparation III\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation III\Exam Preparation III\02. Command Interpreter\obj\Debug\02. Command Interpreter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation III\Exam Preparation III\02. Command Interpreter\obj\Debug\_02.Command_Interpreter.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation III\Exam Preparation III\02. Command Interpreter\obj\Debug\_02.Command_Interpreter.pdb

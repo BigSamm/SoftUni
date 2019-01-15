@@ -1,0 +1,5 @@
+E:\SoftUni\7ti chas\Advanced-Loops\09-Sum-Digits\bin\Debug\09-Sum-Digits.exe.config
+E:\SoftUni\7ti chas\Advanced-Loops\09-Sum-Digits\bin\Debug\09-Sum-Digits.exe
+E:\SoftUni\7ti chas\Advanced-Loops\09-Sum-Digits\bin\Debug\09-Sum-Digits.pdb
+E:\SoftUni\7ti chas\Advanced-Loops\09-Sum-Digits\obj\Debug\09-Sum-Digits.exe
+E:\SoftUni\7ti chas\Advanced-Loops\09-Sum-Digits\obj\Debug\09-Sum-Digits.pdb

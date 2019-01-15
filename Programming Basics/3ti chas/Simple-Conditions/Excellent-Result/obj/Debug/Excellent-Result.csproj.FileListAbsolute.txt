@@ -1,0 +1,6 @@
+E:\SoftUni\3ti chas\Simple-Conditions\Excellent-Result\bin\Debug\Excellent-Result.exe.config
+E:\SoftUni\3ti chas\Simple-Conditions\Excellent-Result\bin\Debug\Excellent-Result.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Excellent-Result\bin\Debug\Excellent-Result.pdb
+E:\SoftUni\3ti chas\Simple-Conditions\Excellent-Result\obj\Debug\Excellent-Result.csprojResolveAssemblyReference.cache
+E:\SoftUni\3ti chas\Simple-Conditions\Excellent-Result\obj\Debug\Excellent-Result.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Excellent-Result\obj\Debug\Excellent-Result.pdb

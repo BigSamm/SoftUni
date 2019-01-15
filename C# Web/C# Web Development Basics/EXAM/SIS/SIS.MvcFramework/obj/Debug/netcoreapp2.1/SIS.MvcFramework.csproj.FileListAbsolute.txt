@@ -1,0 +1,14 @@
+D:\SoftUni\C# Web\C# Web Development Basics\EXAM\SIS\SIS.MvcFramework\bin\Debug\netcoreapp2.1\SIS.MvcFramework.deps.json
+D:\SoftUni\C# Web\C# Web Development Basics\EXAM\SIS\SIS.MvcFramework\bin\Debug\netcoreapp2.1\SIS.MvcFramework.dll
+D:\SoftUni\C# Web\C# Web Development Basics\EXAM\SIS\SIS.MvcFramework\bin\Debug\netcoreapp2.1\SIS.MvcFramework.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\EXAM\SIS\SIS.MvcFramework\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\SoftUni\C# Web\C# Web Development Basics\EXAM\SIS\SIS.MvcFramework\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\SoftUni\C# Web\C# Web Development Basics\EXAM\SIS\SIS.MvcFramework\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\EXAM\SIS\SIS.MvcFramework\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\EXAM\SIS\SIS.MvcFramework\obj\Debug\netcoreapp2.1\SIS.MvcFramework.csprojAssemblyReference.cache
+D:\SoftUni\C# Web\C# Web Development Basics\EXAM\SIS\SIS.MvcFramework\obj\Debug\netcoreapp2.1\SIS.MvcFramework.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\EXAM\SIS\SIS.MvcFramework\obj\Debug\netcoreapp2.1\SIS.MvcFramework.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\EXAM\SIS\SIS.MvcFramework\obj\Debug\netcoreapp2.1\SIS.MvcFramework.AssemblyInfo.cs
+D:\SoftUni\C# Web\C# Web Development Basics\EXAM\SIS\SIS.MvcFramework\obj\Debug\netcoreapp2.1\SIS.MvcFramework.csproj.CopyComplete
+D:\SoftUni\C# Web\C# Web Development Basics\EXAM\SIS\SIS.MvcFramework\obj\Debug\netcoreapp2.1\SIS.MvcFramework.dll
+D:\SoftUni\C# Web\C# Web Development Basics\EXAM\SIS\SIS.MvcFramework\obj\Debug\netcoreapp2.1\SIS.MvcFramework.pdb

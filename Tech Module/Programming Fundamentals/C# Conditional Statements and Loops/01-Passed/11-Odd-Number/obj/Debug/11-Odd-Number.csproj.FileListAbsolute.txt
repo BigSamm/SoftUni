@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops\01-Passed\11-Odd-Number\obj\Debug\11-Odd-Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops\01-Passed\11-Odd-Number\bin\Debug\11-Odd-Number.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops\01-Passed\11-Odd-Number\bin\Debug\11-Odd-Number.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops\01-Passed\11-Odd-Number\bin\Debug\11-Odd-Number.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops\01-Passed\11-Odd-Number\obj\Debug\11-Odd-Number.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops\01-Passed\11-Odd-Number\obj\Debug\11-Odd-Number.pdb

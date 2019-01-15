@@ -1,0 +1,5 @@
+E:\SoftUni\2ri chas\Simple-Calculations\USDtoBGN\bin\Debug\USDtoBGN.exe.config
+E:\SoftUni\2ri chas\Simple-Calculations\USDtoBGN\bin\Debug\USDtoBGN.exe
+E:\SoftUni\2ri chas\Simple-Calculations\USDtoBGN\bin\Debug\USDtoBGN.pdb
+E:\SoftUni\2ri chas\Simple-Calculations\USDtoBGN\obj\Debug\USDtoBGN.exe
+E:\SoftUni\2ri chas\Simple-Calculations\USDtoBGN\obj\Debug\USDtoBGN.pdb

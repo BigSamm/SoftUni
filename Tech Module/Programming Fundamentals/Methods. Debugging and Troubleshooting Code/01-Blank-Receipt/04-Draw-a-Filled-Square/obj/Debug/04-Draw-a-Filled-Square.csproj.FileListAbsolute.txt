@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\04-Draw-a-Filled-Square\bin\Debug\04-Draw-a-Filled-Square.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\04-Draw-a-Filled-Square\bin\Debug\04-Draw-a-Filled-Square.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\04-Draw-a-Filled-Square\bin\Debug\04-Draw-a-Filled-Square.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\04-Draw-a-Filled-Square\obj\Debug\04-Draw-a-Filled-Square.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\04-Draw-a-Filled-Square\obj\Debug\04-Draw-a-Filled-Square.pdb

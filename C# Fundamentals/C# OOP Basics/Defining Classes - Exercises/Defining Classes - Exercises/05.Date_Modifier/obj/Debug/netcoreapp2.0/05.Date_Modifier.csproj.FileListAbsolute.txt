@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\05.Date_Modifier\bin\Debug\netcoreapp2.0\05.Date_Modifier.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\05.Date_Modifier\bin\Debug\netcoreapp2.0\05.Date_Modifier.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\05.Date_Modifier\bin\Debug\netcoreapp2.0\05.Date_Modifier.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\05.Date_Modifier\bin\Debug\netcoreapp2.0\05.Date_Modifier.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\05.Date_Modifier\bin\Debug\netcoreapp2.0\05.Date_Modifier.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\05.Date_Modifier\obj\Debug\netcoreapp2.0\05.Date_Modifier.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\05.Date_Modifier\obj\Debug\netcoreapp2.0\05.Date_Modifier.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\05.Date_Modifier\obj\Debug\netcoreapp2.0\05.Date_Modifier.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\05.Date_Modifier\obj\Debug\netcoreapp2.0\05.Date_Modifier.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\05.Date_Modifier\obj\Debug\netcoreapp2.0\05.Date_Modifier.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\05.Date_Modifier\obj\Debug\netcoreapp2.0\05.Date_Modifier.pdb

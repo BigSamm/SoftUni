@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\07. Advertisement Message\bin\Debug\netcoreapp2.0\07. Advertisement Message.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\07. Advertisement Message\bin\Debug\netcoreapp2.0\07. Advertisement Message.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\07. Advertisement Message\bin\Debug\netcoreapp2.0\07. Advertisement Message.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\07. Advertisement Message\bin\Debug\netcoreapp2.0\07. Advertisement Message.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\07. Advertisement Message\bin\Debug\netcoreapp2.0\07. Advertisement Message.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\07. Advertisement Message\obj\Debug\netcoreapp2.0\07. Advertisement Message.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\07. Advertisement Message\obj\Debug\netcoreapp2.0\07. Advertisement Message.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\07. Advertisement Message\obj\Debug\netcoreapp2.0\07. Advertisement Message.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\07. Advertisement Message\obj\Debug\netcoreapp2.0\07. Advertisement Message.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\07. Advertisement Message\obj\Debug\netcoreapp2.0\07. Advertisement Message.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\07. Advertisement Message\obj\Debug\netcoreapp2.0\07. Advertisement Message.pdb

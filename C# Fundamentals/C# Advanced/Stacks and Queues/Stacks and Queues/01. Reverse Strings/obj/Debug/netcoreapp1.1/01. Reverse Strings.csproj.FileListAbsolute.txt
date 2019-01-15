@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\01. Reverse Strings\bin\Debug\netcoreapp1.1\01. Reverse Strings.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\01. Reverse Strings\bin\Debug\netcoreapp1.1\01. Reverse Strings.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\01. Reverse Strings\bin\Debug\netcoreapp1.1\01. Reverse Strings.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\01. Reverse Strings\bin\Debug\netcoreapp1.1\01. Reverse Strings.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\01. Reverse Strings\bin\Debug\netcoreapp1.1\01. Reverse Strings.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\01. Reverse Strings\obj\Debug\netcoreapp1.1\01. Reverse Strings.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\01. Reverse Strings\obj\Debug\netcoreapp1.1\01. Reverse Strings.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\01. Reverse Strings\obj\Debug\netcoreapp1.1\01. Reverse Strings.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\01. Reverse Strings\obj\Debug\netcoreapp1.1\01. Reverse Strings.pdb

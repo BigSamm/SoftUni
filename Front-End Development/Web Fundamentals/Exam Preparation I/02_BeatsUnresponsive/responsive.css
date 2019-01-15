@@ -1,0 +1,39 @@
+@media screen and (max-width: 640px) {
+    .nav-primary {
+        display: block;
+        text-align: center;
+    }
+
+    .nav-item {
+        margin-bottom: 30px;
+    }
+    .nav-item:first-of-type {
+        margin-top: 30px;
+    }
+
+    .nav-item > a {
+        margin-right: 0;
+    }
+
+    main {
+        text-align: center;
+    }
+
+    .second-row {
+        display: block;
+    }
+
+    .mixr-left, .urbeats-right {
+        display: block;
+        width: 100%;
+        padding-left: 0;
+    }
+
+    .grid-gallery {
+        display: inline-block;
+    }
+
+    .product-img {
+        width: 49%;
+    }
+}

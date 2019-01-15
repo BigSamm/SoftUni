@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\09.Custom_List_Iterator\bin\Debug\netcoreapp2.0\09.Custom_List_Iterator.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\09.Custom_List_Iterator\bin\Debug\netcoreapp2.0\09.Custom_List_Iterator.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\09.Custom_List_Iterator\bin\Debug\netcoreapp2.0\09.Custom_List_Iterator.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\09.Custom_List_Iterator\bin\Debug\netcoreapp2.0\09.Custom_List_Iterator.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\09.Custom_List_Iterator\bin\Debug\netcoreapp2.0\09.Custom_List_Iterator.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\09.Custom_List_Iterator\obj\Debug\netcoreapp2.0\09.Custom_List_Iterator.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\09.Custom_List_Iterator\obj\Debug\netcoreapp2.0\09.Custom_List_Iterator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\09.Custom_List_Iterator\obj\Debug\netcoreapp2.0\09.Custom_List_Iterator.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\09.Custom_List_Iterator\obj\Debug\netcoreapp2.0\09.Custom_List_Iterator.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\09.Custom_List_Iterator\obj\Debug\netcoreapp2.0\09.Custom_List_Iterator.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\09.Custom_List_Iterator\obj\Debug\netcoreapp2.0\09.Custom_List_Iterator.pdb

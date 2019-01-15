@@ -1,0 +1,27 @@
+Basic calculated fields sample.
+					
+Distance (mi) *
+								
+Weight (lb)
+								
+Fragile 
+								
+Yes
+No
+								
+Length (in)
+								
+height (in)
+								
+width (in)
+								
+Extra services:
+							
+Insurance						
+Express Delivery
+								
+total: $ 00.00
+						
+					
+				
+			

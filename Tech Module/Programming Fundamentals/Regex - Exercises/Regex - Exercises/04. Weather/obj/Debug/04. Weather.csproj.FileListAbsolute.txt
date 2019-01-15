@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\04. Weather\bin\Debug\_04.Weather.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\04. Weather\bin\Debug\_04.Weather.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\04. Weather\bin\Debug\_04.Weather.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\04. Weather\obj\Debug\04. Weather.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\04. Weather\obj\Debug\_04.Weather.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\04. Weather\obj\Debug\_04.Weather.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\6ti chas\Draw-with-Loops\06-Rhombus-of-Stars\bin\Debug\06-Rhombus-of-Stars.exe.config
+E:\SoftUni\6ti chas\Draw-with-Loops\06-Rhombus-of-Stars\bin\Debug\06-Rhombus-of-Stars.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\06-Rhombus-of-Stars\bin\Debug\06-Rhombus-of-Stars.pdb
+E:\SoftUni\6ti chas\Draw-with-Loops\06-Rhombus-of-Stars\obj\Debug\06-Rhombus-of-Stars.csprojResolveAssemblyReference.cache
+E:\SoftUni\6ti chas\Draw-with-Loops\06-Rhombus-of-Stars\obj\Debug\06-Rhombus-of-Stars.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\06-Rhombus-of-Stars\obj\Debug\06-Rhombus-of-Stars.pdb

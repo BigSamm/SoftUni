@@ -1,0 +1,5 @@
+E:\SoftUni\7ti chas\10-Check-Prime\bin\Debug\10-Check-Prime.exe.config
+E:\SoftUni\7ti chas\10-Check-Prime\bin\Debug\10-Check-Prime.exe
+E:\SoftUni\7ti chas\10-Check-Prime\bin\Debug\10-Check-Prime.pdb
+E:\SoftUni\7ti chas\10-Check-Prime\obj\Debug\10-Check-Prime.exe
+E:\SoftUni\7ti chas\10-Check-Prime\obj\Debug\10-Check-Prime.pdb

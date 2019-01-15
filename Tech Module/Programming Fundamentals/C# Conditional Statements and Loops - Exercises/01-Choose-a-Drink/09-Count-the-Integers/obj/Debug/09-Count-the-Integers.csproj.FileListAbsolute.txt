@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\09-Count-the-Integers\bin\Debug\09-Count-the-Integers.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\09-Count-the-Integers\bin\Debug\09-Count-the-Integers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\09-Count-the-Integers\bin\Debug\09-Count-the-Integers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\09-Count-the-Integers\obj\Debug\09-Count-the-Integers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\09-Count-the-Integers\obj\Debug\09-Count-the-Integers.pdb

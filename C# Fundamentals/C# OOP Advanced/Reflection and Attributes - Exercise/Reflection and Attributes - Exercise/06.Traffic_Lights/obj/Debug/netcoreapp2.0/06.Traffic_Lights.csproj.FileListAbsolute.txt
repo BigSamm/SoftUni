@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\06.Traffic_Lights\bin\Debug\netcoreapp2.0\06.Traffic_Lights.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\06.Traffic_Lights\bin\Debug\netcoreapp2.0\06.Traffic_Lights.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\06.Traffic_Lights\bin\Debug\netcoreapp2.0\06.Traffic_Lights.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\06.Traffic_Lights\bin\Debug\netcoreapp2.0\06.Traffic_Lights.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\06.Traffic_Lights\bin\Debug\netcoreapp2.0\06.Traffic_Lights.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\06.Traffic_Lights\obj\Debug\netcoreapp2.0\06.Traffic_Lights.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\06.Traffic_Lights\obj\Debug\netcoreapp2.0\06.Traffic_Lights.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\06.Traffic_Lights\obj\Debug\netcoreapp2.0\06.Traffic_Lights.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\06.Traffic_Lights\obj\Debug\netcoreapp2.0\06.Traffic_Lights.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\06.Traffic_Lights\obj\Debug\netcoreapp2.0\06.Traffic_Lights.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes - Exercise\Reflection and Attributes - Exercise\06.Traffic_Lights\obj\Debug\netcoreapp2.0\06.Traffic_Lights.pdb

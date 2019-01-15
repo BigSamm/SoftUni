@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,900');
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+button {
+    width: 50%;
+    background: red;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    height: 40px;
+    border-radius: 25px;
+}
+button:hover {
+     cursor: pointer;
+     background: #DC0202;
+}
+
+nav{
+    margin: 50px;
+}
+li{
+    list-style-type: none;
+}
+.nav-primary{
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+}
+.nav-item > a{
+    text-decoration: none;
+    color: #565656;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.nav-item > a:hover {
+    cursor: pointer;
+    border-bottom: 1px solid #565656;
+    color: black;
+}
+
+.first {
+    height: 800px;
+}
+.first .info {
+    width: 30%;
+    margin-top: 150px;
+    margin-left: 150px;
+    display: inline-block;
+}
+.first .info h2 {
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: lighter;
+}
+.first .info p {
+    margin: 50px 0;
+}
+.first .img-container {
+    width: 50%;
+    display: inline-block;
+    float: right;
+}
+
+.second {
+    height: 600px;
+    background: #FBFCFF;
+}
+.second .img-container {
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+.second .info {
+    display: inline-block;
+    float: right;
+    width: 45%;
+    margin-top: 40px;
+}
+.second .info .header {
+    width: 66%;
+}
+.second .info .header h2 {
+    font-size: 70px;
+    text-transform: uppercase;
+    font-weight: lighter;
+    margin-bottom: 0;
+}
+.second .info .header p {
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-left: 185px;
+}
+.second .info .header p span {
+    font-weight: bold;
+}
+.second .info > p {
+    width: 70%;
+    font-size: 18px;
+    margin: 80px 0;
+}
+.second .info > span {
+    font-size: 40px;
+    font-weight: bold;
+}
+.second .info button {
+    width: 30%;
+    margin-left: 40px;
+}
+
+.third {
+    height: 400px;
+    background: #575757;
+    color: white;
+}
+.third .header {
+    margin: 0 auto;
+    padding: 50px 0;
+    text-align: center;
+}
+.third .header img {
+    display: inline-block;
+    margin-right: 30px;
+}
+.third .header h2 {
+    text-transform: uppercase;
+    font-size: 30px;
+    display: inline-block;
+}
+.third .header h2 span {
+    font-weight: lighter;
+}
+.third button {
+    width: 10%;
+    margin: 0 45%;
+    text-transform: uppercase;
+    border-bottom: 1px solid white;
+    border-radius: 0;
+    background: #575757;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.fourth {
+    height: 730px;
+}
+.fourth > div {
+    display: inline-block;
+}
+.fourth .info {
+    float: right;
+    background: #DADADA;
+    width: 812px;
+    height: 729px;
+}
+.fourth .info .header {
+    width: 50%;
+    display: inline-block;
+}
+.fourth .info .header h2 {
+    font-size: 150px;
+    text-transform: uppercase;
+    color: #333;
+    margin-left: 100px;
+    line-height: 180px;
+    margin-bottom: 10px;
+}
+.fourth .info .header p {
+    margin-left: 115px;
+    font-size: 50px;
+    margin-top: 10px;
+}
+.fourth .info .header p span {
+    color: red;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.fourth .info .img-container {
+    width: 30%;
+    display: inline-block;
+    float: right;
+    margin: 60px 50px 0 0;
+}
+
+footer {
+    text-align: center;
+    font-size: 26px;
+}

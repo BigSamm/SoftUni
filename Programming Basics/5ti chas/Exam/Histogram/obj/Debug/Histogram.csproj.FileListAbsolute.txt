@@ -1,0 +1,6 @@
+E:\SoftUni\5ti chas\Exam\Histogram\bin\Debug\Histogram.exe.config
+E:\SoftUni\5ti chas\Exam\Histogram\bin\Debug\Histogram.exe
+E:\SoftUni\5ti chas\Exam\Histogram\bin\Debug\Histogram.pdb
+E:\SoftUni\5ti chas\Exam\Histogram\obj\Debug\Histogram.csprojResolveAssemblyReference.cache
+E:\SoftUni\5ti chas\Exam\Histogram\obj\Debug\Histogram.exe
+E:\SoftUni\5ti chas\Exam\Histogram\obj\Debug\Histogram.pdb

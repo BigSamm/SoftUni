@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\19-Thea-The-Photographer\bin\Debug\19-Thea-The-Photographer.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\19-Thea-The-Photographer\bin\Debug\19-Thea-The-Photographer.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\19-Thea-The-Photographer\bin\Debug\19-Thea-The-Photographer.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\19-Thea-The-Photographer\obj\Debug\19-Thea-The-Photographer.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\19-Thea-The-Photographer\obj\Debug\19-Thea-The-Photographer.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\19-Thea-The-Photographer\obj\Debug\19-Thea-The-Photographer.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\01-Centuries-to-Minutes\bin\Debug\01-Centuries-to-Minutes.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\01-Centuries-to-Minutes\bin\Debug\01-Centuries-to-Minutes.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\01-Centuries-to-Minutes\bin\Debug\01-Centuries-to-Minutes.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\01-Centuries-to-Minutes\obj\Debug\01-Centuries-to-Minutes.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\01-Centuries-to-Minutes\obj\Debug\01-Centuries-to-Minutes.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\01-Centuries-to-Minutes\obj\Debug\01-Centuries-to-Minutes.pdb

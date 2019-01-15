@@ -1,0 +1,14 @@
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P04_Employees_with_Salary_Over_50000\bin\Debug\netcoreapp2.0\P04_Employees_with_Salary_Over_50000.deps.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P04_Employees_with_Salary_Over_50000\bin\Debug\netcoreapp2.0\P04_Employees_with_Salary_Over_50000.runtimeconfig.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P04_Employees_with_Salary_Over_50000\bin\Debug\netcoreapp2.0\P04_Employees_with_Salary_Over_50000.runtimeconfig.dev.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P04_Employees_with_Salary_Over_50000\bin\Debug\netcoreapp2.0\P04_Employees_with_Salary_Over_50000.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P04_Employees_with_Salary_Over_50000\bin\Debug\netcoreapp2.0\P04_Employees_with_Salary_Over_50000.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P04_Employees_with_Salary_Over_50000\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P04_Employees_with_Salary_Over_50000\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P04_Employees_with_Salary_Over_50000\obj\Debug\netcoreapp2.0\P04_Employees_with_Salary_Over_50000.csprojAssemblyReference.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P04_Employees_with_Salary_Over_50000\obj\Debug\netcoreapp2.0\P04_Employees_with_Salary_Over_50000.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P04_Employees_with_Salary_Over_50000\obj\Debug\netcoreapp2.0\P04_Employees_with_Salary_Over_50000.AssemblyInfoInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P04_Employees_with_Salary_Over_50000\obj\Debug\netcoreapp2.0\P04_Employees_with_Salary_Over_50000.AssemblyInfo.cs
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P04_Employees_with_Salary_Over_50000\obj\Debug\netcoreapp2.0\P04_Employees_with_Salary_Over_50000.csproj.CopyComplete
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P04_Employees_with_Salary_Over_50000\obj\Debug\netcoreapp2.0\P04_Employees_with_Salary_Over_50000.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P04_Employees_with_Salary_Over_50000\obj\Debug\netcoreapp2.0\P04_Employees_with_Salary_Over_50000.pdb

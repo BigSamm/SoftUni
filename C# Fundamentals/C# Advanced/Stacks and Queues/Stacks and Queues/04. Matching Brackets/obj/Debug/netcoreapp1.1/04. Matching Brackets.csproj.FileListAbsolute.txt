@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\04. Matching Brackets\bin\Debug\netcoreapp1.1\04. Matching Brackets.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\04. Matching Brackets\bin\Debug\netcoreapp1.1\04. Matching Brackets.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\04. Matching Brackets\bin\Debug\netcoreapp1.1\04. Matching Brackets.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\04. Matching Brackets\bin\Debug\netcoreapp1.1\04. Matching Brackets.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\04. Matching Brackets\bin\Debug\netcoreapp1.1\04. Matching Brackets.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\04. Matching Brackets\obj\Debug\netcoreapp1.1\04. Matching Brackets.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\04. Matching Brackets\obj\Debug\netcoreapp1.1\04. Matching Brackets.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\04. Matching Brackets\obj\Debug\netcoreapp1.1\04. Matching Brackets.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\04. Matching Brackets\obj\Debug\netcoreapp1.1\04. Matching Brackets.pdb

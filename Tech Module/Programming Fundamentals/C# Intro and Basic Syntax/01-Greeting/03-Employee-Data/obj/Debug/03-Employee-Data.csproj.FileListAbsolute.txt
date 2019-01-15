@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Intro and Basic Syntax\01-Greeting\03-Employee-Data\bin\Debug\03-Employee-Data.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Intro and Basic Syntax\01-Greeting\03-Employee-Data\bin\Debug\03-Employee-Data.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Intro and Basic Syntax\01-Greeting\03-Employee-Data\bin\Debug\03-Employee-Data.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Intro and Basic Syntax\01-Greeting\03-Employee-Data\obj\Debug\03-Employee-Data.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Intro and Basic Syntax\01-Greeting\03-Employee-Data\obj\Debug\03-Employee-Data.pdb

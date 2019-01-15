@@ -1,0 +1,6 @@
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Data.deps.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Data.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.csprojAssemblyReference.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.AssemblyInfoInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.AssemblyInfo.cs

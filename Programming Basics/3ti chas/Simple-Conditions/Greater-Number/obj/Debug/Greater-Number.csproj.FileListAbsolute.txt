@@ -1,0 +1,5 @@
+E:\SoftUni\3ti chas\Simple-Conditions\Greater-Number\bin\Debug\Greater-Number.exe.config
+E:\SoftUni\3ti chas\Simple-Conditions\Greater-Number\bin\Debug\Greater-Number.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Greater-Number\bin\Debug\Greater-Number.pdb
+E:\SoftUni\3ti chas\Simple-Conditions\Greater-Number\obj\Debug\Greater-Number.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Greater-Number\obj\Debug\Greater-Number.pdb

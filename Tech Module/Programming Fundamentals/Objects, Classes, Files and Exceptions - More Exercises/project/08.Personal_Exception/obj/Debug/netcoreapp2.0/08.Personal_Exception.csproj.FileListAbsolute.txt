@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\08.Personal_Exception\bin\Debug\netcoreapp2.0\08.Personal_Exception.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\08.Personal_Exception\bin\Debug\netcoreapp2.0\08.Personal_Exception.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\08.Personal_Exception\bin\Debug\netcoreapp2.0\08.Personal_Exception.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\08.Personal_Exception\bin\Debug\netcoreapp2.0\08.Personal_Exception.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\08.Personal_Exception\bin\Debug\netcoreapp2.0\08.Personal_Exception.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\08.Personal_Exception\obj\Debug\netcoreapp2.0\08.Personal_Exception.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\08.Personal_Exception\obj\Debug\netcoreapp2.0\08.Personal_Exception.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\08.Personal_Exception\obj\Debug\netcoreapp2.0\08.Personal_Exception.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\08.Personal_Exception\obj\Debug\netcoreapp2.0\08.Personal_Exception.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\08.Personal_Exception\obj\Debug\netcoreapp2.0\08.Personal_Exception.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\08.Personal_Exception\obj\Debug\netcoreapp2.0\08.Personal_Exception.pdb

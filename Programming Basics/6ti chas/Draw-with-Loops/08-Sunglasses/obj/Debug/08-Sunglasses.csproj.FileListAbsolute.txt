@@ -1,0 +1,5 @@
+E:\SoftUni\6ti chas\Draw-with-Loops\08-Sunglasses\bin\Debug\08-Sunglasses.exe.config
+E:\SoftUni\6ti chas\Draw-with-Loops\08-Sunglasses\bin\Debug\08-Sunglasses.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\08-Sunglasses\bin\Debug\08-Sunglasses.pdb
+E:\SoftUni\6ti chas\Draw-with-Loops\08-Sunglasses\obj\Debug\08-Sunglasses.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\08-Sunglasses\obj\Debug\08-Sunglasses.pdb

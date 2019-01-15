@@ -1,0 +1,6 @@
+E:\SoftUni\4ti chas\Complex-Conditions\Personal-Titles\bin\Debug\Personal-Titles.exe.config
+E:\SoftUni\4ti chas\Complex-Conditions\Personal-Titles\bin\Debug\Personal-Titles.exe
+E:\SoftUni\4ti chas\Complex-Conditions\Personal-Titles\bin\Debug\Personal-Titles.pdb
+E:\SoftUni\4ti chas\Complex-Conditions\Personal-Titles\obj\Debug\Personal-Titles.csprojResolveAssemblyReference.cache
+E:\SoftUni\4ti chas\Complex-Conditions\Personal-Titles\obj\Debug\Personal-Titles.exe
+E:\SoftUni\4ti chas\Complex-Conditions\Personal-Titles\obj\Debug\Personal-Titles.pdb

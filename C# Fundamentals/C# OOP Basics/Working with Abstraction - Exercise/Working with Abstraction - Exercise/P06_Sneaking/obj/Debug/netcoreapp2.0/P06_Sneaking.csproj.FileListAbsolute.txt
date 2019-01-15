@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.csprojResolveAssemblyReference.cache

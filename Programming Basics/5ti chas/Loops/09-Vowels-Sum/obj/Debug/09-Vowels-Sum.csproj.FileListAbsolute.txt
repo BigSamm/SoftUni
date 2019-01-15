@@ -1,0 +1,6 @@
+E:\SoftUni\5ti chas\Loops\09-Vowels-Sum\bin\Debug\09-Vowels-Sum.exe.config
+E:\SoftUni\5ti chas\Loops\09-Vowels-Sum\bin\Debug\09-Vowels-Sum.exe
+E:\SoftUni\5ti chas\Loops\09-Vowels-Sum\bin\Debug\09-Vowels-Sum.pdb
+E:\SoftUni\5ti chas\Loops\09-Vowels-Sum\obj\Debug\09-Vowels-Sum.exe
+E:\SoftUni\5ti chas\Loops\09-Vowels-Sum\obj\Debug\09-Vowels-Sum.pdb
+E:\SoftUni\5ti chas\Loops\09-Vowels-Sum\obj\Debug\09-Vowels-Sum.csprojResolveAssemblyReference.cache

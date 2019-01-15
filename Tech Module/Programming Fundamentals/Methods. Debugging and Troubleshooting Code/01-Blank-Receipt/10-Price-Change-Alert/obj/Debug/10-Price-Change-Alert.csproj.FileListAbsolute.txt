@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\10-Price-Change-Alert\bin\Debug\10-Price-Change-Alert.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\10-Price-Change-Alert\bin\Debug\10-Price-Change-Alert.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\10-Price-Change-Alert\bin\Debug\10-Price-Change-Alert.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\10-Price-Change-Alert\obj\Debug\10-Price-Change-Alert.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\10-Price-Change-Alert\obj\Debug\10-Price-Change-Alert.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\10-Price-Change-Alert\obj\Debug\10-Price-Change-Alert.csprojResolveAssemblyReference.cache

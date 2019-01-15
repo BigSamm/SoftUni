@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\06-Theatre-Promotion\bin\Debug\06-Theatre-Promotion.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\06-Theatre-Promotion\bin\Debug\06-Theatre-Promotion.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\06-Theatre-Promotion\bin\Debug\06-Theatre-Promotion.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\06-Theatre-Promotion\obj\Debug\06-Theatre-Promotion.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\06-Theatre-Promotion\obj\Debug\06-Theatre-Promotion.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\06-Theatre-Promotion\obj\Debug\06-Theatre-Promotion.pdb

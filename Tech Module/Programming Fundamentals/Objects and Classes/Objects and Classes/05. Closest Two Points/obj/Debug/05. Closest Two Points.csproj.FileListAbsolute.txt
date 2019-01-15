@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\05. Closest Two Points\obj\Debug\05. Closest Two Points.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\12-Test-Numbers\obj\Debug\12-Test-Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\12-Test-Numbers\bin\Debug\12-Test-Numbers.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\12-Test-Numbers\bin\Debug\12-Test-Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\12-Test-Numbers\bin\Debug\12-Test-Numbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\12-Test-Numbers\obj\Debug\12-Test-Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\12-Test-Numbers\obj\Debug\12-Test-Numbers.pdb

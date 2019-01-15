@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\05-Special-Numbers\bin\Debug\05-Special-Numbers.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\05-Special-Numbers\bin\Debug\05-Special-Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\05-Special-Numbers\bin\Debug\05-Special-Numbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\05-Special-Numbers\obj\Debug\05-Special-Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\05-Special-Numbers\obj\Debug\05-Special-Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\05-Special-Numbers\obj\Debug\05-Special-Numbers.pdb

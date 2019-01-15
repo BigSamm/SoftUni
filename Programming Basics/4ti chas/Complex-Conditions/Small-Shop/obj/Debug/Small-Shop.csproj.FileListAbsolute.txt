@@ -1,0 +1,5 @@
+E:\SoftUni\4ti chas\Complex-Conditions\Small-Shop\bin\Debug\Small-Shop.exe.config
+E:\SoftUni\4ti chas\Complex-Conditions\Small-Shop\bin\Debug\Small-Shop.exe
+E:\SoftUni\4ti chas\Complex-Conditions\Small-Shop\bin\Debug\Small-Shop.pdb
+E:\SoftUni\4ti chas\Complex-Conditions\Small-Shop\obj\Debug\Small-Shop.exe
+E:\SoftUni\4ti chas\Complex-Conditions\Small-Shop\obj\Debug\Small-Shop.pdb

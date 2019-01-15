@@ -1,0 +1,105 @@
+@import "https://fonts.google.com/selection?selection.family=Lato";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-size: 14px;
+    background: url("images/dark-wood.jpg");
+    max-width: 60%;
+    margin: auto;
+}
+
+img {
+    width: 100%;
+}
+
+header {
+    background: url("images/header-page.jpg") no-repeat;
+    background-size: cover;
+    height: 200px;
+    line-height: 200px;
+}
+
+header h1 {
+    text-align: right;
+    font-size: 50px;
+    letter-spacing: 1px;
+    padding-right: 10px;
+}
+
+nav {
+    background: url("images/header-page.jpg");
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+nav ul li {
+    display: inline-block;
+    font-size: 17px;
+    padding-left: 50px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li:first-of-type a {
+    color: black;
+}
+
+nav a:hover {
+    color: black;
+    cursor: pointer;
+}
+
+main {
+    padding-bottom: 4px;
+    padding-top: 4px;
+}
+
+main .courses {
+    width: 70%;
+    float: left;
+    background-color: white;
+    height: 900px;
+}
+
+main .popular-recipes {
+    width: 30%;
+    float: right;
+    background-color: white;
+    height: 900px;
+}
+
+article figure {
+    width: 50%;
+    float: left;
+    border: 1px solid grey;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+figcaption {
+    font-size: 16px;
+    padding: 5px;
+}
+
+article div {
+    width: 30%;
+    float: right;
+}
+
+article div h2 {
+
+}
+
+footer {
+    background: url("images/header-page.jpg");
+}

@@ -1,0 +1,513 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Zamunda.NET</title>
+	<link type="text/css" rel="stylesheet" href="/css/font-awesome.min.css">
+	<link type="text/css" rel="stylesheet" href="/css/main-stylesheet_v3.css?rand=3120">
+	<link type="text/css" rel="stylesheet" href="/css/icons.css">
+
+	<link rel="stylesheet" href="/css/default.css?rand=519" type="text/css" />
+	<link rel="stylesheet" href="/css/tooltip.css" type="text/css" />
+	<link rel="stylesheet" href="/css/buttonPro_v1.1.css" type="text/css" />
+
+	<link href="/pic/player/video-js.css" rel="stylesheet" type="text/css">
+	<!-- video.js must be in the <head> for older IEs to work. -->
+
+	<script src="/pic/player/video.js"></script>
+
+
+	<link rel="stylesheet" href="/css/jcarousel.responsive.css" type="text/css" />
+	<link rel="stylesheet" type="text/css" media="only screen and (max-device-width: 1000px)" href="/css/mobile_z.css" />
+
+	<LINK rel="alternate" type="application/rss+xml" href="rss.xml" />
+	<LINK rel="alternate" type="application/rss+xml" href="rssdd.xml" />
+	<link rel="alternate" hreflang="bg" href="/bg" />
+	<link href="http://img.zamunda.net/pic/favicon.png" rel="icon" />
+	<meta name="propeller" content="cf9606a8756812009a556f6b288b687e" />
+
+	<meta name="google-site-verification" content="X67p0AtDjD_Aj3Zo8IVmBbguTi0YO94CuMFCwMZ1F5E" />
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+	<meta http-equiv="cache-control" content="no-cache">
+	<meta name="description" content="ALTERNATIVE DOMAIN: ZAMUNDA.CH | Zamunda.NET - bulgarian largest peer 2 peer community. Social network for sharing information and entertainment." />
+	<meta name="keywords" content="zamunda,zamunda.net,сваляне,seed,leech,peer,community,network,social,entertainment,music,movies,games,free,software,замунда,замунда.нет" />
+	<meta property="og:url" content="http://zamunda.net/" />
+	<meta property="og:title" content="Zamunda.NET" />
+	<meta property="og:description" content="ALTERNATIVE DOMAIN: ZAMUNDA.CH | Zamunda.NET - bulgarian largest peer 2 peer community. Social network for sharing information and entertainment." />
+	<meta property="og:type" content="website" />
+	<meta property="og:image" content="http://img.zamunda.net/pic/logo.jpg" />
+	<meta name='profitshareid' content='e1f7dab757c4681a357906a07d80b227' />
+	<meta name="verify-admitad" content="31f39e5973" />
+	<script src="/js/sub.js"></script>
+	<script src="/js/tool.js"></script>
+	<script type='text/javascript' src='/js/jquery-1.9.1.min.js'></script>
+
+
+	<script type='text/javascript' src='/js/custom_z_v2.1.js?rand=8747'></script>
+	<script type="text/javascript" src="/js/jquery.jcarousel.min.js"></script>
+	<script type="text/javascript" src="/js/jcarousel.responsive_new.js"></script>
+
+
+	<style>
+		td.navigation img {
+			height: 24px;
+		}
+	</style>
+
+	<script type="text/javascript">
+
+        function resizeIframe(getHeight)
+        {
+            document.getElementById('games').style.height = parseInt(getHeight,10) + 10 + 'px';
+        }
+
+	</script>
+</head>
+<body link='#000000' vlink='#000000'   >
+<noscript><meta http-equiv="refresh" content="0; url=/nojs.php" /></noscript>
+
+<script src="/js/wz_tooltip.js"></script>
+<script language="JavaScript" type="text/JavaScript">
+
+    function closeit(box)
+    {
+        document.getElementById(box).style.display="none";
+    }
+
+    function showit(box)
+    {
+        document.getElementById(box).style.display="block";
+    }
+
+    function createCookie(name,value,days)
+    {
+        if (days)
+        {
+            var date = new Date();
+            date.setTime(date.getTime()+(days*24*60*60*1000));
+            var expires = "; expires="+date.toGMTString();
+        }
+        else var expires = "";
+        document.cookie = name+"="+value+expires+"; path=/";
+    }
+
+    function SetSize(obj, size) {
+        if (obj.offsetWidth > size) {
+            obj.style.width = size;
+        };
+        if (obj.offsetHeight > size) {
+            obj.style.height = size;
+        };
+    };
+
+    function decision(message, url){
+
+        if(confirm(message)) {
+            location.href = url;
+        }
+
+    }
+
+
+
+
+
+    Function.prototype.bind = function(obj, args) {
+        var method = this,
+            temp = function() {
+                return method.call(obj, args);
+            };
+
+        return temp;
+    }
+    $(function(){
+        var poster="";
+
+
+
+        function dothingsnow(id) {
+
+            $('.item[id="it'+id+'"]').clone().appendTo($('.commontrailers'));
+        }
+        function firsttrailer() {
+            return $('.playvideo').eq(0).attr('youtube');
+
+        }
+        $(".playvideo").click(function() {
+
+            $( "div[id^='video_youtube_poster']").remove();
+            $("#poster"+$(this).attr('idvideo')+"").show();
+
+            $("#poster"+$(this).attr('idvideo')+"").stop().html('<div id="video_youtube_poster'+$(this).attr('idvideo')+'" align="center" style="border-radius: 4px; -moz-border-radius: 4px;padding: 10px;position: absolute;background: #000000;z-index: 10;"><iframe width="689" height="365" src="//zamunda.net/js/jwplayer/trailer.php?vid='+$(this).attr('youtube')+'&autoplay=1" frameborder="0" allowfullscreen></iframe><br /><br /><a class="buttonPro black tiny closevideo" closevideo="'+$(this).attr('idvideo')+'">Close video</a></div>');
+
+            $('div[class="iframe"]').hide();
+
+        });
+
+        $(document).on("click", ".closevideo", function(){
+            $("#poster"+$(this).attr('closevideo')+"").hide();
+            $("#video_youtube_poster"+$(this).attr('closevideo')+"").remove();
+            $('div[class="iframe"]').show();
+
+        });
+
+
+
+
+
+    });
+
+
+
+</script>
+
+<table width=100% cellspacing=0 cellpadding=0 style='background: transparent;position:relative;z-index:2;' class='top_blocks'>
+	<tr>
+		<td class=clear width="44%">
+
+		</td>
+		<td class='logo2' width="8%">
+			<div align=center>
+				<div class='alt_domain'><i>alternative domain: <a href="http://zamunda.ch/">zamunda.ch</a></i></div>
+
+				<!--<a href="/"></a>-->
+				<a href="/" target="_top">
+					<img src="http://img.zamunda.net/pic/blank.gif" width="400" height="120" border="0" title="Peer 2 Peer Community - Zamunda.NET" alt="Peer 2 Peer Community - Zamunda.NET"></a></div>
+		</td>
+		<td class=clear width="44%" align=right>
+
+		</td>
+	</tr>
+
+
+	<table cellpadding="5" cellspacing="0" border="0" class="top_subnav">
+		<tr>
+			<td class="table">
+				<table class=test style="width:100%" cellspacing="0" cellpadding="0" border="0">
+					<tr>
+						<td class="bottom" align="left" valign=bottom><span class="smallfont">
+<table height="33" class=bottom cellspacing="0" cellpadding="0">
+<tr><td class=bottom>
+<a href='/langchange.php?lang=bg'><img src='http://img.zamunda.net/pic/z_icons/flags/Bulgaria.png' class='flag_icon'></a>&nbsp;<a href='/langchange.php?lang=en'><img src='http://img.zamunda.net/pic/z_icons/flags/United Kingdom(Great Britain).png' class='flag_icon'></a>&nbsp;<a href='/langchange.php?lang=ru'><img src='http://img.zamunda.net/pic/z_icons/flags/Russian Federation.png' class='flag_icon'></a>&nbsp;Welcome, <b><a href="/userdetails.php?id=3937051" id="usrname">BigSam</a> </b>&nbsp;[<a href="/logout.php">logout</a>]
+
+<a href="/switchtheme.php"><font class="fa fa-lightbulb-o" style="font-size: 15px; margin-left: 5px; color: #000000;"></font></a></td></tr><tr><td class=bottom>
+<font color=#1900D1>Rating: <font color=#ff0000>0.076</font></font>&nbsp;&nbsp;<font color=#509F00>Uploaded:</font> <font color=#000000>1.00 GB</font>&nbsp;&nbsp;<font color=#CE0000>Downloaded:</font> <font color=#000000>13.26 GB</font>&nbsp;(updated once a day)&nbsp;
+</td></tr></table>
+
+						</td>
+						<td class="bottom" align="right"><span class="smallfont">Time: 22:47&nbsp;&nbsp;<a href=/friends.php><img style=border:none alt=Friends title=Friends src='http://img.zamunda.net/pic/z_icons/friends.png' height='15'></a>&nbsp;<a href=/users.php><img border=0 alt=Users title=Users src='http://img.zamunda.net/pic/z_icons/search.png' height='15'></a><br/>
+<a href='/favorites' style='font-size:10px;' >[ <i class="fa fa-heart" style="color: #d52158;"></i> <font face=arial><b>favorite bananas</b></font> ]</a>&nbsp;
+<a href='/seederswant.php'><font face=arial size=1>[ bananas needing seed ]</font></a>&nbsp;
+<a href='/tags.php' target=_blank><font face=arial size=1>[ tags ]</font></a>&nbsp;
+<a href='/smilies.php' target=_blank><font face=arial size=1>[ smileys ]</font></a>&nbsp;
+[ <a href='/bitbucket.php' onclick="window.open('/bitbucket.php', 'bitbucket', 'HEIGHT=400,resizable=yes,scrollbars=yes,WIDTH=700');return false;" target=_blank><font face=arial size=1>bitbucket</font></a> ]
+<span class=smallfont><a href=/messages.php?action=viewmailbox><img style='border:none;height:15px;' title='Inbox (no new messages)' src=http://img.zamunda.net/pic/z_icons/messages.png></a>  (0 new)</span></span></td>
+					</tr>
+				</table>
+	</table>
+
+
+</table>
+
+
+
+
+<style>
+
+
+</style>
+
+
+
+
+<style>
+	td.upnav {
+		font-size: 11px;
+		border-bottom: 0px #000000 solid;
+		padding-left: 8px;
+		padding-right: 8px;
+	}
+</style>
+
+<p></p>
+
+
+<div align="center" class="content-position">
+	<div align="center" class="content-wrapper">
+		<table class="mainouter" width=100% border="1" cellspacing="0" cellpadding="5">
+
+			<!------------- MENU ------------------------------------------------------------------------>
+
+
+
+
+			<tr><td class=outer align=center>
+
+
+				<table width="950" class="bottom navmain" cellspacing="0" cellpadding="5" border="0" style="position: relative;z-index: 2;">
+					<tr>
+						<td align="center" class="navigation"><a href="/" target=_top><img id="homepage" src="http://img.zamunda.net/pic/z_icons/home.png" border=0><br>Home</a>&nbsp;</td>
+						<td align="center" class="navigation"><a href="/bananas" target=_top><img id="software" src="http://img.zamunda.net/pic/z_icons/bananas.png" border=0><br>Bananas</a>&nbsp;</td>
+						<td align="center" class="navigation"><a href="/catalogs/" target="_top"><img id="cat1" src="http://img.zamunda.net/pic/z_icons/catalogue.png" border=0><br>Catalogues</a>&nbsp;</td>
+						<td align="center" class="navigation"><a href="/forums.php" target="_top"><img id="statii" src="http://img.zamunda.net/pic/z_icons/forum.png" border=0><br>Forums</a>&nbsp;</td>
+
+						<td align="center" class="navigation"><a href="/games.php" target=_top><img id="games_icon" src="http://img.zamunda.net/pic/z_icons/games.png" border=0><br>Games</a>&nbsp;</td>
+
+						<td align="center" class="navigation"><a href="/subs.php" target="_top"><img id="doxx" src="http://img.zamunda.net/pic/z_icons/subtitles.png" border=0><br>Subtitles</a>&nbsp;</td>
+
+						<td align="center" class="navigation"><a href="/blog.php" target="_top"><img id="atb_fotox" src="http://img.zamunda.net/pic/z_icons/blog.png" border=0><br>Blog</a>&nbsp;</td>
+
+
+
+						<td align="center" class="navigation"><a href="/my.php" target="_top"><img id="foruicon" src="http://img.zamunda.net/pic/z_icons/profile.png" border=0><br>Profile</a>&nbsp;</td>
+
+						<td align="center" class="navigation"><a href="/logout.php" target="_top"><img id="logoutt" src="http://img.zamunda.net/pic/z_icons/logout.png" border=0><br>Logout</a>&nbsp;</td>
+						</font>
+					</tr>
+				</table>
+			</td>
+			</tr>
+			<tr><td align=center class=outer style="padding-top: 10px; padding-bottom: 10px;"><!--/* Advertere Que Affiliare */--><div class='unique-biggestbanner '><ins data-revive-zoneid="26" data-revive-id="ca5ce839a7da2360ef42edbd24959ccd" data-revive-g='m' data-revive-a='18' data-revive-logged='yes' data-revive-sc='24' data-revive-ui='3937051' data-revive-lang='en' data-revive-swidth='1536' data-revive-sheight='824' data-revive-ismobile='no' data-revive-theme='1' ></ins>
+				<script async src="//advertere.zamunda.net/www/delivery/asyncjs.php"></script></div>
+
+
+				<table width=100% class=bottom style=" min-height: 600px;">
+					<tr valign=top>
+						<td align=center class=clear>
+							<div class='lefthb'><!--/* Advertere Que Affiliare */--><div class='iframe leftadpos' style='float: left; position: absolute !important; left: 15px; margin: 0; padding: 0;'><ins data-revive-zoneid="20" data-revive-id="ca5ce839a7da2360ef42edbd24959ccd" data-revive-g='m' data-revive-a='18' data-revive-logged='yes' data-revive-sc='24' data-revive-ui='3937051' data-revive-lang='en' data-revive-swidth='1536' data-revive-sheight='824' data-revive-ismobile='no' data-revive-theme='1' ></ins>
+								<script async src="//advertere.zamunda.net/www/delivery/asyncjs.php"></script></div></div><div class='righthb'><!--/* Advertere Que Affiliare */--><div class='iframe rightadpos' style='float: right;position: absolute !important; right: 15px; margin: 0; padding: 0;'><ins data-revive-zoneid="16" data-revive-id="ca5ce839a7da2360ef42edbd24959ccd" data-revive-g='m' data-revive-a='18' data-revive-logged='yes' data-revive-sc='24' data-revive-ui='3937051' data-revive-lang='en' data-revive-swidth='1536' data-revive-sheight='824' data-revive-ismobile='no' data-revive-theme='1' ></ins>
+							<script async src="//advertere.zamunda.net/www/delivery/asyncjs.php"></script></div></div><a name="position"></a><!--/* Advertere Que Affiliare */--><div class='iframe ' style='height:90px;width:728px;overflow:hidden !important;'><ins data-revive-zoneid="6" data-revive-id="ca5ce839a7da2360ef42edbd24959ccd" data-revive-g='m' data-revive-a='18' data-revive-logged='yes' data-revive-sc='24' data-revive-ui='3937051' data-revive-lang='en' data-revive-swidth='1536' data-revive-sheight='824' data-revive-ismobile='no' data-revive-theme='1' ></ins>
+							<script async src="//advertere.zamunda.net/www/delivery/asyncjs.php"></script></div><br /><style>
+
+
+
+
+							.roundrss {
+								font-size: 12px !important;
+								height:auto;
+								border-bottom-left-radius: 7px;
+								border-bottom-right-radius: 7px;
+								/* border: 1px #cccccc solid; */
+								padding: 7px;
+								-moz-box-shadow: 0px 4px 15px -5px rgba(0,0,0,0.28);
+								box-shadow: 0px 4px 15px -5px rgba(0,0,0,0.28);
+								transition: all ease 0.2s;
+								-moz-transition: all ease 0.2s;
+								-webkit-transition: all ease 0.2s;
+								-ms-transition: all ease 0.2s;
+								-o-transition: all ease 0.2s;
+								background: #FFFFFF;
+
+							}
+							.roundrss_title {
+								margin-bottom: -13px;
+								height: 30px !important;
+								width: 100%;
+								max-width: 345px;
+								padding-left: 10px;
+								background: none;
+								background: none;
+								box-shadow: 0px -1px 7px -2px rgba(0,0,0,0.28) !important;
+								-moz-box-shadow:  0px -1px 7px -2px rgba(0,0,0,0.28) !important;
+								line-height: 17px;
+							}
+							.static_title {
+								margin-bottom: -13px;
+								height: 30px !important;
+								width: 100%;
+								max-width: 718px;
+								padding-left: 10px;
+								padding-right: 0px;
+								box-shadow: 0px -1px 7px -2px rgba(0,0,0,0.28) !important;
+								-moz-box-shadow:  0px -1px 7px -2px rgba(0,0,0,0.28) !important;
+								line-height: 17px;
+
+							}
+							.colhead_fix {
+								background-size: 60px;
+								border-bottom: 1px #cccccc solid;
+								padding: 0px;
+								border-top-left-radius: 4px;
+								border-top-right-radius: 4px;
+								/* background: -webkit-gradient(linear, left top, left bottom, from(#999999), to(#555555));
+                               background: -moz-linear-gradient(top, #999999, #555555);
+                               color:#ffffff !important;*/
+							}
+							.td_newborder {
+								box-shadow:0px 0px 0.5px 0px rgba(0,0,0,0.28) !important;
+								-moz-box-shadow: 0px 0px 0.5px 0px rgba(0,0,0,0.28) !important;
+							}
+						</style><br /><!--/* Advertere Que Affiliare */--><div class='iframe ' style='width: 728px;'><ins data-revive-zoneid="28" data-revive-id="ca5ce839a7da2360ef42edbd24959ccd" data-revive-g='m' data-revive-a='18' data-revive-logged='yes' data-revive-sc='24' data-revive-ui='3937051' data-revive-lang='en' data-revive-swidth='1536' data-revive-sheight='824' data-revive-ismobile='no' data-revive-theme='1' ></ins>
+							<script async src="//advertere.zamunda.net/www/delivery/asyncjs.php"></script></div><br /><br />
+							<table width=728 class='td_clear' cellspacing='0' cellpadding='10'>
+								<tr><td class='td_clear colhead colhead_fix'><div class='roundrss roundrss_title'><b>Movies</b></div></td><td class='td_clear'></td><td class='td_clear colhead colhead_fix'><div class='roundrss roundrss_title'><b>Serial</b></div></td></tr>
+								<tr>
+									<td align=left valign=top class='td_clear roundrss'>
+										<iframe src='http://zamunda.net/parser/rssparser-zamunda.php?cat=5,19,20,24,28,35,42,46,25,50&ulang=en&style=1' frameborder='0' scrolling='no' width='350' height='250'></iframe>
+									</td>
+									<td class='td_clear' width='100'></td>
+									<td align=left valign=top class='td_clear roundrss'>
+										<iframe src='http://zamunda.net/parser/rssparser-zamunda.php?cat=33,7&ulang=en&style=1' frameborder='0' scrolling='no' width='350' height='250'></iframe>
+									</td>
+								</tr>
+								<tr><td colspan='2' height='20' class='td_clear'></td></tr>
+								<tr><td class='td_clear colhead colhead_fix'><div class='roundrss roundrss_title'><b>Games</b></div></td><td class='td_clear'></td><td class='td_clear colhead colhead_fix'><div class='roundrss roundrss_title'><b>Music</b></div></td></tr>
+								<tr>
+									<td align=left valign=top class='td_clear roundrss'>
+										<iframe src='http://zamunda.net/parser/rssparser-zamunda.php?cat=39,4,21,17,40,12&ulang=en&style=1' frameborder='0' scrolling='no' width='350' height='250'></iframe>
+									</td>
+									<td class='td_clear' width='100'></td>
+									<td align=left valign=top class='td_clear roundrss'>
+										<iframe src='http://zamunda.net/parser/rssparser-zamunda.php?cat=6,29,30,34,51&ulang=en&style=1' frameborder='0' scrolling='no' width='350' height='250'></iframe>
+									</td>
+								</tr>
+							</table><br /><br /><br />
+							<a name='stage' style='position:absolute;margin-top:15px;'></a><!--/* Advertere Que Affiliare */--><div class='iframe ' ><ins data-revive-zoneid="29" data-revive-id="ca5ce839a7da2360ef42edbd24959ccd" data-revive-g='m' data-revive-a='18' data-revive-logged='yes' data-revive-sc='24' data-revive-ui='3937051' data-revive-lang='en' data-revive-swidth='1536' data-revive-sheight='824' data-revive-ismobile='no' data-revive-theme='1' ></ins>
+							<script async src="//advertere.zamunda.net/www/delivery/asyncjs.php"></script></div><br /><br />
+							<script src="http://apis.google.com/js/platform.js" async defer></script>
+							<div align="center" class="stagespotlight"><h1 style="font-size: 23px;">ZAMUNDA PRESENTS:</h1><br /></div>
+							<div class="stagescenebar">
+								<div class="playstage"></div>
+								<iframe id="candidate_playlist" class="stagevideo" width="751" height="400" src="http://www.youtube.com/embed/?listType=playlist&list=PLLjHNPsiPC3f9jTm0HhH3OckS6MOSfxGv&index=17" frameborder="0" allowfullscreen></iframe>
+								<div class="stagecontent">
+
+									<div class="stagebuttons">
+										<a class="choosenartists" style="display: inline-block;cursor: pointer;text-decoration: none;font-size: 26px;"><h1 style="color:#fafafa;">FANS CHOICE</h1></a>
+										&nbsp;<font class="stagesep"> | </font>&nbsp;
+										<a class="candidates" style="display: inline-block;cursor: pointer;text-decoration: none;font-size: 26px;"><h1 style="color:rgba(251, 251, 251, 0.46);">CANDIDATES</h1></a>
+									</div>
+
+									<div class="stagezshare"><div style='padding-top: 5px;'><i class='fa fa-share-alt topbgrid share-button inactive' onmouseover="Tip('Share')" onmouseout='UnTip();' id="sharebox_b"></i><div class="sharebox" style="top: inherit; right: inherit;">
+										<a href="javascript:fbShare('http%3A%2F%2Fzamunda.net%2Fstage', 'Zamunda Stage for Artists', 'Facebook share popup', 'http://goo.gl/dS52U', 520, 350, '', 'banana')" onmouseover="Tip('Facebook')" onmouseout="UnTip();" title="Share on Facebook" class="facebook"></a>
+										<a href="javascript:twitterShare('http%3A%2F%2Fzamunda.net%2Fstage', 'Zamunda Stage for Artists', 'Twitter share popup', 'Zamunda Stage for Artists', 520, 350, '', 'banana')" onmouseover="Tip('Twitter')" onmouseout="UnTip();" title="Share on Twitter" class="twitter"></a>
+										<a href="javascript:emailShare('http%3A%2F%2Fzamunda.net%2Fstage', 'Zamunda Stage for Artists', 'Email share popup', 'Zamunda Stage for Artists', 520, 400, '', 'banana')" title="Email" class="email" onmouseover="Tip('Email')" onmouseout="UnTip();"></a>
+										<div class="clear"></div>
+										<br /><p>Link:</p>
+										<input type="text" value="http://zamunda.net/stage" />
+									</div></div></div>
+									<div class="stagesocial">
+										<div class="g-ytsubscribe" data-channelid="UC3cJqIgIRRTYnRzC6rBLvCg" data-layout="full" data-count="default" data-theme="dark"></div>&nbsp; &nbsp;
+										<div class="fb-like" data-href="http://www.facebook.com/Zamunda-Stage-1694530407428333/" data-colorscheme="light" data-width="5" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false"></div>&nbsp; &nbsp;
+									</div>
+
+								</div>
+							</div>
+							<div class="stagefooter">
+								If you want your video to appear here, please go to Zamunda.NET <a href="https://www.youtube.com/playlist?list=PLLjHNPsiPC3fWpKnS4LkNrDxcuqx1dYHS&jct=esvwUHAMods_hwdRI7eZVDOfKm7n_A" target=_blank style="font-weight: normal; text-decoration: none;"><font style="color: #df1c1c;font-weight:bold;">YouTube</font> channel and submit your video</a>.
+
+							</div>
+							<br /><br /><table width='728' class='td_clear'>
+							<tr><td class='td_clear colhead colhead_fix' width='728' height='25'><div class='roundrss roundrss_title static_title'><b>Poll:</b></div></td></tr>
+							<tr><td class='td_clear roundrss' align='center'>
+								<table border='1' class='td_clear' cellspacing='0' cellpadding='0'><tr><td class='td_clear roundrss'><p align=center><b>Били ли сте свидетел на паранормално явление?</b></p>
+									<form method=post action=index.php>
+										<input type=radio name=choice value=0>Да, усещал/а съм чуждо присъствие<br>
+										<input type=radio name=choice value=1>Да, имал/а съм контакт с извънземни<br>
+										<input type=radio name=choice value=2>Да, чувал/а съм странни звуци<br>
+										<input type=radio name=choice value=3>Не, но е възможно<br>
+										<input type=radio name=choice value=4>Не съществуват такива неща<br>
+										<br><input type=radio name=choice value=255>Empty vote (i.e. "Just to see results!")<br>
+										<p align=center><input type=submit value='Vote!' class=btn></p>
+								</td></tr></table>
+								</p>
+							</td></tr></table></div><br /></td></tr></table>
+	</td></tr><tr><td class='foot_cont'>  <div class="foot_links" align="center">
+
+
+	<a href=faq.php target=_top>FAQ</a> -
+	<a href=terms.php target=_top>Terms of use</a> -
+	<a href=privacy.php target=_top>Personal data and copyright protection</a> -
+	<a href=rules.php target=_top>Rules</a> -
+	<a href=/sendmessage.php?receiver=staff target=_top>Staff</a> -
+	<a href="/banners.php">Advertising</a> -
+	<a href="/pic/press/zamunda_free.pdf" target=_blank>Promotion</a>
+	<br /><br />
+	<a href='https://www.facebook.com/pages/ZamundaNET/516748071728742' target='_blank' subtitle='Zamunda Official Facebook Page'><b>ZAMUNDA @ FACEBOOK</b></a>
+	<br /><br />
+	<!--/* Advertere Que Affiliare */--><div class='iframe ' ><ins data-revive-zoneid="3" data-revive-id="ca5ce839a7da2360ef42edbd24959ccd" data-revive-g='m' data-revive-a='18' data-revive-logged='yes' data-revive-sc='24' data-revive-ui='3937051' data-revive-lang='en' data-revive-swidth='1536' data-revive-sheight='824' data-revive-ismobile='no' data-revive-theme='1' ></ins>
+	<script async src="//advertere.zamunda.net/www/delivery/asyncjs.php"></script></div><br />
+</div>
+</td></tr></table></div></div><!--/* Advertere Que Affiliare */--><div class='unique-branding '><ins data-revive-zoneid="41" data-revive-id="ca5ce839a7da2360ef42edbd24959ccd" data-revive-g='m' data-revive-a='18' data-revive-logged='yes' data-revive-sc='24' data-revive-ui='3937051' data-revive-lang='en' data-revive-swidth='1536' data-revive-sheight='824' data-revive-ismobile='no' data-revive-theme='1' ></ins>
+	<script async src="//advertere.zamunda.net/www/delivery/asyncjs.php"></script></div>
+
+
+
+
+
+
+
+<script>
+    /*
+    $(document).ready(function() {
+      $("a").click(function() {
+        var href = this.href;
+        if ($(this).attr("subtitle")) {
+        var titlein = "&t="+encodeURIComponent($(this).attr("subtitle"))+"";
+        }
+        else {
+        var titlein="";
+        }
+        var ourDomainRegex = /^https?:\/\/(www[.])?(img[.])?(img2[.])?zamunda[.]net/;
+        var ourDomainRegex2 = /^https?:\/\/(www[.])?(img[.])?(img2[.])?zamunda[.]ch/;
+        // those seeking flexibility, consider this:
+        // new RegExp('^https?:\\/\\/(www[.])?'  +  ourDomain)
+
+        if (href.indexOf("http") === 0 && !ourDomainRegex.test(href) && !ourDomainRegex2.test(href))
+        {
+          this.href = "/go.php?to=" + encodeURIComponent(href) + ""+titlein+"";
+        }
+      });
+    });
+    */
+</script>
+
+
+
+<p align=center style="color: #000000;font-weight: bold;">Support Zamunda.NET with Bitcoins. Our wallet address is 15bxA9ZuiCGnQb1MzFAD8pQ2LHhddMGaTD</p><script>
+    window.cookieconsent_options = {
+        message: "This website uses cookies to ensure you get the best experience on our website.",
+        dismiss: "Got it!",
+        learnMore: "more info",
+        theme: "/js/europelaw/styles/light-floating.css",
+        expiryDays: 365
+    }
+</script>
+<script type="text/javascript" src="/js/europelaw/cookieconsent.js"></script><!--/* Advertere Que Affiliare */--><div class='unique-floatingbox '><ins data-revive-zoneid="30" data-revive-id="ca5ce839a7da2360ef42edbd24959ccd" data-revive-g='m' data-revive-a='18' data-revive-logged='yes' data-revive-sc='24' data-revive-ui='3937051' data-revive-lang='en' data-revive-swidth='1536' data-revive-sheight='824' data-revive-ismobile='no' data-revive-theme='1' ></ins>
+	<script async src="//advertere.zamunda.net/www/delivery/asyncjs.php"></script></div><script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-40146559-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })(); </script>
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '184022828383388',
+            xfbml      : true,
+            version    : 'v2.3'
+        });
+    };
+
+    setTimeout( function () {
+        (function(d,s,id){
+                // load js
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) {return;}
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_US/sdk.js";
+                fjs.parentNode.insertBefore(js, fjs);
+            }
+            (document, "script", "facebook-jssdk")
+        );
+
+        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+    }, 3000);
+
+
+
+
+</script><script type="text/javascript" src="/js/ieupdate.js"></script></body></html>
+

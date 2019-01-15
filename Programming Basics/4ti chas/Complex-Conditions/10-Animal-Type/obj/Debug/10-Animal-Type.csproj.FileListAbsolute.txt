@@ -1,0 +1,6 @@
+E:\SoftUni\4ti chas\Complex-Conditions\10-Animal-Type\bin\Debug\10-Animal-Type.exe.config
+E:\SoftUni\4ti chas\Complex-Conditions\10-Animal-Type\bin\Debug\10-Animal-Type.exe
+E:\SoftUni\4ti chas\Complex-Conditions\10-Animal-Type\bin\Debug\10-Animal-Type.pdb
+E:\SoftUni\4ti chas\Complex-Conditions\10-Animal-Type\obj\Debug\10-Animal-Type.exe
+E:\SoftUni\4ti chas\Complex-Conditions\10-Animal-Type\obj\Debug\10-Animal-Type.pdb
+E:\SoftUni\4ti chas\Complex-Conditions\10-Animal-Type\obj\Debug\10-Animal-Type.csprojResolveAssemblyReference.cache

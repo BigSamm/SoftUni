@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\05.Border_Control\bin\Debug\netcoreapp2.0\05.Border_Control.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\05.Border_Control\bin\Debug\netcoreapp2.0\05.Border_Control.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\05.Border_Control\bin\Debug\netcoreapp2.0\05.Border_Control.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\05.Border_Control\bin\Debug\netcoreapp2.0\05.Border_Control.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\05.Border_Control\bin\Debug\netcoreapp2.0\05.Border_Control.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\05.Border_Control\obj\Debug\netcoreapp2.0\05.Border_Control.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\05.Border_Control\obj\Debug\netcoreapp2.0\05.Border_Control.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\05.Border_Control\obj\Debug\netcoreapp2.0\05.Border_Control.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\05.Border_Control\obj\Debug\netcoreapp2.0\05.Border_Control.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\05.Border_Control\obj\Debug\netcoreapp2.0\05.Border_Control.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\05.Border_Control\obj\Debug\netcoreapp2.0\05.Border_Control.pdb

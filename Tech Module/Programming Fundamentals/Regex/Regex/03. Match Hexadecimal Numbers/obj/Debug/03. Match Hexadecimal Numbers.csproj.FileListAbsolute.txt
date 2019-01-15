@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\03. Match Hexadecimal Numbers\obj\Debug\_03.Match_Hexadecimal_Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\03. Match Hexadecimal Numbers\obj\Debug\_03.Match_Hexadecimal_Numbers.pdb

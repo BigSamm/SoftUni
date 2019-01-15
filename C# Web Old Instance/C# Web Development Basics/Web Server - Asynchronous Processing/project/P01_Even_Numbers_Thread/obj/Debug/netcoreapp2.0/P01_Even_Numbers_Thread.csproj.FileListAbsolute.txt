@@ -1,0 +1,11 @@
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing\project\P01_Even_Numbers_Thread\bin\Debug\netcoreapp2.0\P01_Even_Numbers_Thread.deps.json
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing\project\P01_Even_Numbers_Thread\bin\Debug\netcoreapp2.0\P01_Even_Numbers_Thread.runtimeconfig.json
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing\project\P01_Even_Numbers_Thread\bin\Debug\netcoreapp2.0\P01_Even_Numbers_Thread.runtimeconfig.dev.json
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing\project\P01_Even_Numbers_Thread\bin\Debug\netcoreapp2.0\P01_Even_Numbers_Thread.dll
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing\project\P01_Even_Numbers_Thread\bin\Debug\netcoreapp2.0\P01_Even_Numbers_Thread.pdb
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing\project\P01_Even_Numbers_Thread\obj\Debug\netcoreapp2.0\P01_Even_Numbers_Thread.csprojAssemblyReference.cache
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing\project\P01_Even_Numbers_Thread\obj\Debug\netcoreapp2.0\P01_Even_Numbers_Thread.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing\project\P01_Even_Numbers_Thread\obj\Debug\netcoreapp2.0\P01_Even_Numbers_Thread.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing\project\P01_Even_Numbers_Thread\obj\Debug\netcoreapp2.0\P01_Even_Numbers_Thread.AssemblyInfo.cs
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing\project\P01_Even_Numbers_Thread\obj\Debug\netcoreapp2.0\P01_Even_Numbers_Thread.dll
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing\project\P01_Even_Numbers_Thread\obj\Debug\netcoreapp2.0\P01_Even_Numbers_Thread.pdb

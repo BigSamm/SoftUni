@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\06. Book Library Modification\obj\Debug\_06.Book_Library_Modification.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\06. Book Library Modification\obj\Debug\_06.Book_Library_Modification.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\06. Book Library Modification\obj\Debug\06. Book Library Modification.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\10.Book_Library_Modification\bin\Debug\netcoreapp2.0\10.Book_Library_Modification.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\10.Book_Library_Modification\bin\Debug\netcoreapp2.0\10.Book_Library_Modification.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\10.Book_Library_Modification\bin\Debug\netcoreapp2.0\10.Book_Library_Modification.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\10.Book_Library_Modification\bin\Debug\netcoreapp2.0\10.Book_Library_Modification.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\10.Book_Library_Modification\bin\Debug\netcoreapp2.0\10.Book_Library_Modification.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\10.Book_Library_Modification\obj\Debug\netcoreapp2.0\10.Book_Library_Modification.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\10.Book_Library_Modification\obj\Debug\netcoreapp2.0\10.Book_Library_Modification.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\10.Book_Library_Modification\obj\Debug\netcoreapp2.0\10.Book_Library_Modification.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\10.Book_Library_Modification\obj\Debug\netcoreapp2.0\10.Book_Library_Modification.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\10.Book_Library_Modification\obj\Debug\netcoreapp2.0\10.Book_Library_Modification.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\10.Book_Library_Modification\obj\Debug\netcoreapp2.0\10.Book_Library_Modification.pdb

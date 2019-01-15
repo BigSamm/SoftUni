@@ -1,0 +1,5 @@
+E:\SoftUni\EXAM\04-Trainers-Salary\bin\Debug\04-Trainers-Salary.exe.config
+E:\SoftUni\EXAM\04-Trainers-Salary\bin\Debug\04-Trainers-Salary.exe
+E:\SoftUni\EXAM\04-Trainers-Salary\bin\Debug\04-Trainers-Salary.pdb
+E:\SoftUni\EXAM\04-Trainers-Salary\obj\Debug\04-Trainers-Salary.exe
+E:\SoftUni\EXAM\04-Trainers-Salary\obj\Debug\04-Trainers-Salary.pdb

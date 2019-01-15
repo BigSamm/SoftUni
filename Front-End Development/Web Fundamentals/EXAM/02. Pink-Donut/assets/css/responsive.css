@@ -1,0 +1,46 @@
+@media screen and (max-width: 769px) {
+    #main_menu #bs-example-navbar-collapse-1 ul {
+        display: none;
+    }
+    #main_menu .main_menu_bg .nave_menu .navbar-header button {
+        display: block;
+        margin-left: 682px;
+    }
+
+    #whatido .container .row > div {
+        width: 100%;
+    }
+    #whatido .container .row .main_whatido_content > div {
+        width: 100%;
+    }
+
+    #myworks .container .row > div:last-of-type {
+        width: 100%;
+    }
+    #myworks .main_myworks_content .single_work_colum {
+        width: 100%;
+    }
+
+    #about .container .row > div {
+        width: 100%;
+    }
+    #about .container .row .main_about_content > div {
+        width: 100%;
+    }
+
+    #contact .main_contact .contact_content > div {
+        width: 100%;
+    }
+    #contact .main_contact .contact_content .contact_message .message_btn .btn_bg a {
+        display: none;
+    }
+    #contact .main_contact .contact_content .contact_socail_bookmark_area .contact_socail_bookmark {
+        display: none;
+    }
+    #contact .main_contact .contact_content .contact_socail_bookmark_area .row > div {
+        width: 100%;
+    }
+    #contact .footer_copyright > div:last-of-type {
+        display: none;
+    }
+}

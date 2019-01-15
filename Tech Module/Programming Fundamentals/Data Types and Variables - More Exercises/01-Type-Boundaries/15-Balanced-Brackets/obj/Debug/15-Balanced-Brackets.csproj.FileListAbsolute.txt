@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\15-Balanced-Brackets\bin\Debug\15-Balanced-Brackets.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\15-Balanced-Brackets\bin\Debug\15-Balanced-Brackets.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\15-Balanced-Brackets\bin\Debug\15-Balanced-Brackets.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\15-Balanced-Brackets\obj\Debug\15-Balanced-Brackets.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\15-Balanced-Brackets\obj\Debug\15-Balanced-Brackets.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\15-Balanced-Brackets\obj\Debug\15-Balanced-Brackets.csprojResolveAssemblyReference.cache

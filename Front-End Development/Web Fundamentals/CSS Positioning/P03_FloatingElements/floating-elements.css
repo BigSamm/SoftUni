@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-size: 25px;
+}
+
+div {
+    width: 200px;
+    background: deepskyblue;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+
+.right {
+    float: right;
+}
+.left {
+    float: left;
+}
+.center {
+    margin: 0 auto;
+}
+
+p {
+    text-align: justify;
+}

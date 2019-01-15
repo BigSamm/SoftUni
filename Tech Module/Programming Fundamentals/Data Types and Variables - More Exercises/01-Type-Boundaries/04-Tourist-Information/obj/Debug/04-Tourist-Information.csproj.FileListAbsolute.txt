@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\04-Tourist-Information\bin\Debug\04-Tourist-Information.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\04-Tourist-Information\bin\Debug\04-Tourist-Information.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\04-Tourist-Information\bin\Debug\04-Tourist-Information.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\04-Tourist-Information\obj\Debug\04-Tourist-Information.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\04-Tourist-Information\obj\Debug\04-Tourist-Information.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\04-Tourist-Information\obj\Debug\04-Tourist-Information.pdb

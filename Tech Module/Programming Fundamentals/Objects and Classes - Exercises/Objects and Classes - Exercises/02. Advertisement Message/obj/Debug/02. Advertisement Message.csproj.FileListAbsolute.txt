@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.pdb

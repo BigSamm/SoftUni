@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\04-Hotel\bin\Debug\04-Hotel.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\04-Hotel\bin\Debug\04-Hotel.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\04-Hotel\bin\Debug\04-Hotel.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\04-Hotel\obj\Debug\04-Hotel.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\04-Hotel\obj\Debug\04-Hotel.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\04-Hotel\obj\Debug\04-Hotel.pdb

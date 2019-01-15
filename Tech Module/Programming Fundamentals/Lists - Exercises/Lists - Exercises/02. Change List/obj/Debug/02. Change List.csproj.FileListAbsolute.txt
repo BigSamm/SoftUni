@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists - Exercises\Lists - Exercises\02. Change List\bin\Debug\_02.Change_List.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists - Exercises\Lists - Exercises\02. Change List\bin\Debug\_02.Change_List.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists - Exercises\Lists - Exercises\02. Change List\bin\Debug\_02.Change_List.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists - Exercises\Lists - Exercises\02. Change List\obj\Debug\02. Change List.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists - Exercises\Lists - Exercises\02. Change List\obj\Debug\_02.Change_List.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists - Exercises\Lists - Exercises\02. Change List\obj\Debug\_02.Change_List.pdb

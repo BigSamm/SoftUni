@@ -1,0 +1,5 @@
+E:\SoftUni\2ri chas\Simple-Calculations\FirstLastNameAgeTown\bin\Debug\FirstLastNameAgeTown.exe.config
+E:\SoftUni\2ri chas\Simple-Calculations\FirstLastNameAgeTown\bin\Debug\FirstLastNameAgeTown.exe
+E:\SoftUni\2ri chas\Simple-Calculations\FirstLastNameAgeTown\bin\Debug\FirstLastNameAgeTown.pdb
+E:\SoftUni\2ri chas\Simple-Calculations\FirstLastNameAgeTown\obj\Debug\FirstLastNameAgeTown.exe
+E:\SoftUni\2ri chas\Simple-Calculations\FirstLastNameAgeTown\obj\Debug\FirstLastNameAgeTown.pdb

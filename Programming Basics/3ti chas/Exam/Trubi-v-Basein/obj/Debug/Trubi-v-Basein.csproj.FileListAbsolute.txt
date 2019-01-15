@@ -1,0 +1,6 @@
+E:\SoftUni\3ti chas\Exam\Trubi-v-Basein\bin\Debug\Trubi-v-Basein.exe.config
+E:\SoftUni\3ti chas\Exam\Trubi-v-Basein\obj\Debug\Trubi-v-Basein.csprojResolveAssemblyReference.cache
+E:\SoftUni\3ti chas\Exam\Trubi-v-Basein\bin\Debug\Trubi-v-Basein.exe
+E:\SoftUni\3ti chas\Exam\Trubi-v-Basein\bin\Debug\Trubi-v-Basein.pdb
+E:\SoftUni\3ti chas\Exam\Trubi-v-Basein\obj\Debug\Trubi-v-Basein.exe
+E:\SoftUni\3ti chas\Exam\Trubi-v-Basein\obj\Debug\Trubi-v-Basein.pdb

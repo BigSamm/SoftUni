@@ -1,0 +1,6 @@
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\05-Fox\bin\Debug\05-Fox.exe.config
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\05-Fox\obj\Debug\05-Fox.csprojResolveAssemblyReference.cache
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\05-Fox\bin\Debug\05-Fox.exe
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\05-Fox\bin\Debug\05-Fox.pdb
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\05-Fox\obj\Debug\05-Fox.exe
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\05-Fox\obj\Debug\05-Fox.pdb

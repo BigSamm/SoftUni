@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\02. Phonebook Upgrade\obj\Debug\02. Phonebook Upgrade.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ - Exercises\DLL - Exercises\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.pdb

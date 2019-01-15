@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\08-Calories-Counter\bin\Debug\08-Calories-Counter.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\08-Calories-Counter\bin\Debug\08-Calories-Counter.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\08-Calories-Counter\bin\Debug\08-Calories-Counter.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\08-Calories-Counter\obj\Debug\08-Calories-Counter.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\08-Calories-Counter\obj\Debug\08-Calories-Counter.pdb

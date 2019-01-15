@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\03. Number Wars\bin\Debug\netcoreapp1.1\03. Number Wars.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\03. Number Wars\bin\Debug\netcoreapp1.1\03. Number Wars.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\03. Number Wars\bin\Debug\netcoreapp1.1\03. Number Wars.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\03. Number Wars\bin\Debug\netcoreapp1.1\03. Number Wars.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\03. Number Wars\bin\Debug\netcoreapp1.1\03. Number Wars.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\03. Number Wars\obj\Debug\netcoreapp1.1\03. Number Wars.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\03. Number Wars\obj\Debug\netcoreapp1.1\03. Number Wars.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\03. Number Wars\obj\Debug\netcoreapp1.1\03. Number Wars.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\03. Number Wars\obj\Debug\netcoreapp1.1\03. Number Wars.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\03. Number Wars\obj\Debug\netcoreapp1.1\03. Number Wars.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\03. Number Wars\obj\Debug\netcoreapp1.1\03. Number Wars.AssemblyInfoInputs.cache

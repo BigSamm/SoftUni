@@ -1,0 +1,11 @@
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\02.Validate_URL\bin\Debug\netcoreapp2.0\02.Validate_URL.deps.json
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\02.Validate_URL\bin\Debug\netcoreapp2.0\02.Validate_URL.runtimeconfig.json
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\02.Validate_URL\bin\Debug\netcoreapp2.0\02.Validate_URL.runtimeconfig.dev.json
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\02.Validate_URL\bin\Debug\netcoreapp2.0\02.Validate_URL.dll
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\02.Validate_URL\bin\Debug\netcoreapp2.0\02.Validate_URL.pdb
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\02.Validate_URL\obj\Debug\netcoreapp2.0\02.Validate_URL.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\02.Validate_URL\obj\Debug\netcoreapp2.0\02.Validate_URL.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\02.Validate_URL\obj\Debug\netcoreapp2.0\02.Validate_URL.AssemblyInfo.cs
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\02.Validate_URL\obj\Debug\netcoreapp2.0\02.Validate_URL.dll
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\02.Validate_URL\obj\Debug\netcoreapp2.0\02.Validate_URL.pdb
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - HTTP Protocоl - Exercise\project\02.Validate_URL\obj\Debug\netcoreapp2.0\02.Validate_URL.csprojAssemblyReference.cache

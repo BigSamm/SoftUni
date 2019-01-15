@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.pdb

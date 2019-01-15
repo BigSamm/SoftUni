@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\07.Speed_Racing\bin\Debug\netcoreapp2.0\07.Speed_Racing.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\07.Speed_Racing\bin\Debug\netcoreapp2.0\07.Speed_Racing.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\07.Speed_Racing\bin\Debug\netcoreapp2.0\07.Speed_Racing.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\07.Speed_Racing\bin\Debug\netcoreapp2.0\07.Speed_Racing.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\07.Speed_Racing\bin\Debug\netcoreapp2.0\07.Speed_Racing.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\07.Speed_Racing\obj\Debug\netcoreapp2.0\07.Speed_Racing.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\07.Speed_Racing\obj\Debug\netcoreapp2.0\07.Speed_Racing.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\07.Speed_Racing\obj\Debug\netcoreapp2.0\07.Speed_Racing.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\07.Speed_Racing\obj\Debug\netcoreapp2.0\07.Speed_Racing.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\07.Speed_Racing\obj\Debug\netcoreapp2.0\07.Speed_Racing.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\07.Speed_Racing\obj\Debug\netcoreapp2.0\07.Speed_Racing.pdb

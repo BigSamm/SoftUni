@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\5. Folder Size\bin\Debug\netcoreapp2.0\5. Folder Size.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\5. Folder Size\bin\Debug\netcoreapp2.0\5. Folder Size.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\5. Folder Size\bin\Debug\netcoreapp2.0\5. Folder Size.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\5. Folder Size\bin\Debug\netcoreapp2.0\5. Folder Size.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\5. Folder Size\bin\Debug\netcoreapp2.0\5. Folder Size.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\5. Folder Size\obj\Debug\netcoreapp2.0\5. Folder Size.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\5. Folder Size\obj\Debug\netcoreapp2.0\5. Folder Size.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\5. Folder Size\obj\Debug\netcoreapp2.0\5. Folder Size.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\5. Folder Size\obj\Debug\netcoreapp2.0\5. Folder Size.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\5. Folder Size\obj\Debug\netcoreapp2.0\5. Folder Size.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions\Files and Exceptions\5. Folder Size\obj\Debug\netcoreapp2.0\5. Folder Size.pdb

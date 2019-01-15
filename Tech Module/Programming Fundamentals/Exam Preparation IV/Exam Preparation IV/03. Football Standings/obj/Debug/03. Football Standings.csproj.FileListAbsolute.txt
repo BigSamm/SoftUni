@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\03. Football Standings\obj\Debug\03. Football Standings.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\03. Football Standings\bin\Debug\_03.Football_Standings.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\03. Football Standings\bin\Debug\_03.Football_Standings.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\03. Football Standings\bin\Debug\_03.Football_Standings.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\03. Football Standings\obj\Debug\_03.Football_Standings.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\03. Football Standings\obj\Debug\_03.Football_Standings.pdb

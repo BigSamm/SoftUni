@@ -1,0 +1,6 @@
+E:\SoftUni\6ti chas\Advanced-Loops\05-Sequence-2k+1\bin\Debug\05-Sequence-2k+1.exe.config
+E:\SoftUni\6ti chas\Advanced-Loops\05-Sequence-2k+1\bin\Debug\05-Sequence-2k+1.exe
+E:\SoftUni\6ti chas\Advanced-Loops\05-Sequence-2k+1\bin\Debug\05-Sequence-2k+1.pdb
+E:\SoftUni\6ti chas\Advanced-Loops\05-Sequence-2k+1\obj\Debug\05-Sequence-2k+1.exe
+E:\SoftUni\6ti chas\Advanced-Loops\05-Sequence-2k+1\obj\Debug\05-Sequence-2k+1.pdb
+E:\SoftUni\6ti chas\Advanced-Loops\05-Sequence-2k+1\obj\Debug\05-Sequence-2k+1.csprojResolveAssemblyReference.cache

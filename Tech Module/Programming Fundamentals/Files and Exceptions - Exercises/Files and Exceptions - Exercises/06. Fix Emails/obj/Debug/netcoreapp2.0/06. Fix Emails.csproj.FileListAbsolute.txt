@@ -1,0 +1,10 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\06. Fix Emails\bin\Debug\netcoreapp2.0\06. Fix Emails.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\06. Fix Emails\bin\Debug\netcoreapp2.0\06. Fix Emails.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\06. Fix Emails\bin\Debug\netcoreapp2.0\06. Fix Emails.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\06. Fix Emails\bin\Debug\netcoreapp2.0\06. Fix Emails.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\06. Fix Emails\bin\Debug\netcoreapp2.0\06. Fix Emails.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\06. Fix Emails\obj\Debug\netcoreapp2.0\06. Fix Emails.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\06. Fix Emails\obj\Debug\netcoreapp2.0\06. Fix Emails.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\06. Fix Emails\obj\Debug\netcoreapp2.0\06. Fix Emails.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\06. Fix Emails\obj\Debug\netcoreapp2.0\06. Fix Emails.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\06. Fix Emails\obj\Debug\netcoreapp2.0\06. Fix Emails.pdb

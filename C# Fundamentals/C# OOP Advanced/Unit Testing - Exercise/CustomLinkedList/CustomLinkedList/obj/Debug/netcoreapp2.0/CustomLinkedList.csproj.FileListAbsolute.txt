@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\CustomLinkedList.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\CustomLinkedList.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\CustomLinkedList.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.pdb

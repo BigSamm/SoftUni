@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\07.Custom_List\obj\Debug\netcoreapp2.0\07.Custom_List.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\07.Custom_List\obj\Debug\netcoreapp2.0\07.Custom_List.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\07.Custom_List\obj\Debug\netcoreapp2.0\07.Custom_List.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\07.Custom_List\bin\Debug\netcoreapp2.0\07.Custom_List.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\07.Custom_List\bin\Debug\netcoreapp2.0\07.Custom_List.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\07.Custom_List\bin\Debug\netcoreapp2.0\07.Custom_List.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\07.Custom_List\bin\Debug\netcoreapp2.0\07.Custom_List.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\07.Custom_List\bin\Debug\netcoreapp2.0\07.Custom_List.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\07.Custom_List\obj\Debug\netcoreapp2.0\07.Custom_List.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\07.Custom_List\obj\Debug\netcoreapp2.0\07.Custom_List.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\07.Custom_List\obj\Debug\netcoreapp2.0\07.Custom_List.csprojResolveAssemblyReference.cache

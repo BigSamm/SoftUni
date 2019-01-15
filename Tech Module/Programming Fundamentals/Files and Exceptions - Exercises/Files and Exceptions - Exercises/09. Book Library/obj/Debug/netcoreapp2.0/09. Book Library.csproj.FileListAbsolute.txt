@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\09. Book Library\bin\Debug\netcoreapp2.0\09. Book Library.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\09. Book Library\bin\Debug\netcoreapp2.0\09. Book Library.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\09. Book Library\bin\Debug\netcoreapp2.0\09. Book Library.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\09. Book Library\bin\Debug\netcoreapp2.0\09. Book Library.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\09. Book Library\bin\Debug\netcoreapp2.0\09. Book Library.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\09. Book Library\obj\Debug\netcoreapp2.0\09. Book Library.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\09. Book Library\obj\Debug\netcoreapp2.0\09. Book Library.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\09. Book Library\obj\Debug\netcoreapp2.0\09. Book Library.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\09. Book Library\obj\Debug\netcoreapp2.0\09. Book Library.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\09. Book Library\obj\Debug\netcoreapp2.0\09. Book Library.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\09. Book Library\obj\Debug\netcoreapp2.0\09. Book Library.pdb

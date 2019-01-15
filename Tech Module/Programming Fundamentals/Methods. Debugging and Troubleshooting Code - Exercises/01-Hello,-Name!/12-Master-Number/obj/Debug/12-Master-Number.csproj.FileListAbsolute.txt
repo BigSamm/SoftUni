@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\12-Master-Number\bin\Debug\12-Master-Number.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\12-Master-Number\bin\Debug\12-Master-Number.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\12-Master-Number\bin\Debug\12-Master-Number.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\12-Master-Number\obj\Debug\12-Master-Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\12-Master-Number\obj\Debug\12-Master-Number.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\12-Master-Number\obj\Debug\12-Master-Number.pdb

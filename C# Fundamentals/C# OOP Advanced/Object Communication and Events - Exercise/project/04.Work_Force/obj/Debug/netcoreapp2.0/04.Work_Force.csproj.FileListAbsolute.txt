@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\04.Work_Force\bin\Debug\netcoreapp2.0\04.Work_Force.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\04.Work_Force\bin\Debug\netcoreapp2.0\04.Work_Force.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\04.Work_Force\bin\Debug\netcoreapp2.0\04.Work_Force.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\04.Work_Force\bin\Debug\netcoreapp2.0\04.Work_Force.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\04.Work_Force\bin\Debug\netcoreapp2.0\04.Work_Force.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\04.Work_Force\obj\Debug\netcoreapp2.0\04.Work_Force.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\04.Work_Force\obj\Debug\netcoreapp2.0\04.Work_Force.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\04.Work_Force\obj\Debug\netcoreapp2.0\04.Work_Force.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\04.Work_Force\obj\Debug\netcoreapp2.0\04.Work_Force.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\04.Work_Force\obj\Debug\netcoreapp2.0\04.Work_Force.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\04.Work_Force\obj\Debug\netcoreapp2.0\04.Work_Force.pdb

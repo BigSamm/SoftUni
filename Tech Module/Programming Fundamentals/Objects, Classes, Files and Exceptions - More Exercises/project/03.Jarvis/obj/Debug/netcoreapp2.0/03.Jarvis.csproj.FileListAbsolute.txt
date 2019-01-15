@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\03.Jarvis\bin\Debug\netcoreapp2.0\03.Jarvis.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\03.Jarvis\bin\Debug\netcoreapp2.0\03.Jarvis.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\03.Jarvis\bin\Debug\netcoreapp2.0\03.Jarvis.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\03.Jarvis\bin\Debug\netcoreapp2.0\03.Jarvis.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\03.Jarvis\bin\Debug\netcoreapp2.0\03.Jarvis.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\03.Jarvis\obj\Debug\netcoreapp2.0\03.Jarvis.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\03.Jarvis\obj\Debug\netcoreapp2.0\03.Jarvis.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\03.Jarvis\obj\Debug\netcoreapp2.0\03.Jarvis.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\03.Jarvis\obj\Debug\netcoreapp2.0\03.Jarvis.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\03.Jarvis\obj\Debug\netcoreapp2.0\03.Jarvis.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\03.Jarvis\obj\Debug\netcoreapp2.0\03.Jarvis.csprojResolveAssemblyReference.cache

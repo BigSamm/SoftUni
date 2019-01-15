@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\09. Stack Fibonacci\bin\Debug\netcoreapp1.1\09. Stack Fibonacci.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\09. Stack Fibonacci\bin\Debug\netcoreapp1.1\09. Stack Fibonacci.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\09. Stack Fibonacci\bin\Debug\netcoreapp1.1\09. Stack Fibonacci.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\09. Stack Fibonacci\bin\Debug\netcoreapp1.1\09. Stack Fibonacci.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\09. Stack Fibonacci\bin\Debug\netcoreapp1.1\09. Stack Fibonacci.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\09. Stack Fibonacci\obj\Debug\netcoreapp1.1\09. Stack Fibonacci.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\09. Stack Fibonacci\obj\Debug\netcoreapp1.1\09. Stack Fibonacci.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\09. Stack Fibonacci\obj\Debug\netcoreapp1.1\09. Stack Fibonacci.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\09. Stack Fibonacci\obj\Debug\netcoreapp1.1\09. Stack Fibonacci.csprojResolveAssemblyReference.cache

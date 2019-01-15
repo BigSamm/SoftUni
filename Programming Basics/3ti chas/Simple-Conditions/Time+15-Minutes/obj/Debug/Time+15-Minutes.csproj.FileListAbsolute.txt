@@ -1,0 +1,6 @@
+E:\SoftUni\3ti chas\Simple-Conditions\Time+15-Minutes\bin\Debug\Time+15-Minutes.exe.config
+E:\SoftUni\3ti chas\Simple-Conditions\Time+15-Minutes\bin\Debug\Time+15-Minutes.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Time+15-Minutes\bin\Debug\Time+15-Minutes.pdb
+E:\SoftUni\3ti chas\Simple-Conditions\Time+15-Minutes\obj\Debug\Time+15-Minutes.csprojResolveAssemblyReference.cache
+E:\SoftUni\3ti chas\Simple-Conditions\Time+15-Minutes\obj\Debug\Time+15-Minutes.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Time+15-Minutes\obj\Debug\Time+15-Minutes.pdb

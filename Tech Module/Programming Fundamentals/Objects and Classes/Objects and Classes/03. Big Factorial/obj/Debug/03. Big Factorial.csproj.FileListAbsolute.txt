@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\03. Big Factorial\bin\Debug\_03.Big_Factorial.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\03. Big Factorial\bin\Debug\_03.Big_Factorial.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\03. Big Factorial\bin\Debug\_03.Big_Factorial.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\03. Big Factorial\obj\Debug\03. Big Factorial.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\03. Big Factorial\obj\Debug\_03.Big_Factorial.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\03. Big Factorial\obj\Debug\_03.Big_Factorial.pdb

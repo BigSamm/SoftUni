@@ -1,0 +1,6 @@
+E:\SoftUni\2ri chas\Simple-Calculations\TriangleArea\bin\Debug\TriangleArea.exe.config
+E:\SoftUni\2ri chas\Simple-Calculations\TriangleArea\bin\Debug\TriangleArea.exe
+E:\SoftUni\2ri chas\Simple-Calculations\TriangleArea\bin\Debug\TriangleArea.pdb
+E:\SoftUni\2ri chas\Simple-Calculations\TriangleArea\obj\Debug\TriangleArea.csprojResolveAssemblyReference.cache
+E:\SoftUni\2ri chas\Simple-Calculations\TriangleArea\obj\Debug\TriangleArea.exe
+E:\SoftUni\2ri chas\Simple-Calculations\TriangleArea\obj\Debug\TriangleArea.pdb

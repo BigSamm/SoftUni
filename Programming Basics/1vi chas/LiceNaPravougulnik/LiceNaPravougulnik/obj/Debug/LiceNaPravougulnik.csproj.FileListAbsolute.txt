@@ -1,0 +1,6 @@
+E:\SoftUni\1vi chas\LiceNaPravougulnik\LiceNaPravougulnik\bin\Debug\LiceNaPravougulnik.exe.config
+E:\SoftUni\1vi chas\LiceNaPravougulnik\LiceNaPravougulnik\obj\Debug\LiceNaPravougulnik.csprojResolveAssemblyReference.cache
+E:\SoftUni\1vi chas\LiceNaPravougulnik\LiceNaPravougulnik\bin\Debug\LiceNaPravougulnik.exe
+E:\SoftUni\1vi chas\LiceNaPravougulnik\LiceNaPravougulnik\bin\Debug\LiceNaPravougulnik.pdb
+E:\SoftUni\1vi chas\LiceNaPravougulnik\LiceNaPravougulnik\obj\Debug\LiceNaPravougulnik.exe
+E:\SoftUni\1vi chas\LiceNaPravougulnik\LiceNaPravougulnik\obj\Debug\LiceNaPravougulnik.pdb

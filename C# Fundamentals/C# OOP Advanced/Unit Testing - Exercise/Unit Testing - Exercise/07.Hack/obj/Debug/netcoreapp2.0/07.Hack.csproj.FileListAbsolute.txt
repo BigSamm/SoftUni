@@ -1,0 +1,15 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\07.Hack\bin\Debug\netcoreapp2.0\07.Hack.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\07.Hack\bin\Debug\netcoreapp2.0\07.Hack.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\07.Hack\bin\Debug\netcoreapp2.0\07.Hack.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\07.Hack\bin\Debug\netcoreapp2.0\07.Hack.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\07.Hack\obj\Debug\netcoreapp2.0\07.Hack.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\07.Hack\obj\Debug\netcoreapp2.0\07.Hack.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\07.Hack\obj\Debug\netcoreapp2.0\07.Hack.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\07.Hack\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\07.Hack\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\07.Hack\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\07.Hack\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\07.Hack\bin\Debug\netcoreapp2.0\07.Hack.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\07.Hack\obj\Debug\netcoreapp2.0\07.Hack.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\07.Hack\obj\Debug\netcoreapp2.0\07.Hack.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\07.Hack\obj\Debug\netcoreapp2.0\07.Hack.csprojResolveAssemblyReference.cache

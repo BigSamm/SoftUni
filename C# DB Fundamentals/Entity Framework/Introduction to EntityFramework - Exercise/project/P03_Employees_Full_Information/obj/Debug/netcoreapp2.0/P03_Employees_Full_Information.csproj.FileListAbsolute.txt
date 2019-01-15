@@ -1,0 +1,14 @@
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P03_Employees_Full_Information\bin\Debug\netcoreapp2.0\P03_Employees_Full_Information.deps.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P03_Employees_Full_Information\bin\Debug\netcoreapp2.0\P03_Employees_Full_Information.runtimeconfig.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P03_Employees_Full_Information\bin\Debug\netcoreapp2.0\P03_Employees_Full_Information.runtimeconfig.dev.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P03_Employees_Full_Information\bin\Debug\netcoreapp2.0\P03_Employees_Full_Information.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P03_Employees_Full_Information\bin\Debug\netcoreapp2.0\P03_Employees_Full_Information.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P03_Employees_Full_Information\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P03_Employees_Full_Information\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P03_Employees_Full_Information\obj\Debug\netcoreapp2.0\P03_Employees_Full_Information.csprojAssemblyReference.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P03_Employees_Full_Information\obj\Debug\netcoreapp2.0\P03_Employees_Full_Information.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P03_Employees_Full_Information\obj\Debug\netcoreapp2.0\P03_Employees_Full_Information.AssemblyInfoInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P03_Employees_Full_Information\obj\Debug\netcoreapp2.0\P03_Employees_Full_Information.AssemblyInfo.cs
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P03_Employees_Full_Information\obj\Debug\netcoreapp2.0\P03_Employees_Full_Information.csproj.CopyComplete
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P03_Employees_Full_Information\obj\Debug\netcoreapp2.0\P03_Employees_Full_Information.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P03_Employees_Full_Information\obj\Debug\netcoreapp2.0\P03_Employees_Full_Information.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\4ti chas\Exam\Match-Tickets\bin\Debug\Match-Tickets.exe.config
+E:\SoftUni\4ti chas\Exam\Match-Tickets\bin\Debug\Match-Tickets.exe
+E:\SoftUni\4ti chas\Exam\Match-Tickets\bin\Debug\Match-Tickets.pdb
+E:\SoftUni\4ti chas\Exam\Match-Tickets\obj\Debug\Match-Tickets.csprojResolveAssemblyReference.cache
+E:\SoftUni\4ti chas\Exam\Match-Tickets\obj\Debug\Match-Tickets.exe
+E:\SoftUni\4ti chas\Exam\Match-Tickets\obj\Debug\Match-Tickets.pdb

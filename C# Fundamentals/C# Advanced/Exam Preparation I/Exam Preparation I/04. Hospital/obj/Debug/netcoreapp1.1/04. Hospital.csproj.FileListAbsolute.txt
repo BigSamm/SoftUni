@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\04. Hospital\bin\Debug\netcoreapp1.1\04. Hospital.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\04. Hospital\bin\Debug\netcoreapp1.1\04. Hospital.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\04. Hospital\bin\Debug\netcoreapp1.1\04. Hospital.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\04. Hospital\bin\Debug\netcoreapp1.1\04. Hospital.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\04. Hospital\bin\Debug\netcoreapp1.1\04. Hospital.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\04. Hospital\obj\Debug\netcoreapp1.1\04. Hospital.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\04. Hospital\obj\Debug\netcoreapp1.1\04. Hospital.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\04. Hospital\obj\Debug\netcoreapp1.1\04. Hospital.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\04. Hospital\obj\Debug\netcoreapp1.1\04. Hospital.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\04. Hospital\obj\Debug\netcoreapp1.1\04. Hospital.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\04. Hospital\obj\Debug\netcoreapp1.1\04. Hospital.AssemblyInfoInputs.cache

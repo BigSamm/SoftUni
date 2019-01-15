@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Strings and Regular Expressions - More Exercises\Strings and Regex\02. Email me\bin\Debug\_02.Email_me.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Strings and Regular Expressions - More Exercises\Strings and Regex\02. Email me\bin\Debug\_02.Email_me.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Strings and Regular Expressions - More Exercises\Strings and Regex\02. Email me\bin\Debug\_02.Email_me.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Strings and Regular Expressions - More Exercises\Strings and Regex\02. Email me\obj\Debug\02. Email me.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Strings and Regular Expressions - More Exercises\Strings and Regex\02. Email me\obj\Debug\_02.Email_me.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Strings and Regular Expressions - More Exercises\Strings and Regex\02. Email me\obj\Debug\_02.Email_me.pdb

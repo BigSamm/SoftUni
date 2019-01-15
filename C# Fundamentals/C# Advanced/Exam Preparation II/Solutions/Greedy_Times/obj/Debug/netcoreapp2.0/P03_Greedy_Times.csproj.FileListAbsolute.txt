@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Greedy_Times\bin\Debug\netcoreapp2.0\P03_Greedy_Times.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Greedy_Times\bin\Debug\netcoreapp2.0\P03_Greedy_Times.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Greedy_Times\bin\Debug\netcoreapp2.0\P03_Greedy_Times.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Greedy_Times\bin\Debug\netcoreapp2.0\P03_Greedy_Times.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Greedy_Times\bin\Debug\netcoreapp2.0\P03_Greedy_Times.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Greedy_Times\obj\Debug\netcoreapp2.0\P03_Greedy_Times.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Greedy_Times\obj\Debug\netcoreapp2.0\P03_Greedy_Times.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Greedy_Times\obj\Debug\netcoreapp2.0\P03_Greedy_Times.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Greedy_Times\obj\Debug\netcoreapp2.0\P03_Greedy_Times.pdb

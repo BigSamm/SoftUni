@@ -1,0 +1,6 @@
+E:\SoftUni\7ti chas\Advanced-Loops\07-Greatest-Common-Divisor-(CGD)\bin\Debug\07-Greatest-Common-Divisor-(CGD).exe.config
+E:\SoftUni\7ti chas\Advanced-Loops\07-Greatest-Common-Divisor-(CGD)\bin\Debug\07-Greatest-Common-Divisor-(CGD).exe
+E:\SoftUni\7ti chas\Advanced-Loops\07-Greatest-Common-Divisor-(CGD)\bin\Debug\07-Greatest-Common-Divisor-(CGD).pdb
+E:\SoftUni\7ti chas\Advanced-Loops\07-Greatest-Common-Divisor-(CGD)\obj\Debug\07-Greatest-Common-Divisor-(CGD).csprojResolveAssemblyReference.cache
+E:\SoftUni\7ti chas\Advanced-Loops\07-Greatest-Common-Divisor-(CGD)\obj\Debug\07-Greatest-Common-Divisor-(CGD).exe
+E:\SoftUni\7ti chas\Advanced-Loops\07-Greatest-Common-Divisor-(CGD)\obj\Debug\07-Greatest-Common-Divisor-(CGD).pdb

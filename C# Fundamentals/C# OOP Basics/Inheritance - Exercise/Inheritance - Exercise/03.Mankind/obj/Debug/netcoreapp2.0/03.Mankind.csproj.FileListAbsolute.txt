@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\bin\Debug\netcoreapp2.0\03.Mankind.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\bin\Debug\netcoreapp2.0\03.Mankind.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\bin\Debug\netcoreapp2.0\03.Mankind.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\bin\Debug\netcoreapp2.0\03.Mankind.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\bin\Debug\netcoreapp2.0\03.Mankind.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.pdb

@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\07. Balanced Parenthesis\bin\Debug\netcoreapp1.1\07. Balanced Parenthesis.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\07. Balanced Parenthesis\bin\Debug\netcoreapp1.1\07. Balanced Parenthesis.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\07. Balanced Parenthesis\bin\Debug\netcoreapp1.1\07. Balanced Parenthesis.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\07. Balanced Parenthesis\bin\Debug\netcoreapp1.1\07. Balanced Parenthesis.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\07. Balanced Parenthesis\bin\Debug\netcoreapp1.1\07. Balanced Parenthesis.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\netcoreapp1.1\07. Balanced Parenthesis.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\netcoreapp1.1\07. Balanced Parenthesis.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\netcoreapp1.1\07. Balanced Parenthesis.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\netcoreapp1.1\07. Balanced Parenthesis.pdb

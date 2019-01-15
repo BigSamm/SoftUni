@@ -1,0 +1,6 @@
+E:\SoftUni\7ti chas\Advanced-Loops\13-Number-Pyramid\bin\Debug\13-Number-Pyramid.exe.config
+E:\SoftUni\7ti chas\Advanced-Loops\13-Number-Pyramid\bin\Debug\13-Number-Pyramid.exe
+E:\SoftUni\7ti chas\Advanced-Loops\13-Number-Pyramid\bin\Debug\13-Number-Pyramid.pdb
+E:\SoftUni\7ti chas\Advanced-Loops\13-Number-Pyramid\obj\Debug\13-Number-Pyramid.csprojResolveAssemblyReference.cache
+E:\SoftUni\7ti chas\Advanced-Loops\13-Number-Pyramid\obj\Debug\13-Number-Pyramid.exe
+E:\SoftUni\7ti chas\Advanced-Loops\13-Number-Pyramid\obj\Debug\13-Number-Pyramid.pdb

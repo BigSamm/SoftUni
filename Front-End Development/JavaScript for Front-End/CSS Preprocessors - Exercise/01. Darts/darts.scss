@@ -1,0 +1,39 @@
+$main-font-size: 40px;
+$main-line-height: 50px;
+$padding: 100px;
+
+@mixin width-and-height-calc(){
+  width: calc(100% - $padding);
+  height: calc(100% - $padding);
+}
+
+main {
+  div {
+    background: #A52A2A;
+    width: 550px;
+    height: 550px;
+    border-radius: 50%;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    font-size: $main-font-size;
+    line-height: $main-line-height;
+    div {
+      background: #0000FF;
+      @include width-and-height-calc();
+      div {
+        background: #ADFF2F;
+        @include width-and-height-calc();
+        div {
+          background: #FFFF00;
+          @include width-and-height-calc();
+          div {
+            background: #FF0000;
+            @include width-and-height-calc();
+            line-height: 150px;
+          }
+        }
+      }
+    }
+  }
+}

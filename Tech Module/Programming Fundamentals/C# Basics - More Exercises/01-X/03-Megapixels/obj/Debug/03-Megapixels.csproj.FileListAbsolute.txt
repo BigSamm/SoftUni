@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\03-Megapixels\bin\Debug\03-Megapixels.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\03-Megapixels\bin\Debug\03-Megapixels.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\03-Megapixels\bin\Debug\03-Megapixels.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\03-Megapixels\obj\Debug\03-Megapixels.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\03-Megapixels\obj\Debug\03-Megapixels.pdb

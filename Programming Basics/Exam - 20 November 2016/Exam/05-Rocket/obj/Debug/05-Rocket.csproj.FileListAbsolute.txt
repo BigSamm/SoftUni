@@ -1,0 +1,6 @@
+E:\SoftUni\Exam - 20 November 2016\Exam\05-Rocket\bin\Debug\05-Rocket.exe.config
+E:\SoftUni\Exam - 20 November 2016\Exam\05-Rocket\bin\Debug\05-Rocket.exe
+E:\SoftUni\Exam - 20 November 2016\Exam\05-Rocket\bin\Debug\05-Rocket.pdb
+E:\SoftUni\Exam - 20 November 2016\Exam\05-Rocket\obj\Debug\05-Rocket.csprojResolveAssemblyReference.cache
+E:\SoftUni\Exam - 20 November 2016\Exam\05-Rocket\obj\Debug\05-Rocket.exe
+E:\SoftUni\Exam - 20 November 2016\Exam\05-Rocket\obj\Debug\05-Rocket.pdb

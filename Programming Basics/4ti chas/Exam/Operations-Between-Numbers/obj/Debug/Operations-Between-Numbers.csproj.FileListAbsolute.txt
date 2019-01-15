@@ -1,0 +1,5 @@
+E:\SoftUni\4ti chas\Exam\Operations-Between-Numbers\bin\Debug\Operations-Between-Numbers.exe.config
+E:\SoftUni\4ti chas\Exam\Operations-Between-Numbers\bin\Debug\Operations-Between-Numbers.exe
+E:\SoftUni\4ti chas\Exam\Operations-Between-Numbers\bin\Debug\Operations-Between-Numbers.pdb
+E:\SoftUni\4ti chas\Exam\Operations-Between-Numbers\obj\Debug\Operations-Between-Numbers.exe
+E:\SoftUni\4ti chas\Exam\Operations-Between-Numbers\obj\Debug\Operations-Between-Numbers.pdb

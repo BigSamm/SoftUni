@@ -1,0 +1,6 @@
+E:\SoftUni\5ti chas\Loops\07-Left-and-Right-Sum\bin\Debug\07-Left-and-Right-Sum.exe.config
+E:\SoftUni\5ti chas\Loops\07-Left-and-Right-Sum\obj\Debug\07-Left-and-Right-Sum.csprojResolveAssemblyReference.cache
+E:\SoftUni\5ti chas\Loops\07-Left-and-Right-Sum\bin\Debug\07-Left-and-Right-Sum.exe
+E:\SoftUni\5ti chas\Loops\07-Left-and-Right-Sum\bin\Debug\07-Left-and-Right-Sum.pdb
+E:\SoftUni\5ti chas\Loops\07-Left-and-Right-Sum\obj\Debug\07-Left-and-Right-Sum.exe
+E:\SoftUni\5ti chas\Loops\07-Left-and-Right-Sum\obj\Debug\07-Left-and-Right-Sum.pdb

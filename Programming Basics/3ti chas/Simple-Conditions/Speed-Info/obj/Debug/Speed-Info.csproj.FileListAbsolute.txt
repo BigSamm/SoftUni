@@ -1,0 +1,6 @@
+E:\SoftUni\3ti chas\Simple-Conditions\Speed-Info\bin\Debug\Speed-Info.exe.config
+E:\SoftUni\3ti chas\Simple-Conditions\Speed-Info\bin\Debug\Speed-Info.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Speed-Info\bin\Debug\Speed-Info.pdb
+E:\SoftUni\3ti chas\Simple-Conditions\Speed-Info\obj\Debug\Speed-Info.csprojResolveAssemblyReference.cache
+E:\SoftUni\3ti chas\Simple-Conditions\Speed-Info\obj\Debug\Speed-Info.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Speed-Info\obj\Debug\Speed-Info.pdb

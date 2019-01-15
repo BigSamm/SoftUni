@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\01. Sort Times\bin\Debug\_01.Sort_Times.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\01. Sort Times\bin\Debug\_01.Sort_Times.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\01. Sort Times\bin\Debug\_01.Sort_Times.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\01. Sort Times\obj\Debug\01. Sort Times.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\01. Sort Times\obj\Debug\_01.Sort_Times.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\01. Sort Times\obj\Debug\_01.Sort_Times.pdb

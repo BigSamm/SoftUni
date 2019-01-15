@@ -1,0 +1,6 @@
+E:\SoftUni\2ri chas\Simple-Calculations\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe.config
+E:\SoftUni\2ri chas\Simple-Calculations\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe
+E:\SoftUni\2ri chas\Simple-Calculations\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.pdb
+E:\SoftUni\2ri chas\Simple-Calculations\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.csprojResolveAssemblyReference.cache
+E:\SoftUni\2ri chas\Simple-Calculations\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.exe
+E:\SoftUni\2ri chas\Simple-Calculations\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.pdb

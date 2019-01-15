@@ -1,0 +1,39 @@
+form {
+    position: relative;
+    width: 470px;
+    margin: 50px auto 0;
+    padding: 50px 60px 70px;
+    background: #d5c395;
+}
+
+.name, .pass {
+    outline: none;
+    border: none;
+    background: #efe1c4;
+    padding: 10px 10px 10px 60px;
+    width: 85%;
+    font-size: 1.1em;
+    color: #927057;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.form-field {
+    position: relative;
+}
+
+.fa-user {
+    font-size: 30px;
+    position: absolute;
+    top: 5px;
+    left: 15px;
+    color: #927057;
+}
+
+.fa-unlock-alt {
+    font-size: 30px;
+    position: absolute;
+    top: 7px;
+    left: 15px;
+    color: #927057;
+}

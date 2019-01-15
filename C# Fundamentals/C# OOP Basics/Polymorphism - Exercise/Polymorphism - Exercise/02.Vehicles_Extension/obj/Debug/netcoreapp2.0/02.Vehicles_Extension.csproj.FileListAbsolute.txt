@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Polymorphism - Exercise\Polymorphism - Exercise\02.Vehicles_Extension\obj\Debug\netcoreapp2.0\02.Vehicles_Extension.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Polymorphism - Exercise\Polymorphism - Exercise\02.Vehicles_Extension\obj\Debug\netcoreapp2.0\02.Vehicles_Extension.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Polymorphism - Exercise\Polymorphism - Exercise\02.Vehicles_Extension\obj\Debug\netcoreapp2.0\02.Vehicles_Extension.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Polymorphism - Exercise\Polymorphism - Exercise\02.Vehicles_Extension\obj\Debug\netcoreapp2.0\02.Vehicles_Extension.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Polymorphism - Exercise\Polymorphism - Exercise\02.Vehicles_Extension\bin\Debug\netcoreapp2.0\02.Vehicles_Extension.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Polymorphism - Exercise\Polymorphism - Exercise\02.Vehicles_Extension\bin\Debug\netcoreapp2.0\02.Vehicles_Extension.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Polymorphism - Exercise\Polymorphism - Exercise\02.Vehicles_Extension\bin\Debug\netcoreapp2.0\02.Vehicles_Extension.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Polymorphism - Exercise\Polymorphism - Exercise\02.Vehicles_Extension\bin\Debug\netcoreapp2.0\02.Vehicles_Extension.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Polymorphism - Exercise\Polymorphism - Exercise\02.Vehicles_Extension\bin\Debug\netcoreapp2.0\02.Vehicles_Extension.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Polymorphism - Exercise\Polymorphism - Exercise\02.Vehicles_Extension\obj\Debug\netcoreapp2.0\02.Vehicles_Extension.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Polymorphism - Exercise\Polymorphism - Exercise\02.Vehicles_Extension\obj\Debug\netcoreapp2.0\02.Vehicles_Extension.pdb

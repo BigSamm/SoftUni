@@ -1,0 +1,14 @@
+D:\SoftUni\C# Web\C# Web Development Basics\Exam - 05 September 2018\SIS-master\src\SIS.Framework\bin\Debug\netcoreapp2.1\SIS.Framework.deps.json
+D:\SoftUni\C# Web\C# Web Development Basics\Exam - 05 September 2018\SIS-master\src\SIS.Framework\bin\Debug\netcoreapp2.1\SIS.Framework.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Exam - 05 September 2018\SIS-master\src\SIS.Framework\bin\Debug\netcoreapp2.1\SIS.Framework.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Exam - 05 September 2018\SIS-master\src\SIS.Framework\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Exam - 05 September 2018\SIS-master\src\SIS.Framework\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Exam - 05 September 2018\SIS-master\src\SIS.Framework\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Exam - 05 September 2018\SIS-master\src\SIS.Framework\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Exam - 05 September 2018\SIS-master\src\SIS.Framework\obj\Debug\netcoreapp2.1\SIS.Framework.csprojAssemblyReference.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Exam - 05 September 2018\SIS-master\src\SIS.Framework\obj\Debug\netcoreapp2.1\SIS.Framework.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Exam - 05 September 2018\SIS-master\src\SIS.Framework\obj\Debug\netcoreapp2.1\SIS.Framework.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Exam - 05 September 2018\SIS-master\src\SIS.Framework\obj\Debug\netcoreapp2.1\SIS.Framework.AssemblyInfo.cs
+D:\SoftUni\C# Web\C# Web Development Basics\Exam - 05 September 2018\SIS-master\src\SIS.Framework\obj\Debug\netcoreapp2.1\SIS.Framework.csproj.CopyComplete
+D:\SoftUni\C# Web\C# Web Development Basics\Exam - 05 September 2018\SIS-master\src\SIS.Framework\obj\Debug\netcoreapp2.1\SIS.Framework.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Exam - 05 September 2018\SIS-master\src\SIS.Framework\obj\Debug\netcoreapp2.1\SIS.Framework.pdb

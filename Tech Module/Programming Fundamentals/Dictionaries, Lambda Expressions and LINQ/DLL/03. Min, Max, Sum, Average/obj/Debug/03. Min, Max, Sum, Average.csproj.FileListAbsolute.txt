@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\03. Min, Max, Sum, Average\obj\Debug\03. Min, Max, Sum, Average.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\03. Min, Max, Sum, Average\obj\Debug\_03.Min__Max__Sum__Average.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\03. Min, Max, Sum, Average\obj\Debug\_03.Min__Max__Sum__Average.pdb

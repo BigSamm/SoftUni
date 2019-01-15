@@ -1,0 +1,5 @@
+E:\SoftUni\5ti chas\Loops\06-Min-Number\bin\Debug\06-Min-Number.exe.config
+E:\SoftUni\5ti chas\Loops\06-Min-Number\bin\Debug\06-Min-Number.exe
+E:\SoftUni\5ti chas\Loops\06-Min-Number\bin\Debug\06-Min-Number.pdb
+E:\SoftUni\5ti chas\Loops\06-Min-Number\obj\Debug\06-Min-Number.exe
+E:\SoftUni\5ti chas\Loops\06-Min-Number\obj\Debug\06-Min-Number.pdb

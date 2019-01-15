@@ -1,0 +1,14 @@
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P08_Addresses_by_Town\bin\Debug\netcoreapp2.0\P08_Addresses_by_Town.deps.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P08_Addresses_by_Town\bin\Debug\netcoreapp2.0\P08_Addresses_by_Town.runtimeconfig.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P08_Addresses_by_Town\bin\Debug\netcoreapp2.0\P08_Addresses_by_Town.runtimeconfig.dev.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P08_Addresses_by_Town\bin\Debug\netcoreapp2.0\P08_Addresses_by_Town.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P08_Addresses_by_Town\bin\Debug\netcoreapp2.0\P08_Addresses_by_Town.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P08_Addresses_by_Town\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P08_Addresses_by_Town\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P08_Addresses_by_Town\obj\Debug\netcoreapp2.0\P08_Addresses_by_Town.csprojAssemblyReference.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P08_Addresses_by_Town\obj\Debug\netcoreapp2.0\P08_Addresses_by_Town.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P08_Addresses_by_Town\obj\Debug\netcoreapp2.0\P08_Addresses_by_Town.AssemblyInfoInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P08_Addresses_by_Town\obj\Debug\netcoreapp2.0\P08_Addresses_by_Town.AssemblyInfo.cs
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P08_Addresses_by_Town\obj\Debug\netcoreapp2.0\P08_Addresses_by_Town.csproj.CopyComplete
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P08_Addresses_by_Town\obj\Debug\netcoreapp2.0\P08_Addresses_by_Town.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P08_Addresses_by_Town\obj\Debug\netcoreapp2.0\P08_Addresses_by_Town.pdb

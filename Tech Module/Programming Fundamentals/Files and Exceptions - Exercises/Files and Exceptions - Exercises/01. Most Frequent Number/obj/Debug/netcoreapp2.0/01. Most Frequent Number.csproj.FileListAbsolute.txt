@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\01. Most Frequent Number\bin\Debug\netcoreapp2.0\01. Most Frequent Number.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\01. Most Frequent Number\bin\Debug\netcoreapp2.0\01. Most Frequent Number.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\01. Most Frequent Number\bin\Debug\netcoreapp2.0\01. Most Frequent Number.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\01. Most Frequent Number\bin\Debug\netcoreapp2.0\01. Most Frequent Number.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\01. Most Frequent Number\bin\Debug\netcoreapp2.0\01. Most Frequent Number.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\01. Most Frequent Number\obj\Debug\netcoreapp2.0\01. Most Frequent Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\01. Most Frequent Number\obj\Debug\netcoreapp2.0\01. Most Frequent Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\01. Most Frequent Number\obj\Debug\netcoreapp2.0\01. Most Frequent Number.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\01. Most Frequent Number\obj\Debug\netcoreapp2.0\01. Most Frequent Number.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\01. Most Frequent Number\obj\Debug\netcoreapp2.0\01. Most Frequent Number.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\01. Most Frequent Number\obj\Debug\netcoreapp2.0\01. Most Frequent Number.pdb

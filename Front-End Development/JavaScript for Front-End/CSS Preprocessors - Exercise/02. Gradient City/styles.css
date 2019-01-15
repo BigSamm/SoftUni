@@ -1,0 +1,140 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+body {
+  background: linear-gradient(to bottom, #808080, white); }
+  body #wrapper {
+    border: 2px double #808080;
+    width: 90%;
+    margin: 0 auto;
+    background: white; }
+    body #wrapper > header {
+      border: 2px double #808080;
+      margin: 20px; }
+      body #wrapper > header h1 {
+        color: #808080;
+        text-align: center;
+        font-size: 50px;
+        margin: 20px 0; }
+      body #wrapper > header nav {
+        width: 55%;
+        margin: 0 auto; }
+        body #wrapper > header nav ul {
+          display: flex;
+          justify-content: space-around;
+          margin: 20px 0; }
+        body #wrapper > header nav li {
+          border: 2px double #808080;
+          list-style: none;
+          width: 100px;
+          height: 40px;
+          text-align: center;
+          line-height: 40px; }
+          body #wrapper > header nav li a {
+            text-decoration: none;
+            color: #808080; }
+        body #wrapper > header nav li:hover {
+          background: linear-gradient(to bottom, #808080, white); }
+          body #wrapper > header nav li:hover a {
+            color: white; }
+    body #wrapper > section {
+      border: 2px double #808080;
+      margin: 20px; }
+      body #wrapper > section header h1 {
+        text-align: center;
+        color: #808080;
+        text-decoration: underline;
+        font-size: 20px;
+        font-weight: normal;
+        margin: 20px 0; }
+      body #wrapper > section article {
+        border: 1px solid #808080;
+        width: 95%;
+        margin: 20px auto; }
+        body #wrapper > section article h2 {
+          color: #808080;
+          font-size: 16px;
+          text-align: center;
+          font-weight: normal;
+          margin: 20px 0; }
+        body #wrapper > section article div.innerContainer {
+          width: 752px;
+          margin: 20px auto;
+          text-align: center; }
+          body #wrapper > section article div.innerContainer > div {
+            width: 120px;
+            height: 120px;
+            display: inline-block;
+            margin: -2px;
+            border-radius: 20px; }
+      body #wrapper > section article:nth-of-type(1) .purple {
+        background: linear-gradient(to bottom, #320132, #FEEEFE); }
+      body #wrapper > section article:nth-of-type(1) .blue {
+        background: linear-gradient(to bottom, #0202B0, #EEEEFF); }
+      body #wrapper > section article:nth-of-type(1) .green {
+        background: linear-gradient(to bottom, #043204, #F0FFF0); }
+      body #wrapper > section article:nth-of-type(1) .yellow {
+        background: linear-gradient(to bottom, #F5F500, #FFFFDD); }
+      body #wrapper > section article:nth-of-type(1) .orange {
+        background: linear-gradient(to bottom, #EB9203, #FFFFDD); }
+      body #wrapper > section article:nth-of-type(1) .red {
+        background: linear-gradient(to bottom, #CC0000, #FEE3E3); }
+      body #wrapper > section article:nth-of-type(2) .purple {
+        background: linear-gradient(to right, #320132, #FEEEFE); }
+      body #wrapper > section article:nth-of-type(2) .blue {
+        background: linear-gradient(to right, #0202B0, #EEEEFF); }
+      body #wrapper > section article:nth-of-type(2) .green {
+        background: linear-gradient(to right, #043204, #F0FFF0); }
+      body #wrapper > section article:nth-of-type(2) .yellow {
+        background: linear-gradient(to right, #F5F500, #FFFFDD); }
+      body #wrapper > section article:nth-of-type(2) .orange {
+        background: linear-gradient(to right, #EB9203, #FFFFDD); }
+      body #wrapper > section article:nth-of-type(2) .red {
+        background: linear-gradient(to right, #CC0000, #FEE3E3); }
+      body #wrapper > section article:nth-of-type(3) .purple {
+        background: linear-gradient(to right bottom, #320132, #FEEEFE); }
+      body #wrapper > section article:nth-of-type(3) .blue {
+        background: linear-gradient(to right bottom, #0202B0, #EEEEFF); }
+      body #wrapper > section article:nth-of-type(3) .green {
+        background: linear-gradient(to right bottom, #043204, #F0FFF0); }
+      body #wrapper > section article:nth-of-type(3) .yellow {
+        background: linear-gradient(to right bottom, #F5F500, #FFFFDD); }
+      body #wrapper > section article:nth-of-type(3) .orange {
+        background: linear-gradient(to right bottom, #EB9203, #FFFFDD); }
+      body #wrapper > section article:nth-of-type(3) .red {
+        background: linear-gradient(to right bottom, #CC0000, #FEE3E3); }
+    body #wrapper > section.radial div .purple {
+      background: radial-gradient(#320132, #FEEEFE); }
+    body #wrapper > section.radial div .blue {
+      background: radial-gradient(#0202B0, #EEEEFF); }
+    body #wrapper > section.radial div .green {
+      background: radial-gradient(#043204, #F0FFF0); }
+    body #wrapper > section.radial div .yellow {
+      background: radial-gradient(yellow, #FFFFDD); }
+    body #wrapper > section.radial div .orange {
+      background: radial-gradient(#EB9203, #FFFFDD); }
+    body #wrapper > section.radial div .red {
+      background: radial-gradient(#CC0000, #FEE3E3); }
+    body #wrapper footer {
+      border: 2px double #808080;
+      margin: 20px; }
+      body #wrapper footer h3 {
+        text-align: center;
+        color: #808080;
+        text-decoration: underline;
+        font-size: 20px;
+        font-weight: normal;
+        margin: 20px 0; }
+      body #wrapper footer ul li {
+        color: #808080;
+        font-size: 16px;
+        text-align: center;
+        font-weight: normal;
+        margin: 20px 0;
+        list-style: none; }
+        body #wrapper footer ul li a {
+          color: #808080;
+          text-decoration: none; }
+
+/*# sourceMappingURL=styles.css.map */

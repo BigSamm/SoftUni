@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web");
+@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+}
+
+input {
+    width: calc(100% - 30px);
+    height: 60px;
+    padding-left: 30px;
+    border: 2px solid lightgray;
+    outline: none;
+}
+input:focus {
+    outline: none;
+    border: 2px solid orange;
+}
+
+h2 {
+    text-transform: uppercase;
+    margin: 30px 0;
+}
+
+header {
+    width: 90%;
+    margin: 0 auto;
+}
+header h1 {
+    text-transform: uppercase;
+    font-size: 50px;
+    margin: 30px 0;
+    border-bottom: 3px solid lightgray;
+    padding-bottom: 20px;
+}
+header h1 span {
+    border-bottom: 3px solid orange;
+    padding-bottom: 20px;
+}
+
+main {
+    width: 90%;
+    margin: 100px auto 50px;
+}
+main form > section {
+    margin: 100px 0;
+}
+
+.weightNfragile {
+    display: flex;
+    justify-content: space-between;
+}
+.weightNfragile > div {
+    width: 45%;
+}
+.weightNfragile #fragile {
+    width: 100%;
+    height: 60px;
+    padding-left: 30px;
+    color: gray;
+}
+.weightNfragile #fragile:focus {
+    border: 2px solid orange;
+    outline: none;
+}
+.weightNfragile .fragile label {
+    position: relative;
+}
+.weightNfragile .fragile label:after {
+    content:"\f078";
+    font-family: "FontAwesome";
+    font-size: 14px;
+    right:8px;
+    top:4px;
+    padding: 0 15px 2px;
+    position:absolute;
+    pointer-events:none;
+    color: orange;
+}
+.weightNfragile .fragile label:before {
+    content:'';
+    right:4px; top:0px;
+    width:23px; height:18px;
+    background:#fff;
+    position:absolute;
+    pointer-events:none;
+    display:block;
+}
+
+.size {
+    display: flex;
+    justify-content: space-between;
+}
+.size > div {
+    width: 30%;
+}
+
+.extra-services {
+    font-size: 24px;
+    font-weight: bold;
+}
+.extra-services input[type="radio"] {
+    -webkit-appearance: none;
+    width: 34px;
+    height: 34px;
+    margin-right: 10px;
+    border: 2px solid orange;
+    border-radius: 25px;
+}
+.extra-services input[type="radio"]:last-of-type {
+    margin-left: 200px;
+}
+.extra-services input[type="radio"]:checked {
+    background:  orange;
+}
+.extra-services h2 {
+    display: inline-block;
+    margin-right: 200px;
+    font-size: 28px;
+}
+
+.total {
+    border-top: 2px solid lightgray;
+    border-bottom: 2px solid lightgray;
+    margin-bottom: 50px;
+}
+.total h2 {
+    display: inline-block;
+    padding: 20px 0;
+    font-size: 30px;
+}
+.total h2:last-of-type {
+    float: right;
+    color: orange;
+}

@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\07. Inventory Matcher\bin\Debug\_07.Inventory_Matcher.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\07. Inventory Matcher\bin\Debug\_07.Inventory_Matcher.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\07. Inventory Matcher\bin\Debug\_07.Inventory_Matcher.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\07. Inventory Matcher\obj\Debug\07. Inventory Matcher.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\07. Inventory Matcher\obj\Debug\_07.Inventory_Matcher.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays and Methods - More Exercises\ArraysAndMethods-MoreExercises\07. Inventory Matcher\obj\Debug\_07.Inventory_Matcher.pdb

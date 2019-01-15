@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\02.Book_Shop\bin\Debug\netcoreapp2.0\02.Book_Shop.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\02.Book_Shop\bin\Debug\netcoreapp2.0\02.Book_Shop.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\02.Book_Shop\bin\Debug\netcoreapp2.0\02.Book_Shop.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\02.Book_Shop\bin\Debug\netcoreapp2.0\02.Book_Shop.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\02.Book_Shop\bin\Debug\netcoreapp2.0\02.Book_Shop.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\02.Book_Shop\obj\Debug\netcoreapp2.0\02.Book_Shop.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\02.Book_Shop\obj\Debug\netcoreapp2.0\02.Book_Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\02.Book_Shop\obj\Debug\netcoreapp2.0\02.Book_Shop.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\02.Book_Shop\obj\Debug\netcoreapp2.0\02.Book_Shop.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\02.Book_Shop\obj\Debug\netcoreapp2.0\02.Book_Shop.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\02.Book_Shop\obj\Debug\netcoreapp2.0\02.Book_Shop.pdb

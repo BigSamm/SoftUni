@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\06-Math-Power\bin\Debug\06-Math-Power.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\06-Math-Power\bin\Debug\06-Math-Power.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\06-Math-Power\bin\Debug\06-Math-Power.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\06-Math-Power\obj\Debug\06-Math-Power.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\06-Math-Power\obj\Debug\06-Math-Power.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\17-Print-Part-Of-ASCII-Table\bin\Debug\17-Print-Part-Of-ASCII-Table.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\17-Print-Part-Of-ASCII-Table\bin\Debug\17-Print-Part-Of-ASCII-Table.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\17-Print-Part-Of-ASCII-Table\bin\Debug\17-Print-Part-Of-ASCII-Table.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\17-Print-Part-Of-ASCII-Table\obj\Debug\17-Print-Part-Of-ASCII-Table.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\17-Print-Part-Of-ASCII-Table\obj\Debug\17-Print-Part-Of-ASCII-Table.pdb

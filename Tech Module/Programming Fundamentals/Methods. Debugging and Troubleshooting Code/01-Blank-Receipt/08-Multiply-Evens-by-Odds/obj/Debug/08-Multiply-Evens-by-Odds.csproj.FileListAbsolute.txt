@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\08-Multiply-Evens-by-Odds\bin\Debug\08-Multiply-Evens-by-Odds.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\08-Multiply-Evens-by-Odds\bin\Debug\08-Multiply-Evens-by-Odds.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\08-Multiply-Evens-by-Odds\bin\Debug\08-Multiply-Evens-by-Odds.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\08-Multiply-Evens-by-Odds\obj\Debug\08-Multiply-Evens-by-Odds.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\08-Multiply-Evens-by-Odds\obj\Debug\08-Multiply-Evens-by-Odds.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\08-Multiply-Evens-by-Odds\obj\Debug\08-Multiply-Evens-by-Odds.pdb

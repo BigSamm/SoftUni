@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Intro and Basic Syntax\01-Greeting\02-Add-Two-Numbers\obj\Debug\02-Add-Two-Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Intro and Basic Syntax\01-Greeting\02-Add-Two-Numbers\bin\Debug\02-Add-Two-Numbers.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Intro and Basic Syntax\01-Greeting\02-Add-Two-Numbers\bin\Debug\02-Add-Two-Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Intro and Basic Syntax\01-Greeting\02-Add-Two-Numbers\bin\Debug\02-Add-Two-Numbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Intro and Basic Syntax\01-Greeting\02-Add-Two-Numbers\obj\Debug\02-Add-Two-Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Intro and Basic Syntax\01-Greeting\02-Add-Two-Numbers\obj\Debug\02-Add-Two-Numbers.pdb

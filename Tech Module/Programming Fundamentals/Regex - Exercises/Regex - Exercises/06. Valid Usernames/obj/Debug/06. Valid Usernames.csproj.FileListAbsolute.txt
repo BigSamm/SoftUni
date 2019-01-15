@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\06. Valid Usernames\bin\Debug\_06.Valid_Usernames.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\06. Valid Usernames\bin\Debug\_06.Valid_Usernames.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\06. Valid Usernames\bin\Debug\_06.Valid_Usernames.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\06. Valid Usernames\obj\Debug\06. Valid Usernames.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\06. Valid Usernames\obj\Debug\_06.Valid_Usernames.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex - Exercises\Regex - Exercises\06. Valid Usernames\obj\Debug\_06.Valid_Usernames.pdb

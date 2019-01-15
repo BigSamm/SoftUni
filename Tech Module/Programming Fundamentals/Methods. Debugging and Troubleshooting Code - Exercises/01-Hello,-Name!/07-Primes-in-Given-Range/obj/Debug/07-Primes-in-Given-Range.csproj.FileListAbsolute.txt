@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\07-Primes-in-Given-Range\bin\Debug\07-Primes-in-Given-Range.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\07-Primes-in-Given-Range\bin\Debug\07-Primes-in-Given-Range.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\07-Primes-in-Given-Range\bin\Debug\07-Primes-in-Given-Range.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\07-Primes-in-Given-Range\obj\Debug\07-Primes-in-Given-Range.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\07-Primes-in-Given-Range\obj\Debug\07-Primes-in-Given-Range.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\07-Primes-in-Given-Range\obj\Debug\07-Primes-in-Given-Range.pdb

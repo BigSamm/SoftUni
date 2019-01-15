@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Crypto_Master\bin\Debug\netcoreapp2.0\P02_Crypto_Master.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Crypto_Master\bin\Debug\netcoreapp2.0\P02_Crypto_Master.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Crypto_Master\bin\Debug\netcoreapp2.0\P02_Crypto_Master.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Crypto_Master\bin\Debug\netcoreapp2.0\P02_Crypto_Master.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Crypto_Master\bin\Debug\netcoreapp2.0\P02_Crypto_Master.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Crypto_Master\obj\Debug\netcoreapp2.0\P02_Crypto_Master.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Crypto_Master\obj\Debug\netcoreapp2.0\P02_Crypto_Master.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Crypto_Master\obj\Debug\netcoreapp2.0\P02_Crypto_Master.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Crypto_Master\obj\Debug\netcoreapp2.0\P02_Crypto_Master.pdb

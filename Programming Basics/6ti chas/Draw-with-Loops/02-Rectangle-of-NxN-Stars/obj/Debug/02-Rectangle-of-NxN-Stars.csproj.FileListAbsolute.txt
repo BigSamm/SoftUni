@@ -1,0 +1,5 @@
+E:\SoftUni\6ti chas\Draw-with-Loops\02-Rectangle-of-NxN-Stars\bin\Debug\02-Rectangle-of-NxN-Stars.exe.config
+E:\SoftUni\6ti chas\Draw-with-Loops\02-Rectangle-of-NxN-Stars\bin\Debug\02-Rectangle-of-NxN-Stars.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\02-Rectangle-of-NxN-Stars\bin\Debug\02-Rectangle-of-NxN-Stars.pdb
+E:\SoftUni\6ti chas\Draw-with-Loops\02-Rectangle-of-NxN-Stars\obj\Debug\02-Rectangle-of-NxN-Stars.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\02-Rectangle-of-NxN-Stars\obj\Debug\02-Rectangle-of-NxN-Stars.pdb

@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\01. Sum Matrix Elements\bin\Debug\netcoreapp1.1\01. Sum Matrix Elements.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\01. Sum Matrix Elements\bin\Debug\netcoreapp1.1\01. Sum Matrix Elements.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\01. Sum Matrix Elements\bin\Debug\netcoreapp1.1\01. Sum Matrix Elements.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\01. Sum Matrix Elements\bin\Debug\netcoreapp1.1\01. Sum Matrix Elements.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\01. Sum Matrix Elements\bin\Debug\netcoreapp1.1\01. Sum Matrix Elements.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\netcoreapp1.1\01. Sum Matrix Elements.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\netcoreapp1.1\01. Sum Matrix Elements.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\netcoreapp1.1\01. Sum Matrix Elements.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\netcoreapp1.1\01. Sum Matrix Elements.pdb

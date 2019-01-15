@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\EXAM\EXAM\03. Regexmon\bin\Debug\_03.Regexmon.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\EXAM\EXAM\03. Regexmon\bin\Debug\_03.Regexmon.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\EXAM\EXAM\03. Regexmon\bin\Debug\_03.Regexmon.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\EXAM\EXAM\03. Regexmon\obj\Debug\03. Regexmon.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\EXAM\EXAM\03. Regexmon\obj\Debug\_03.Regexmon.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\EXAM\EXAM\03. Regexmon\obj\Debug\_03.Regexmon.pdb

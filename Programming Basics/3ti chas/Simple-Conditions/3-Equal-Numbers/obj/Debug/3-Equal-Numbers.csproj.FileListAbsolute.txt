@@ -1,0 +1,6 @@
+E:\SoftUni\3ti chas\Simple-Conditions\3-Equal-Numbers\bin\Debug\3-Equal-Numbers.exe.config
+E:\SoftUni\3ti chas\Simple-Conditions\3-Equal-Numbers\bin\Debug\3-Equal-Numbers.exe
+E:\SoftUni\3ti chas\Simple-Conditions\3-Equal-Numbers\bin\Debug\3-Equal-Numbers.pdb
+E:\SoftUni\3ti chas\Simple-Conditions\3-Equal-Numbers\obj\Debug\3-Equal-Numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\3ti chas\Simple-Conditions\3-Equal-Numbers\obj\Debug\3-Equal-Numbers.exe
+E:\SoftUni\3ti chas\Simple-Conditions\3-Equal-Numbers\obj\Debug\3-Equal-Numbers.pdb

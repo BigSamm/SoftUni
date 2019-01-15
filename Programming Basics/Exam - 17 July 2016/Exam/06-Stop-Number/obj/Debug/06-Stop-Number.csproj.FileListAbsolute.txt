@@ -1,0 +1,6 @@
+E:\SoftUni\Exam - 17 July 2016\Exam\06-Stop-Number\bin\Debug\06-Stop-Number.exe.config
+E:\SoftUni\Exam - 17 July 2016\Exam\06-Stop-Number\bin\Debug\06-Stop-Number.exe
+E:\SoftUni\Exam - 17 July 2016\Exam\06-Stop-Number\bin\Debug\06-Stop-Number.pdb
+E:\SoftUni\Exam - 17 July 2016\Exam\06-Stop-Number\obj\Debug\06-Stop-Number.csprojResolveAssemblyReference.cache
+E:\SoftUni\Exam - 17 July 2016\Exam\06-Stop-Number\obj\Debug\06-Stop-Number.exe
+E:\SoftUni\Exam - 17 July 2016\Exam\06-Stop-Number\obj\Debug\06-Stop-Number.pdb

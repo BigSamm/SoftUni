@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\02-Circle-Area-(Precision-12)\bin\Debug\02-Circle-Area-(Precision-12).exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\02-Circle-Area-(Precision-12)\bin\Debug\02-Circle-Area-(Precision-12).exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\02-Circle-Area-(Precision-12)\bin\Debug\02-Circle-Area-(Precision-12).pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\02-Circle-Area-(Precision-12)\obj\Debug\02-Circle-Area-(Precision-12).exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\02-Circle-Area-(Precision-12)\obj\Debug\02-Circle-Area-(Precision-12).pdb

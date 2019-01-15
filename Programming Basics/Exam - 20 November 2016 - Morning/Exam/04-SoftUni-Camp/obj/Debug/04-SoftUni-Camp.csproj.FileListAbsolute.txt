@@ -1,0 +1,5 @@
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\04-SoftUni-Camp\bin\Debug\04-SoftUni-Camp.exe.config
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\04-SoftUni-Camp\bin\Debug\04-SoftUni-Camp.exe
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\04-SoftUni-Camp\bin\Debug\04-SoftUni-Camp.pdb
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\04-SoftUni-Camp\obj\Debug\04-SoftUni-Camp.exe
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\04-SoftUni-Camp\obj\Debug\04-SoftUni-Camp.pdb

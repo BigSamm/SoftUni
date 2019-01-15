@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\08.Raw_Data\bin\Debug\netcoreapp2.0\08.Raw_Data.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\08.Raw_Data\bin\Debug\netcoreapp2.0\08.Raw_Data.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\08.Raw_Data\bin\Debug\netcoreapp2.0\08.Raw_Data.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\08.Raw_Data\bin\Debug\netcoreapp2.0\08.Raw_Data.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\08.Raw_Data\bin\Debug\netcoreapp2.0\08.Raw_Data.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\08.Raw_Data\obj\Debug\netcoreapp2.0\08.Raw_Data.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\08.Raw_Data\obj\Debug\netcoreapp2.0\08.Raw_Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\08.Raw_Data\obj\Debug\netcoreapp2.0\08.Raw_Data.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\08.Raw_Data\obj\Debug\netcoreapp2.0\08.Raw_Data.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\08.Raw_Data\obj\Debug\netcoreapp2.0\08.Raw_Data.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\08.Raw_Data\obj\Debug\netcoreapp2.0\08.Raw_Data.pdb

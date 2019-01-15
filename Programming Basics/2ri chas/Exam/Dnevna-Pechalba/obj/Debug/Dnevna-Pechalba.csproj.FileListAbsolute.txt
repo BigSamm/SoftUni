@@ -1,0 +1,5 @@
+E:\SoftUni\2ri chas\Exam\Dnevna-Pechalba\bin\Debug\Dnevna-Pechalba.exe.config
+E:\SoftUni\2ri chas\Exam\Dnevna-Pechalba\bin\Debug\Dnevna-Pechalba.exe
+E:\SoftUni\2ri chas\Exam\Dnevna-Pechalba\bin\Debug\Dnevna-Pechalba.pdb
+E:\SoftUni\2ri chas\Exam\Dnevna-Pechalba\obj\Debug\Dnevna-Pechalba.exe
+E:\SoftUni\2ri chas\Exam\Dnevna-Pechalba\obj\Debug\Dnevna-Pechalba.pdb

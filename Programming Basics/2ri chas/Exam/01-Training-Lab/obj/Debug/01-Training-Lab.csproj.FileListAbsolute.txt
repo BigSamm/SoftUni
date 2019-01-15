@@ -1,0 +1,6 @@
+E:\SoftUni\2ri chas\Exam\01-Training-Lab\bin\Debug\01-Training-Lab.exe.config
+E:\SoftUni\2ri chas\Exam\01-Training-Lab\obj\Debug\01-Training-Lab.csprojResolveAssemblyReference.cache
+E:\SoftUni\2ri chas\Exam\01-Training-Lab\bin\Debug\01-Training-Lab.exe
+E:\SoftUni\2ri chas\Exam\01-Training-Lab\bin\Debug\01-Training-Lab.pdb
+E:\SoftUni\2ri chas\Exam\01-Training-Lab\obj\Debug\01-Training-Lab.exe
+E:\SoftUni\2ri chas\Exam\01-Training-Lab\obj\Debug\01-Training-Lab.pdb

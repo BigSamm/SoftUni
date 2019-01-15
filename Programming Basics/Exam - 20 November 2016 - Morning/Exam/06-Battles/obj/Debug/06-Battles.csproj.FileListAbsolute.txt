@@ -1,0 +1,5 @@
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\06-Battles\bin\Debug\06-Battles.exe.config
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\06-Battles\bin\Debug\06-Battles.exe
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\06-Battles\bin\Debug\06-Battles.pdb
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\06-Battles\obj\Debug\06-Battles.exe
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\06-Battles\obj\Debug\06-Battles.pdb

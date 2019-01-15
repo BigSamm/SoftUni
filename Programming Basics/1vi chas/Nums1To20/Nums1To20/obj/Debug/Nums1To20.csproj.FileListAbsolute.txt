@@ -1,0 +1,5 @@
+E:\SoftUni\1vi chas\Nums1To20\Nums1To20\bin\Debug\Nums1To20.exe.config
+E:\SoftUni\1vi chas\Nums1To20\Nums1To20\bin\Debug\Nums1To20.exe
+E:\SoftUni\1vi chas\Nums1To20\Nums1To20\bin\Debug\Nums1To20.pdb
+E:\SoftUni\1vi chas\Nums1To20\Nums1To20\obj\Debug\Nums1To20.exe
+E:\SoftUni\1vi chas\Nums1To20\Nums1To20\obj\Debug\Nums1To20.pdb

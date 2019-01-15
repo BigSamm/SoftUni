@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\05-Calculate-Triangle-Area\bin\Debug\05-Calculate-Triangle-Area.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\05-Calculate-Triangle-Area\bin\Debug\05-Calculate-Triangle-Area.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\05-Calculate-Triangle-Area\bin\Debug\05-Calculate-Triangle-Area.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\05-Calculate-Triangle-Area\obj\Debug\05-Calculate-Triangle-Area.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\05-Calculate-Triangle-Area\obj\Debug\05-Calculate-Triangle-Area.pdb

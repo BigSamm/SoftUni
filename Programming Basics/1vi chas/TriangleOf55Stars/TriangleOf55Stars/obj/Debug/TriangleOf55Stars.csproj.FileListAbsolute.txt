@@ -1,0 +1,6 @@
+E:\SoftUni\1vi chas\TriangleOf55Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+E:\SoftUni\1vi chas\TriangleOf55Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+E:\SoftUni\1vi chas\TriangleOf55Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+E:\SoftUni\1vi chas\TriangleOf55Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.csprojResolveAssemblyReference.cache
+E:\SoftUni\1vi chas\TriangleOf55Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+E:\SoftUni\1vi chas\TriangleOf55Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

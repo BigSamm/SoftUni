@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\02. Odd Filter\bin\Debug\_02.Odd_Filter.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\02. Odd Filter\bin\Debug\_02.Odd_Filter.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\02. Odd Filter\bin\Debug\_02.Odd_Filter.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\02. Odd Filter\obj\Debug\_02.Odd_Filter.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\02. Odd Filter\obj\Debug\_02.Odd_Filter.pdb

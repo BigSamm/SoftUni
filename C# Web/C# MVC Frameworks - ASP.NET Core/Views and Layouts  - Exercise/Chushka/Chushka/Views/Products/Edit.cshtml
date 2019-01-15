@@ -1,0 +1,53 @@
+﻿@model Chushka.ViewModels.Products.ProductBaseViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1 class="text-center">Edit Product</h1>
+<hr class="hr-2 bg-dark" />
+<form class="mx-auto half-width" method="post">
+    <input asp-for="Id" type="hidden" />
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" type="number" step="0.01" min="0.01" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control" draggable="false" rows="5"></textarea>
+    </div>
+    <div class="form-group">
+        <h3 class="text-center">Product Type</h3>
+        <hr class="hr-2 bg-dark half-width" />
+        <div class="d-flex justify-content-around">
+            @{ var types = new[] { "Food", "Domestic", "Health", "Cosmetic", "Other" }; }
+            @foreach (var type in types)
+            {
+                <div class="col-md-2">
+                    @if (type == Model.Type)
+                    {
+                        <input asp-for="Type" type="radio" value="@type" checked>
+                    }
+                    else
+                    {
+                        <input asp-for="Type" type="radio" value="@type">
+                    }
+                    <label asp-for="Type">@type</label>
+                </div>
+            }
+        </div>
+        <hr class="hr-2 bg-dark half-width" />
+    </div>
+    <div class="button-holder d-flex justify-content-around w-50 mx-auto">
+        <button type="submit" class="btn chushka-bg-color">Edit</button>
+        <a onclick="window.history.back()" class="btn chushka-bg-color text-white">Cancel</a>
+    </div>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

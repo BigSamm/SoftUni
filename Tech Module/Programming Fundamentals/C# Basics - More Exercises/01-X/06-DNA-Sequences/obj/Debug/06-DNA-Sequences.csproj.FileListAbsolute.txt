@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\06-DNA-Sequences\bin\Debug\06-DNA-Sequences.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\06-DNA-Sequences\bin\Debug\06-DNA-Sequences.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\06-DNA-Sequences\bin\Debug\06-DNA-Sequences.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\06-DNA-Sequences\obj\Debug\06-DNA-Sequences.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\06-DNA-Sequences\obj\Debug\06-DNA-Sequences.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\06-DNA-Sequences\obj\Debug\06-DNA-Sequences.pdb

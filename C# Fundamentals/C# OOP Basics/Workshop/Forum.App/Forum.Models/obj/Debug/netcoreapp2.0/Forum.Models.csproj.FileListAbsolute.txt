@@ -1,0 +1,18 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Workshop\Forum.App\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Workshop\Forum.App\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Workshop\Forum.App\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Workshop\Forum.App\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Workshop\Forum.App\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Workshop\Forum.App\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Workshop\Forum.App\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Workshop\Forum.App\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Workshop\Forum.App\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.pdb
+D:\Workshop\Forum.App\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.deps.json
+D:\Workshop\Forum.App\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.dll
+D:\Workshop\Forum.App\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+D:\Workshop\Forum.App\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.csprojResolveAssemblyReference.cache
+D:\Workshop\Forum.App\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.csproj.CoreCompileInputs.cache
+D:\Workshop\Forum.App\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfoInputs.cache
+D:\Workshop\Forum.App\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfo.cs
+D:\Workshop\Forum.App\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.dll
+D:\Workshop\Forum.App\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.pdb

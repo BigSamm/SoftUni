@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\06-Prime-Checker\bin\Debug\06-Prime-Checker.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\06-Prime-Checker\bin\Debug\06-Prime-Checker.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\06-Prime-Checker\bin\Debug\06-Prime-Checker.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\06-Prime-Checker\obj\Debug\06-Prime-Checker.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\06-Prime-Checker\obj\Debug\06-Prime-Checker.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\06-Prime-Checker\obj\Debug\06-Prime-Checker.csprojResolveAssemblyReference.cache

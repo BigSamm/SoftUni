@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\01. Match Full Name\bin\Debug\_01.Match_Full_Name.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\01. Match Full Name\bin\Debug\_01.Match_Full_Name.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\01. Match Full Name\bin\Debug\_01.Match_Full_Name.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\01. Match Full Name\obj\Debug\01. Match Full Name.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\01. Match Full Name\obj\Debug\_01.Match_Full_Name.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\01. Match Full Name\obj\Debug\_01.Match_Full_Name.pdb

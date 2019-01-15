@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\04.Punctuation_Finder\bin\Debug\netcoreapp2.0\04.Punctuation_Finder.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\04.Punctuation_Finder\bin\Debug\netcoreapp2.0\04.Punctuation_Finder.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\04.Punctuation_Finder\bin\Debug\netcoreapp2.0\04.Punctuation_Finder.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\04.Punctuation_Finder\bin\Debug\netcoreapp2.0\04.Punctuation_Finder.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\04.Punctuation_Finder\bin\Debug\netcoreapp2.0\04.Punctuation_Finder.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\04.Punctuation_Finder\obj\Debug\netcoreapp2.0\04.Punctuation_Finder.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\04.Punctuation_Finder\obj\Debug\netcoreapp2.0\04.Punctuation_Finder.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\04.Punctuation_Finder\obj\Debug\netcoreapp2.0\04.Punctuation_Finder.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\04.Punctuation_Finder\obj\Debug\netcoreapp2.0\04.Punctuation_Finder.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\04.Punctuation_Finder\obj\Debug\netcoreapp2.0\04.Punctuation_Finder.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\04.Punctuation_Finder\obj\Debug\netcoreapp2.0\04.Punctuation_Finder.pdb

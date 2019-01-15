@@ -1,0 +1,47 @@
+﻿@if (User.IsInRole("Admin"))
+{
+    <h1 class="text-center panda-text">Hello, Administrator @User.Identity.Name!</h1>
+}
+else
+{
+    <h1 class="text-center panda-text">Hello, @User.Identity.Name!</h1>
+}
+<hr class="hr-2 bg-panda">
+<div class="d-flex justify-content-between">
+    <div class="w-25">
+        <h2 class="panda-text text-center">Pending</h2>
+        <ul class="border-panda">
+            @foreach(var pack in Model.Pending)
+            {
+            <div class="row d-flex justify-content-between w-75  mt-5 mb-5 mx-auto">
+                <li><strong>@pack.Name</strong></li>
+                <a href="/packages/details?id=@pack.Id" class="btn bg-panda text-white">Details</a>
+            </div>
+            }
+        </ul>
+    </div>
+    <div class="w-25">
+        <h2 class="panda-text text-center">Shipped</h2>
+        <ul class="border-panda">
+            @foreach(var pack in Model.Shipped)
+            {
+            <div class="row d-flex justify-content-between w-75  mt-5 mb-5 mx-auto">
+                <li><strong>@pack.Name</strong></li>
+                <a href="/packages/details?id=@pack.Id" class="btn bg-panda text-white">Details</a>
+            </div>
+            }
+        </ul>
+    </div>
+    <div class="w-25">
+        <h2 class="panda-text text-center">Delivered</h2>
+        <ul class="border-panda">
+            @foreach(var pack in Model.Delivered)
+            {
+            <div class="row d-flex justify-content-between w-75  mt-5 mb-5 mx-auto">
+                <li><strong>@pack.Name</strong></li>
+                <a href="/packages/acquire?id=@pack.Id" class="btn bg-panda text-white">Acquire</a>
+            </div>
+            }
+        </ul>
+    </div>
+</div>

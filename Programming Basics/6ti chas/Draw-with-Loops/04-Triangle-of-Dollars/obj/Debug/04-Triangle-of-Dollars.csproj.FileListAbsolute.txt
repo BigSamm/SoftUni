@@ -1,0 +1,6 @@
+E:\SoftUni\6ti chas\Draw-with-Loops\04-Triangle-of-Dollars\bin\Debug\04-Triangle-of-Dollars.exe.config
+E:\SoftUni\6ti chas\Draw-with-Loops\04-Triangle-of-Dollars\bin\Debug\04-Triangle-of-Dollars.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\04-Triangle-of-Dollars\bin\Debug\04-Triangle-of-Dollars.pdb
+E:\SoftUni\6ti chas\Draw-with-Loops\04-Triangle-of-Dollars\obj\Debug\04-Triangle-of-Dollars.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\04-Triangle-of-Dollars\obj\Debug\04-Triangle-of-Dollars.pdb
+E:\SoftUni\6ti chas\Draw-with-Loops\04-Triangle-of-Dollars\obj\Debug\04-Triangle-of-Dollars.csprojResolveAssemblyReference.cache

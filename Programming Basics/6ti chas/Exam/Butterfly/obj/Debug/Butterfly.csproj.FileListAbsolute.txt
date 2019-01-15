@@ -1,0 +1,6 @@
+E:\SoftUni\6ti chas\Exam\Butterfly\bin\Debug\Butterfly.exe.config
+E:\SoftUni\6ti chas\Exam\Butterfly\bin\Debug\Butterfly.exe
+E:\SoftUni\6ti chas\Exam\Butterfly\bin\Debug\Butterfly.pdb
+E:\SoftUni\6ti chas\Exam\Butterfly\obj\Debug\Butterfly.csprojResolveAssemblyReference.cache
+E:\SoftUni\6ti chas\Exam\Butterfly\obj\Debug\Butterfly.exe
+E:\SoftUni\6ti chas\Exam\Butterfly\obj\Debug\Butterfly.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Debit-Card-Number\05-Character-Stats\bin\Debug\05-Character-Stats.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Debit-Card-Number\05-Character-Stats\bin\Debug\05-Character-Stats.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Debit-Card-Number\05-Character-Stats\bin\Debug\05-Character-Stats.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Debit-Card-Number\05-Character-Stats\obj\Debug\05-Character-Stats.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Debit-Card-Number\05-Character-Stats\obj\Debug\05-Character-Stats.pdb

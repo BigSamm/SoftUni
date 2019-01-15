@@ -1,0 +1,5 @@
+E:\SoftUni\2ri chas\Simple-Calculations\Inches-To-Centimeters\bin\Debug\Inches-To-Centimeters.exe.config
+E:\SoftUni\2ri chas\Simple-Calculations\Inches-To-Centimeters\bin\Debug\Inches-To-Centimeters.exe
+E:\SoftUni\2ri chas\Simple-Calculations\Inches-To-Centimeters\bin\Debug\Inches-To-Centimeters.pdb
+E:\SoftUni\2ri chas\Simple-Calculations\Inches-To-Centimeters\obj\Debug\Inches-To-Centimeters.exe
+E:\SoftUni\2ri chas\Simple-Calculations\Inches-To-Centimeters\obj\Debug\Inches-To-Centimeters.pdb

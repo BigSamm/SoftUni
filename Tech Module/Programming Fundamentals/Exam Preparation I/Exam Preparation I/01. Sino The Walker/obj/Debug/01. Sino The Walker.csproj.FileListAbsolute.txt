@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation I\Exam Preparation I\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation I\Exam Preparation I\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation I\Exam Preparation I\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation I\Exam Preparation I\01. Sino The Walker\obj\Debug\01. Sino The Walker.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation I\Exam Preparation I\01. Sino The Walker\obj\Debug\_01.Sino_The_Walker.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation I\Exam Preparation I\01. Sino The Walker\obj\Debug\_01.Sino_The_Walker.pdb

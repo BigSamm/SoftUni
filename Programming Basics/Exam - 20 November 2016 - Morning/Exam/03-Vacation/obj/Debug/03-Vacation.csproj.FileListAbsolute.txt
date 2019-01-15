@@ -1,0 +1,5 @@
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\03-Vacation\bin\Debug\03-Vacation.exe.config
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\03-Vacation\bin\Debug\03-Vacation.exe
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\03-Vacation\bin\Debug\03-Vacation.pdb
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\03-Vacation\obj\Debug\03-Vacation.exe
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\03-Vacation\obj\Debug\03-Vacation.pdb

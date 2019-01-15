@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\09-Holidays-Between-Two-Dates\bin\Debug\09-Holidays-Between-Two-Dates.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\09-Holidays-Between-Two-Dates\bin\Debug\09-Holidays-Between-Two-Dates.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\09-Holidays-Between-Two-Dates\bin\Debug\09-Holidays-Between-Two-Dates.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\09-Holidays-Between-Two-Dates\obj\Debug\09-Holidays-Between-Two-Dates.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\09-Holidays-Between-Two-Dates\obj\Debug\09-Holidays-Between-Two-Dates.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\09-Holidays-Between-Two-Dates\obj\Debug\09-Holidays-Between-Two-Dates.csprojResolveAssemblyReference.cache

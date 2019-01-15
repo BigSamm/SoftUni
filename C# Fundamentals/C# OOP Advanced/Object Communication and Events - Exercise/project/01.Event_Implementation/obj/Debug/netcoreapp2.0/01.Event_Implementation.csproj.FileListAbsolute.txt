@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\01.Event_Implementation\bin\Debug\netcoreapp2.0\01.Event_Implementation.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\01.Event_Implementation\bin\Debug\netcoreapp2.0\01.Event_Implementation.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\01.Event_Implementation\bin\Debug\netcoreapp2.0\01.Event_Implementation.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\01.Event_Implementation\bin\Debug\netcoreapp2.0\01.Event_Implementation.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\01.Event_Implementation\bin\Debug\netcoreapp2.0\01.Event_Implementation.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\01.Event_Implementation\obj\Debug\netcoreapp2.0\01.Event_Implementation.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\01.Event_Implementation\obj\Debug\netcoreapp2.0\01.Event_Implementation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\01.Event_Implementation\obj\Debug\netcoreapp2.0\01.Event_Implementation.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\01.Event_Implementation\obj\Debug\netcoreapp2.0\01.Event_Implementation.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\01.Event_Implementation\obj\Debug\netcoreapp2.0\01.Event_Implementation.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\01.Event_Implementation\obj\Debug\netcoreapp2.0\01.Event_Implementation.pdb

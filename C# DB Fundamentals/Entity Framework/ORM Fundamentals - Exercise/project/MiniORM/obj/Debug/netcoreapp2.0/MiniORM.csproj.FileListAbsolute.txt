@@ -1,0 +1,9 @@
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\ORM Fundamentals - Exercise\project\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb

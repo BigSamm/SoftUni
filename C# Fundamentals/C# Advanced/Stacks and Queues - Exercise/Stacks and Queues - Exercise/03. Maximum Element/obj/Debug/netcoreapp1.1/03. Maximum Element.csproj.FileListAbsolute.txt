@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\03. Maximum Element\bin\Debug\netcoreapp1.1\03. Maximum Element.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\03. Maximum Element\bin\Debug\netcoreapp1.1\03. Maximum Element.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\03. Maximum Element\bin\Debug\netcoreapp1.1\03. Maximum Element.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\03. Maximum Element\bin\Debug\netcoreapp1.1\03. Maximum Element.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\03. Maximum Element\bin\Debug\netcoreapp1.1\03. Maximum Element.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\03. Maximum Element\obj\Debug\netcoreapp1.1\03. Maximum Element.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\03. Maximum Element\obj\Debug\netcoreapp1.1\03. Maximum Element.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\03. Maximum Element\obj\Debug\netcoreapp1.1\03. Maximum Element.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\03. Maximum Element\obj\Debug\netcoreapp1.1\03. Maximum Element.pdb

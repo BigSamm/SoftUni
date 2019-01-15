@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\01-Blank-Receipt\bin\Debug\01-Blank-Receipt.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\01-Blank-Receipt\bin\Debug\01-Blank-Receipt.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\01-Blank-Receipt\bin\Debug\01-Blank-Receipt.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\01-Blank-Receipt\obj\Debug\01-Blank-Receipt.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\01-Blank-Receipt\obj\Debug\01-Blank-Receipt.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\01-Blank-Receipt\obj\Debug\01-Blank-Receipt.pdb

@@ -1,0 +1,14 @@
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P13_First_Name_Starting_With_Sa\bin\Debug\netcoreapp2.0\P13_First_Name_Starting_With_Sa.deps.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P13_First_Name_Starting_With_Sa\bin\Debug\netcoreapp2.0\P13_First_Name_Starting_With_Sa.runtimeconfig.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P13_First_Name_Starting_With_Sa\bin\Debug\netcoreapp2.0\P13_First_Name_Starting_With_Sa.runtimeconfig.dev.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P13_First_Name_Starting_With_Sa\bin\Debug\netcoreapp2.0\P13_First_Name_Starting_With_Sa.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P13_First_Name_Starting_With_Sa\bin\Debug\netcoreapp2.0\P13_First_Name_Starting_With_Sa.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P13_First_Name_Starting_With_Sa\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P13_First_Name_Starting_With_Sa\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P13_First_Name_Starting_With_Sa\obj\Debug\netcoreapp2.0\P13_First_Name_Starting_With_Sa.csprojAssemblyReference.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P13_First_Name_Starting_With_Sa\obj\Debug\netcoreapp2.0\P13_First_Name_Starting_With_Sa.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P13_First_Name_Starting_With_Sa\obj\Debug\netcoreapp2.0\P13_First_Name_Starting_With_Sa.AssemblyInfoInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P13_First_Name_Starting_With_Sa\obj\Debug\netcoreapp2.0\P13_First_Name_Starting_With_Sa.AssemblyInfo.cs
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P13_First_Name_Starting_With_Sa\obj\Debug\netcoreapp2.0\P13_First_Name_Starting_With_Sa.csproj.CopyComplete
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P13_First_Name_Starting_With_Sa\obj\Debug\netcoreapp2.0\P13_First_Name_Starting_With_Sa.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P13_First_Name_Starting_With_Sa\obj\Debug\netcoreapp2.0\P13_First_Name_Starting_With_Sa.pdb

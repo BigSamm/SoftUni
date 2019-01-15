@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\16-Comparing-Floats\bin\Debug\16-Comparing-Floats.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\16-Comparing-Floats\bin\Debug\16-Comparing-Floats.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\16-Comparing-Floats\bin\Debug\16-Comparing-Floats.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\16-Comparing-Floats\obj\Debug\16-Comparing-Floats.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\16-Comparing-Floats\obj\Debug\16-Comparing-Floats.pdb

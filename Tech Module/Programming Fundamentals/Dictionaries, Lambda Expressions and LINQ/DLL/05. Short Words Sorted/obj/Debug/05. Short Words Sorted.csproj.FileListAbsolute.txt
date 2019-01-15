@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\05. Short Words Sorted\bin\Debug\_05.Short_Words_Sorted.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\05. Short Words Sorted\bin\Debug\_05.Short_Words_Sorted.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\05. Short Words Sorted\bin\Debug\_05.Short_Words_Sorted.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\05. Short Words Sorted\obj\Debug\_05.Short_Words_Sorted.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\05. Short Words Sorted\obj\Debug\_05.Short_Words_Sorted.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\05. Short Words Sorted\obj\Debug\05. Short Words Sorted.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\13-Game-of-Numbers\bin\Debug\13-Game-of-Numbers.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\13-Game-of-Numbers\bin\Debug\13-Game-of-Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\13-Game-of-Numbers\bin\Debug\13-Game-of-Numbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\13-Game-of-Numbers\obj\Debug\13-Game-of-Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\13-Game-of-Numbers\obj\Debug\13-Game-of-Numbers.pdb

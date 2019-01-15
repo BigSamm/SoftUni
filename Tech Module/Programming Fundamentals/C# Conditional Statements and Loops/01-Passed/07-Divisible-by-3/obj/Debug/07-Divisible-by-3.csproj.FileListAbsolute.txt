@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\07-Divisible-by-3\bin\Debug\07-Divisible-by-3.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\07-Divisible-by-3\bin\Debug\07-Divisible-by-3.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\07-Divisible-by-3\bin\Debug\07-Divisible-by-3.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\07-Divisible-by-3\obj\Debug\07-Divisible-by-3.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\07-Divisible-by-3\obj\Debug\07-Divisible-by-3.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\07-Divisible-by-3\obj\Debug\07-Divisible-by-3.pdb

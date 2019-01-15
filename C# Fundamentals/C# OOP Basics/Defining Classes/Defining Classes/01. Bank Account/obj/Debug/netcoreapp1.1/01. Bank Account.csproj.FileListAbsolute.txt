@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\01. Bank Account\bin\Debug\netcoreapp1.1\01. Bank Account.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\01. Bank Account\bin\Debug\netcoreapp1.1\01. Bank Account.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\01. Bank Account\bin\Debug\netcoreapp1.1\01. Bank Account.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\01. Bank Account\bin\Debug\netcoreapp1.1\01. Bank Account.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\01. Bank Account\bin\Debug\netcoreapp1.1\01. Bank Account.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\01. Bank Account\obj\Debug\netcoreapp1.1\01. Bank Account.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\01. Bank Account\obj\Debug\netcoreapp1.1\01. Bank Account.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\01. Bank Account\obj\Debug\netcoreapp1.1\01. Bank Account.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes\Defining Classes\01. Bank Account\obj\Debug\netcoreapp1.1\01. Bank Account.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\11-Convert-Speed-Units\bin\Debug\11-Convert-Speed-Units.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\11-Convert-Speed-Units\bin\Debug\11-Convert-Speed-Units.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\11-Convert-Speed-Units\bin\Debug\11-Convert-Speed-Units.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\11-Convert-Speed-Units\obj\Debug\11-Convert-Speed-Units.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\11-Convert-Speed-Units\obj\Debug\11-Convert-Speed-Units.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\11-Convert-Speed-Units\obj\Debug\11-Convert-Speed-Units.csprojResolveAssemblyReference.cache

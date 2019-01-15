@@ -1,0 +1,5 @@
+E:\SoftUni\5ti chas\Exam\Division-without-Residue\bin\Debug\Division-without-Residue.exe.config
+E:\SoftUni\5ti chas\Exam\Division-without-Residue\bin\Debug\Division-without-Residue.exe
+E:\SoftUni\5ti chas\Exam\Division-without-Residue\bin\Debug\Division-without-Residue.pdb
+E:\SoftUni\5ti chas\Exam\Division-without-Residue\obj\Debug\Division-without-Residue.exe
+E:\SoftUni\5ti chas\Exam\Division-without-Residue\obj\Debug\Division-without-Residue.pdb

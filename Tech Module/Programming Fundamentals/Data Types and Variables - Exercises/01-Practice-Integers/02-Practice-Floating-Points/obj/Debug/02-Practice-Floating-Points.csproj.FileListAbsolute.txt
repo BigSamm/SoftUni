@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\02-Practice-Floating-Points\bin\Debug\02-Practice-Floating-Points.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\02-Practice-Floating-Points\bin\Debug\02-Practice-Floating-Points.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\02-Practice-Floating-Points\bin\Debug\02-Practice-Floating-Points.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\02-Practice-Floating-Points\obj\Debug\02-Practice-Floating-Points.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\02-Practice-Floating-Points\obj\Debug\02-Practice-Floating-Points.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\02-Practice-Floating-Points\obj\Debug\02-Practice-Floating-Points.pdb

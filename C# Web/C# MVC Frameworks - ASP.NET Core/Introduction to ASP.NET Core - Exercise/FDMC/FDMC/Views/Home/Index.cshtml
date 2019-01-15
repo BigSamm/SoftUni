@@ -1,0 +1,10 @@
+﻿<h1>Fluffy Duffy Munchkin Cats</h1>
+<ul>
+    @foreach(var cat in Model.Cats)
+    {
+        <li><a href="cats/info?id=@cat.Id">@cat.Name</a></li>
+    }
+</ul>
+<form action="/cats/create" method="get">
+    <input type="submit" value="Add Cat" />
+</form>

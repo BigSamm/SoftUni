@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays - Lab\01. Day of Week\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays - Lab\01. Day of Week\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays - Lab\01. Day of Week\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays - Lab\01. Day of Week\03. Last K Numbers Sums\obj\Debug\03. Last K Numbers Sums.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays - Lab\01. Day of Week\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Arrays - Lab\01. Day of Week\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.pdb

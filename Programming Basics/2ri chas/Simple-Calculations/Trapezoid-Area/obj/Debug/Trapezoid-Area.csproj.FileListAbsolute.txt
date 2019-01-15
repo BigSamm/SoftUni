@@ -1,0 +1,5 @@
+E:\SoftUni\2ri chas\Simple-Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
+E:\SoftUni\2ri chas\Simple-Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
+E:\SoftUni\2ri chas\Simple-Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
+E:\SoftUni\2ri chas\Simple-Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
+E:\SoftUni\2ri chas\Simple-Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\EXAM\EXAM\02. Pokemon Don't Go\bin\Debug\_02.Pokemon_Don_t_Go.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\EXAM\EXAM\02. Pokemon Don't Go\bin\Debug\_02.Pokemon_Don_t_Go.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\EXAM\EXAM\02. Pokemon Don't Go\bin\Debug\_02.Pokemon_Don_t_Go.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\EXAM\EXAM\02. Pokemon Don't Go\obj\Debug\02. Pokemon Don't Go.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\EXAM\EXAM\02. Pokemon Don't Go\obj\Debug\_02.Pokemon_Don_t_Go.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\EXAM\EXAM\02. Pokemon Don't Go\obj\Debug\_02.Pokemon_Don_t_Go.pdb

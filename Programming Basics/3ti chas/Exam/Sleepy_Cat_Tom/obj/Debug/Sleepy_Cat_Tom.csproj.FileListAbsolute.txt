@@ -1,0 +1,6 @@
+E:\SoftUni\3ti chas\Exam\Sleepy_Cat_Tom\bin\Debug\Sleepy_Cat_Tom.exe.config
+E:\SoftUni\3ti chas\Exam\Sleepy_Cat_Tom\bin\Debug\Sleepy_Cat_Tom.exe
+E:\SoftUni\3ti chas\Exam\Sleepy_Cat_Tom\bin\Debug\Sleepy_Cat_Tom.pdb
+E:\SoftUni\3ti chas\Exam\Sleepy_Cat_Tom\obj\Debug\Sleepy_Cat_Tom.csprojResolveAssemblyReference.cache
+E:\SoftUni\3ti chas\Exam\Sleepy_Cat_Tom\obj\Debug\Sleepy_Cat_Tom.exe
+E:\SoftUni\3ti chas\Exam\Sleepy_Cat_Tom\obj\Debug\Sleepy_Cat_Tom.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\3ti chas\Simple-Conditions\Area-of-Figures\bin\Debug\Area-of-Figures.exe.config
+E:\SoftUni\3ti chas\Simple-Conditions\Area-of-Figures\obj\Debug\Area-of-Figures.csprojResolveAssemblyReference.cache
+E:\SoftUni\3ti chas\Simple-Conditions\Area-of-Figures\bin\Debug\Area-of-Figures.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Area-of-Figures\bin\Debug\Area-of-Figures.pdb
+E:\SoftUni\3ti chas\Simple-Conditions\Area-of-Figures\obj\Debug\Area-of-Figures.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Area-of-Figures\obj\Debug\Area-of-Figures.pdb

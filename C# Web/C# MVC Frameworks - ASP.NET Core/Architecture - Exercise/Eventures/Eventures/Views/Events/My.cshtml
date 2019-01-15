@@ -1,0 +1,40 @@
+﻿@model ReflectionIT.Mvc.Paging.PagingList<Eventures.ViewModels.Events.EventMyViewModel>
+@using ReflectionIT.Mvc.Paging
+@addTagHelper *, ReflectionIT.Mvc.Paging
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    this.Model.Action = "My";
+}
+
+<h1 class="text-center">My Events</h1>
+<hr class="hr-2" />
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Start</th>
+            <th scope="col">End</th>
+            <th scope="col">Tickets</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{ int index = 1; }
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@index</th>
+                <td>@item.Name</td>
+                <td>@item.StartStr</td>
+                <td>@item.EndStr</td>
+                <td>@item.Tickets</td>
+            </tr>
+
+            index++;
+        }
+    </tbody>
+</table>
+
+<nav>
+    <vc:pager paging-list="@Model" />
+</nav>

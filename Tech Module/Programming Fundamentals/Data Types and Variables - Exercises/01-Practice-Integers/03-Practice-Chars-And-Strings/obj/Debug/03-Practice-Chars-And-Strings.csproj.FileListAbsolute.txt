@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\03-Practice-Chars-And-Strings\bin\Debug\03-Practice-Chars-And-Strings.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\03-Practice-Chars-And-Strings\bin\Debug\03-Practice-Chars-And-Strings.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\03-Practice-Chars-And-Strings\bin\Debug\03-Practice-Chars-And-Strings.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\03-Practice-Chars-And-Strings\obj\Debug\03-Practice-Chars-And-Strings.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\03-Practice-Chars-And-Strings\obj\Debug\03-Practice-Chars-And-Strings.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing - Exercise\project\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing - Exercise\project\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing - Exercise\project\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing - Exercise\project\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing - Exercise\project\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing - Exercise\project\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojAssemblyReference.cache
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing - Exercise\project\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing - Exercise\project\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing - Exercise\project\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing - Exercise\project\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+D:\SoftUni\C# Web Old Instance\C# Web Development Basics\Web Server - Asynchronous Processing - Exercise\project\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb

@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Calibri Light, Verdana, sans-serif;
+}
+
+div {
+    width: 80%;
+    border: 1px solid #a5b2b3;
+    margin: 100px auto;
+}
+div article {
+    width: 23%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 17px;
+}
+div article h1 {
+    text-align: center;
+    padding: 20px 0;
+}
+div article img {
+    width: 100%;
+    padding-bottom: 10px;
+}
+div article img:hover {
+    opacity: 0.4;
+    cursor: pointer;
+}

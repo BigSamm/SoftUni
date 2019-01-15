@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 7 September 2017\Structure_Skeleton\MinedraftTestsJudge\bin\Debug\netcoreapp2.0\MinedraftTestsJudge.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 7 September 2017\Structure_Skeleton\MinedraftTestsJudge\bin\Debug\netcoreapp2.0\MinedraftTestsJudge.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 7 September 2017\Structure_Skeleton\MinedraftTestsJudge\obj\Debug\netcoreapp2.0\MinedraftTestsJudge.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 7 September 2017\Structure_Skeleton\MinedraftTestsJudge\obj\Debug\netcoreapp2.0\MinedraftTestsJudge.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 7 September 2017\Structure_Skeleton\MinedraftTestsJudge\obj\Debug\netcoreapp2.0\MinedraftTestsJudge.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 7 September 2017\Structure_Skeleton\MinedraftTestsJudge\bin\Debug\netcoreapp2.0\MinedraftTestsJudge.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 7 September 2017\Structure_Skeleton\MinedraftTestsJudge\obj\Debug\netcoreapp2.0\MinedraftTestsJudge.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 7 September 2017\Structure_Skeleton\MinedraftTestsJudge\obj\Debug\netcoreapp2.0\MinedraftTestsJudge.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 7 September 2017\Structure_Skeleton\MinedraftTestsJudge\obj\Debug\netcoreapp2.0\MinedraftTestsJudge.pdb

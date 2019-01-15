@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\06. Traffic Jam\bin\Debug\netcoreapp1.1\06. Traffic Jam.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\06. Traffic Jam\bin\Debug\netcoreapp1.1\06. Traffic Jam.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\06. Traffic Jam\bin\Debug\netcoreapp1.1\06. Traffic Jam.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\06. Traffic Jam\bin\Debug\netcoreapp1.1\06. Traffic Jam.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\06. Traffic Jam\bin\Debug\netcoreapp1.1\06. Traffic Jam.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\06. Traffic Jam\obj\Debug\netcoreapp1.1\06. Traffic Jam.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\06. Traffic Jam\obj\Debug\netcoreapp1.1\06. Traffic Jam.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\06. Traffic Jam\obj\Debug\netcoreapp1.1\06. Traffic Jam.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\06. Traffic Jam\obj\Debug\netcoreapp1.1\06. Traffic Jam.pdb

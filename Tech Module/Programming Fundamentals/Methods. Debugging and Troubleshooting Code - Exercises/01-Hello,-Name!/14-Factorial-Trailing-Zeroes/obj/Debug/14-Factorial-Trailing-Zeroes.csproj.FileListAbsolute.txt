@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\14-Factorial-Trailing-Zeroes\bin\Debug\14-Factorial-Trailing-Zeroes.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\14-Factorial-Trailing-Zeroes\bin\Debug\14-Factorial-Trailing-Zeroes.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\14-Factorial-Trailing-Zeroes\bin\Debug\14-Factorial-Trailing-Zeroes.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\14-Factorial-Trailing-Zeroes\obj\Debug\14-Factorial-Trailing-Zeroes.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\14-Factorial-Trailing-Zeroes\obj\Debug\14-Factorial-Trailing-Zeroes.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\14-Factorial-Trailing-Zeroes\obj\Debug\14-Factorial-Trailing-Zeroes.pdb

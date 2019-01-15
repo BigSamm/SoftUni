@@ -1,0 +1,6 @@
+E:\SoftUni\3ti chas\Exam\Training-Lab\bin\Debug\Training-Lab.exe.config
+E:\SoftUni\3ti chas\Exam\Training-Lab\obj\Debug\Training-Lab.csprojResolveAssemblyReference.cache
+E:\SoftUni\3ti chas\Exam\Training-Lab\bin\Debug\Training-Lab.exe
+E:\SoftUni\3ti chas\Exam\Training-Lab\bin\Debug\Training-Lab.pdb
+E:\SoftUni\3ti chas\Exam\Training-Lab\obj\Debug\Training-Lab.exe
+E:\SoftUni\3ti chas\Exam\Training-Lab\obj\Debug\Training-Lab.pdb

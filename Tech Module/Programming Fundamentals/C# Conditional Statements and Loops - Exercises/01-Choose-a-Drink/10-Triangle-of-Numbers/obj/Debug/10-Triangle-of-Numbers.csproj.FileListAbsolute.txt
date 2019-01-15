@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\10-Triangle-of-Numbers\bin\Debug\10-Triangle-of-Numbers.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\10-Triangle-of-Numbers\bin\Debug\10-Triangle-of-Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\10-Triangle-of-Numbers\bin\Debug\10-Triangle-of-Numbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\10-Triangle-of-Numbers\obj\Debug\10-Triangle-of-Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\10-Triangle-of-Numbers\obj\Debug\10-Triangle-of-Numbers.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\04-Month-Printer\bin\Debug\04-Month-Printer.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\04-Month-Printer\bin\Debug\04-Month-Printer.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\04-Month-Printer\bin\Debug\04-Month-Printer.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\04-Month-Printer\obj\Debug\04-Month-Printer.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\04-Month-Printer\obj\Debug\04-Month-Printer.pdb

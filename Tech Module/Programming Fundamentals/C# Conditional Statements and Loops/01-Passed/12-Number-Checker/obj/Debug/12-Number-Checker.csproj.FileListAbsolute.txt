@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops\01-Passed\12-Number-Checker\bin\Debug\12-Number-Checker.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops\01-Passed\12-Number-Checker\bin\Debug\12-Number-Checker.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops\01-Passed\12-Number-Checker\bin\Debug\12-Number-Checker.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops\01-Passed\12-Number-Checker\obj\Debug\12-Number-Checker.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops\01-Passed\12-Number-Checker\obj\Debug\12-Number-Checker.pdb

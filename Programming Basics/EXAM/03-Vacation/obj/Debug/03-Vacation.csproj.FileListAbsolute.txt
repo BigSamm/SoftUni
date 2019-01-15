@@ -1,0 +1,5 @@
+E:\SoftUni\EXAM\03-Vacation\bin\Debug\03-Vacation.exe.config
+E:\SoftUni\EXAM\03-Vacation\bin\Debug\03-Vacation.exe
+E:\SoftUni\EXAM\03-Vacation\bin\Debug\03-Vacation.pdb
+E:\SoftUni\EXAM\03-Vacation\obj\Debug\03-Vacation.exe
+E:\SoftUni\EXAM\03-Vacation\obj\Debug\03-Vacation.pdb

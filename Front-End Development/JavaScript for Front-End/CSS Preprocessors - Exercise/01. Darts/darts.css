@@ -1,0 +1,29 @@
+main div {
+  background: #A52A2A;
+  width: 550px;
+  height: 550px;
+  border-radius: 50%;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  line-height: 50px; }
+  main div div {
+    background: #0000FF;
+    width: calc(100% - 100px);
+    height: calc(100% - 100px); }
+    main div div div {
+      background: #ADFF2F;
+      width: calc(100% - 100px);
+      height: calc(100% - 100px); }
+      main div div div div {
+        background: #FFFF00;
+        width: calc(100% - 100px);
+        height: calc(100% - 100px); }
+        main div div div div div {
+          background: #FF0000;
+          width: calc(100% - 100px);
+          height: calc(100% - 100px);
+          line-height: 150px; }
+
+/*# sourceMappingURL=darts.css.map */

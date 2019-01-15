@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.pdb

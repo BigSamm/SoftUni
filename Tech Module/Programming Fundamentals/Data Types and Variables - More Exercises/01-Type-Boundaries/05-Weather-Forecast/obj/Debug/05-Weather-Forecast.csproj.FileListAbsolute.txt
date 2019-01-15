@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\05-Weather-Forecast\bin\Debug\05-Weather-Forecast.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\05-Weather-Forecast\bin\Debug\05-Weather-Forecast.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\05-Weather-Forecast\bin\Debug\05-Weather-Forecast.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\05-Weather-Forecast\obj\Debug\05-Weather-Forecast.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\05-Weather-Forecast\obj\Debug\05-Weather-Forecast.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\05-Weather-Forecast\obj\Debug\05-Weather-Forecast.pdb

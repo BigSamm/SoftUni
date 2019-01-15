@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\12-Rectangle-Properties\bin\Debug\12-Rectangle-Properties.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\12-Rectangle-Properties\bin\Debug\12-Rectangle-Properties.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\12-Rectangle-Properties\bin\Debug\12-Rectangle-Properties.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\12-Rectangle-Properties\obj\Debug\12-Rectangle-Properties.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\12-Rectangle-Properties\obj\Debug\12-Rectangle-Properties.pdb

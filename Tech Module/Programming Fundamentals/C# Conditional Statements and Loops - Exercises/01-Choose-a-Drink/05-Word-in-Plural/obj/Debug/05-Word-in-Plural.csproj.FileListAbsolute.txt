@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\05-Word-in-Plural\bin\Debug\05-Word-in-Plural.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\05-Word-in-Plural\bin\Debug\05-Word-in-Plural.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\05-Word-in-Plural\bin\Debug\05-Word-in-Plural.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\05-Word-in-Plural\obj\Debug\05-Word-in-Plural.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\05-Word-in-Plural\obj\Debug\05-Word-in-Plural.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\05-Word-in-Plural\obj\Debug\05-Word-in-Plural.pdb

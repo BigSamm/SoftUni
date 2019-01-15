@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\03. Nether Realms\obj\Debug\03. Nether Realms.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\03. Nether Realms\bin\Debug\_03.Nether_Realms.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\03. Nether Realms\bin\Debug\_03.Nether_Realms.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\03. Nether Realms\bin\Debug\_03.Nether_Realms.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\03. Nether Realms\obj\Debug\_03.Nether_Realms.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation II\Exam Preparation II\03. Nether Realms\obj\Debug\_03.Nether_Realms.pdb

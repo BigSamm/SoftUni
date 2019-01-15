@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\06. Target Practice\bin\Debug\netcoreapp1.1\06. Target Practice.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\06. Target Practice\bin\Debug\netcoreapp1.1\06. Target Practice.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\06. Target Practice\bin\Debug\netcoreapp1.1\06. Target Practice.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\06. Target Practice\bin\Debug\netcoreapp1.1\06. Target Practice.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\06. Target Practice\bin\Debug\netcoreapp1.1\06. Target Practice.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\06. Target Practice\obj\Debug\netcoreapp1.1\06. Target Practice.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\06. Target Practice\obj\Debug\netcoreapp1.1\06. Target Practice.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\06. Target Practice\obj\Debug\netcoreapp1.1\06. Target Practice.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\06. Target Practice\obj\Debug\netcoreapp1.1\06. Target Practice.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\06. Target Practice\obj\Debug\netcoreapp1.1\06. Target Practice.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\06. Target Practice\obj\Debug\netcoreapp1.1\06. Target Practice.AssemblyInfoInputs.cache

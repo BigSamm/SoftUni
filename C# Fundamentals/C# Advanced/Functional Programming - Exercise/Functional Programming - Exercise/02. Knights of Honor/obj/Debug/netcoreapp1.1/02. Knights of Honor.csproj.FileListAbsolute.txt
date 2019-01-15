@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp1.1\02. Knights of Honor.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp1.1\02. Knights of Honor.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp1.1\02. Knights of Honor.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp1.1\02. Knights of Honor.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp1.1\02. Knights of Honor.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp1.1\02. Knights of Honor.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp1.1\02. Knights of Honor.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp1.1\02. Knights of Honor.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Functional Programming - Exercise\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp1.1\02. Knights of Honor.csprojResolveAssemblyReference.cache

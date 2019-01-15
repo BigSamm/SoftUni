@@ -1,0 +1,40 @@
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.deps.json
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.runtimeconfig.json
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.runtimeconfig.dev.json
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.csprojAssemblyReference.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.AssemblyInfo.cs
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.csproj.CopyComplete
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\register.html
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Index.html
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Login.html
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.csprojAssemblyReference.cache
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.AssemblyInfo.cs
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.dll
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Index.html
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Login.html
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Register.html
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.deps.json
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.runtimeconfig.json
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.runtimeconfig.dev.json
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.dll
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.csproj.CopyComplete
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Services.dll
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Services.pdb

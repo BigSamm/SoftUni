@@ -1,0 +1,6 @@
+E:\SoftUni\5ti chas\Loops\01-Numbers-from-1-to-100\bin\Debug\01-Numbers-from-1-to-100.exe.config
+E:\SoftUni\5ti chas\Loops\01-Numbers-from-1-to-100\bin\Debug\01-Numbers-from-1-to-100.exe
+E:\SoftUni\5ti chas\Loops\01-Numbers-from-1-to-100\bin\Debug\01-Numbers-from-1-to-100.pdb
+E:\SoftUni\5ti chas\Loops\01-Numbers-from-1-to-100\obj\Debug\01-Numbers-from-1-to-100.csprojResolveAssemblyReference.cache
+E:\SoftUni\5ti chas\Loops\01-Numbers-from-1-to-100\obj\Debug\01-Numbers-from-1-to-100.exe
+E:\SoftUni\5ti chas\Loops\01-Numbers-from-1-to-100\obj\Debug\01-Numbers-from-1-to-100.pdb

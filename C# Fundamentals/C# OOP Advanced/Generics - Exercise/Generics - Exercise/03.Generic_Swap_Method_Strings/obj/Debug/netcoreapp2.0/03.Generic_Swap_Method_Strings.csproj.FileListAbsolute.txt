@@ -1,0 +1,14 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\03.Generic_Swap_Method_Strings\bin\Debug\netcoreapp2.0\03.Generic_Swap_Method_Strings.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\03.Generic_Swap_Method_Strings\bin\Debug\netcoreapp2.0\03.Generic_Swap_Method_Strings.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\03.Generic_Swap_Method_Strings\bin\Debug\netcoreapp2.0\03.Generic_Swap_Method_Strings.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\03.Generic_Swap_Method_Strings\bin\Debug\netcoreapp2.0\03.Generic_Swap_Method_Strings.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\03.Generic_Swap_Method_Strings\bin\Debug\netcoreapp2.0\03.Generic_Swap_Method_Strings.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\03.Generic_Swap_Method_Strings\bin\Debug\netcoreapp2.0\00.Generic_Box.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\03.Generic_Swap_Method_Strings\bin\Debug\netcoreapp2.0\00.Generic_Box.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\03.Generic_Swap_Method_Strings\obj\Debug\netcoreapp2.0\03.Generic_Swap_Method_Strings.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\03.Generic_Swap_Method_Strings\obj\Debug\netcoreapp2.0\03.Generic_Swap_Method_Strings.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\03.Generic_Swap_Method_Strings\obj\Debug\netcoreapp2.0\03.Generic_Swap_Method_Strings.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\03.Generic_Swap_Method_Strings\obj\Debug\netcoreapp2.0\03.Generic_Swap_Method_Strings.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\03.Generic_Swap_Method_Strings\obj\Debug\netcoreapp2.0\03.Generic_Swap_Method_Strings.csproj.CopyComplete
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\03.Generic_Swap_Method_Strings\obj\Debug\netcoreapp2.0\03.Generic_Swap_Method_Strings.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\03.Generic_Swap_Method_Strings\obj\Debug\netcoreapp2.0\03.Generic_Swap_Method_Strings.pdb

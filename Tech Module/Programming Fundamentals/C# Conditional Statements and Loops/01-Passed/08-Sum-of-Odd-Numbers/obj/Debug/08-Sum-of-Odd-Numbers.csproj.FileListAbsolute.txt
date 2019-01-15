@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\08-Sum-of-Odd-Numbers\bin\Debug\08-Sum-of-Odd-Numbers.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\08-Sum-of-Odd-Numbers\bin\Debug\08-Sum-of-Odd-Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\08-Sum-of-Odd-Numbers\bin\Debug\08-Sum-of-Odd-Numbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\08-Sum-of-Odd-Numbers\obj\Debug\08-Sum-of-Odd-Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Passed\08-Sum-of-Odd-Numbers\obj\Debug\08-Sum-of-Odd-Numbers.pdb

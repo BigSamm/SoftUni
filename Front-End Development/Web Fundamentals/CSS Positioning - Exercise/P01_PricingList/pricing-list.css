@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Vollkorn');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Vollkorn', serif;
+    color: #808E99;
+}
+
+main {
+    width: 70%;
+    margin: 0 auto;
+}
+main h1 {
+    text-align: center;
+    font-size: 20px;
+    padding-right: 10px;
+    text-transform: uppercase;
+}
+
+main article {
+    display: inline-block;
+    border: 1px solid #EBEFF2;
+    margin-left: 11px;
+    width: 31%;
+    vertical-align: top;
+    height: 380px;
+}
+main article:first-of-type {
+    margin-left: 0;
+}
+
+main article div {
+    background: #EBEFF2;
+    height: 50px;
+}
+main article:hover div {
+    background: #65d2e3;
+}
+main article div h2 {
+    font-size: 15px;
+    text-align: center;
+    text-transform: capitalize;
+    padding-top: 15px;
+}
+
+main article:hover h3 {
+    color: #65d2e3;
+}
+main article h3 {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+main article ul {
+    font: 10px Tahoma, sans-serif;
+    margin: 30px 20px 20px;
+}
+main article ul li {
+    list-style: none;
+    padding-top: 20px;
+    border-bottom: 1px solid #EBEFF2;
+}
+
+main article button {
+    text-transform: capitalize;
+    text-align: center;
+    color: white;
+    background: #EBEFF2;
+    width: calc(100% - 20px);
+    margin-left: 10px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+}
+main article:first-of-type button {
+    margin-top: 100px;
+}
+main article:nth-of-type(2) button {
+    margin-top: 66px;
+}
+main article:hover button {
+    background: #65d2e3;
+}

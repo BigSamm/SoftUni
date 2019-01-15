@@ -1,0 +1,6 @@
+E:\SoftUni\7ti chas\Advanced-Loops\11-Enter-Even-Number\bin\Debug\11-Enter-Even-Number.exe.config
+E:\SoftUni\7ti chas\Advanced-Loops\11-Enter-Even-Number\obj\Debug\11-Enter-Even-Number.csprojResolveAssemblyReference.cache
+E:\SoftUni\7ti chas\Advanced-Loops\11-Enter-Even-Number\bin\Debug\11-Enter-Even-Number.exe
+E:\SoftUni\7ti chas\Advanced-Loops\11-Enter-Even-Number\bin\Debug\11-Enter-Even-Number.pdb
+E:\SoftUni\7ti chas\Advanced-Loops\11-Enter-Even-Number\obj\Debug\11-Enter-Even-Number.exe
+E:\SoftUni\7ti chas\Advanced-Loops\11-Enter-Even-Number\obj\Debug\11-Enter-Even-Number.pdb

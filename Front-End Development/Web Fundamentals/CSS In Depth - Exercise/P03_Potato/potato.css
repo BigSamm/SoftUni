@@ -1,0 +1,109 @@
+@import "https://fonts.googleapis.com/css?family=Lato:300,400,900";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+    font-size: 14px;
+}
+
+nav {
+    background-color: #C0A991;
+    color: white;
+}
+.brand {
+    padding: 20px 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.nav-primary {
+    float: right;
+    margin-right: 30px;
+}
+.nav-item {
+    display: inline-block;
+    margin: -20px 20px;
+}
+.nav-item a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+.nav-item.button-cta {
+    border: 3px solid white;
+    padding: 10px;
+    border-radius: 25px;
+}
+.nav-item.button-cta:hover {
+    background-color: #867260;
+    border-color: #867260;
+}
+
+header {
+    background-color: #C0A991;
+    height: 900px;
+    color: white;
+    background: radial-gradient(ellipse at center,
+    rgba(192,169,145,1) 0%,
+    rgba(192,169,145,1) 59%,
+    rgba(168,143,121,1) 100%);
+
+}
+.header-title {
+    padding-top: 200px;
+    text-align: center;
+    font-size: 60px;
+    font-weight: normal;
+    text-transform: capitalize;
+}
+.header-subtitle {
+    text-align: center;
+    font-weight: lighter;
+    font-size: 20px;
+    padding-top: 25px;
+}
+.header-potato {
+    width: 30%;
+    height: 50%;
+    padding-left: 650px;
+    padding-top: 70px;
+}
+
+.features {
+    background: url("images/potato-background.png") no-repeat;
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+}
+.features-title {
+    text-align: center;
+    padding-top: 250px;
+    font-weight: lighter;
+    text-transform: capitalize;
+    font-size: 40px;
+}
+.features-subtitle {
+    text-align: center;
+    padding-top: 20px;
+    font-weight: lighter;
+    font-size: 18px;
+    width: 550px;
+    padding-left: 675px;
+}
+.feature-potatoes {
+    padding: 50px 675px;
+}
+
+.order-title {
+    text-align: center;
+    font-weight: lighter;
+    font-size: 60px;
+    text-transform: capitalize;
+    padding-top: 50px;
+}
+.potato {
+    display: inline-block;
+}

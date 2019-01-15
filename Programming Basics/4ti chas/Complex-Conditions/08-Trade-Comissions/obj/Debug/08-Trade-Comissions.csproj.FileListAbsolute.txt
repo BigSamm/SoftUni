@@ -1,0 +1,5 @@
+E:\SoftUni\4ti chas\Complex-Conditions\08-Trade-Comissions\bin\Debug\08-Trade-Comissions.exe.config
+E:\SoftUni\4ti chas\Complex-Conditions\08-Trade-Comissions\bin\Debug\08-Trade-Comissions.exe
+E:\SoftUni\4ti chas\Complex-Conditions\08-Trade-Comissions\bin\Debug\08-Trade-Comissions.pdb
+E:\SoftUni\4ti chas\Complex-Conditions\08-Trade-Comissions\obj\Debug\08-Trade-Comissions.exe
+E:\SoftUni\4ti chas\Complex-Conditions\08-Trade-Comissions\obj\Debug\08-Trade-Comissions.pdb

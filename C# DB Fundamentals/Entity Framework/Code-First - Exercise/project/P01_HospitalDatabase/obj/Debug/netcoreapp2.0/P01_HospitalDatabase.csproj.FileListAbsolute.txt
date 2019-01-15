@@ -1,0 +1,11 @@
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.deps.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.runtimeconfig.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.runtimeconfig.dev.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csprojAssemblyReference.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfoInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfo.cs
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Code-First - Exercise\project\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb

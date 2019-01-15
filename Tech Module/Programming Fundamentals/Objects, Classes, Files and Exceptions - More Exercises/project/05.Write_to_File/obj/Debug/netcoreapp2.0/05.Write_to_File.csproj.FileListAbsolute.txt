@@ -1,0 +1,10 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\05.Write_to_File\bin\Debug\netcoreapp2.0\05.Write_to_File.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\05.Write_to_File\bin\Debug\netcoreapp2.0\05.Write_to_File.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\05.Write_to_File\bin\Debug\netcoreapp2.0\05.Write_to_File.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\05.Write_to_File\bin\Debug\netcoreapp2.0\05.Write_to_File.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\05.Write_to_File\bin\Debug\netcoreapp2.0\05.Write_to_File.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\05.Write_to_File\obj\Debug\netcoreapp2.0\05.Write_to_File.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\05.Write_to_File\obj\Debug\netcoreapp2.0\05.Write_to_File.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\05.Write_to_File\obj\Debug\netcoreapp2.0\05.Write_to_File.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\05.Write_to_File\obj\Debug\netcoreapp2.0\05.Write_to_File.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\05.Write_to_File\obj\Debug\netcoreapp2.0\05.Write_to_File.pdb

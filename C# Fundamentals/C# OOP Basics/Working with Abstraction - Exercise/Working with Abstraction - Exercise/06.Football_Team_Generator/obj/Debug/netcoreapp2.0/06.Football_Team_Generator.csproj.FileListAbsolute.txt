@@ -1,0 +1,10 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\06.Football_Team_Generator\bin\Debug\netcoreapp2.0\06.Football_Team_Generator.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\06.Football_Team_Generator\bin\Debug\netcoreapp2.0\06.Football_Team_Generator.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\06.Football_Team_Generator\bin\Debug\netcoreapp2.0\06.Football_Team_Generator.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\06.Football_Team_Generator\bin\Debug\netcoreapp2.0\06.Football_Team_Generator.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\06.Football_Team_Generator\bin\Debug\netcoreapp2.0\06.Football_Team_Generator.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\06.Football_Team_Generator\obj\Debug\netcoreapp2.0\06.Football_Team_Generator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\06.Football_Team_Generator\obj\Debug\netcoreapp2.0\06.Football_Team_Generator.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\06.Football_Team_Generator\obj\Debug\netcoreapp2.0\06.Football_Team_Generator.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\06.Football_Team_Generator\obj\Debug\netcoreapp2.0\06.Football_Team_Generator.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction - Exercise\Working with Abstraction - Exercise\06.Football_Team_Generator\obj\Debug\netcoreapp2.0\06.Football_Team_Generator.pdb

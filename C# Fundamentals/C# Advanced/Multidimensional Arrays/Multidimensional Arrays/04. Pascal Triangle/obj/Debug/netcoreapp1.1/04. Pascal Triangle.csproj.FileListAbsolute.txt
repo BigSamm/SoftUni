@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\04. Pascal Triangle\bin\Debug\netcoreapp1.1\04. Pascal Triangle.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\04. Pascal Triangle\bin\Debug\netcoreapp1.1\04. Pascal Triangle.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\04. Pascal Triangle\bin\Debug\netcoreapp1.1\04. Pascal Triangle.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\04. Pascal Triangle\bin\Debug\netcoreapp1.1\04. Pascal Triangle.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\04. Pascal Triangle\bin\Debug\netcoreapp1.1\04. Pascal Triangle.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\04. Pascal Triangle\obj\Debug\netcoreapp1.1\04. Pascal Triangle.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\04. Pascal Triangle\obj\Debug\netcoreapp1.1\04. Pascal Triangle.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\04. Pascal Triangle\obj\Debug\netcoreapp1.1\04. Pascal Triangle.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\04. Pascal Triangle\obj\Debug\netcoreapp1.1\04. Pascal Triangle.pdb

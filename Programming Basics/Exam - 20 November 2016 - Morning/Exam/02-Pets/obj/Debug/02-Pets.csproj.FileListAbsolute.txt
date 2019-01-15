@@ -1,0 +1,5 @@
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\02-Pets\bin\Debug\02-Pets.exe.config
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\02-Pets\bin\Debug\02-Pets.exe
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\02-Pets\bin\Debug\02-Pets.pdb
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\02-Pets\obj\Debug\02-Pets.exe
+E:\SoftUni\Exam - 20 November 2016 - Morning\Exam\02-Pets\obj\Debug\02-Pets.pdb

@@ -1,0 +1,54 @@
+@media screen and (max-width: 1200px) and (min-width: 730px) {
+    #wrapper {
+        max-width: 100%;
+    }
+    header, main, footer {
+        width: 90%;
+    }
+    header nav > ul {
+        display: flex;
+    }
+    main section {
+        width: calc(100% - 60px);
+    }
+    main aside {
+        width: calc(100% - 45px);
+        margin-top: 0;
+    }
+    footer {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 730px) and (min-width: 500px) {
+    main, #wrapper, header, header nav > ul li {
+        width: 100%;
+    }
+    header, main, footer {
+        width: 90%;
+    }
+    header {
+        margin-bottom: 200px;
+    }
+    main section {
+        width: calc(100% - 60px);
+    }
+    main section > div {
+        height: 100%;
+    }
+    main section > div > div {
+        width: 100%;
+        text-align: center;
+        background-color: #b7cc89;
+        margin-bottom: 10px;
+    }
+    main > section > div > article > h3 {
+        text-align: center;
+    }
+    main aside {
+        width: calc(100% - 40px);
+    }
+    footer {
+        text-align: center;
+    }
+}

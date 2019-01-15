@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\01. Matrix of Palindromes\bin\Debug\netcoreapp1.1\01. Matrix of Palindromes.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\01. Matrix of Palindromes\bin\Debug\netcoreapp1.1\01. Matrix of Palindromes.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\01. Matrix of Palindromes\bin\Debug\netcoreapp1.1\01. Matrix of Palindromes.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\01. Matrix of Palindromes\bin\Debug\netcoreapp1.1\01. Matrix of Palindromes.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\01. Matrix of Palindromes\bin\Debug\netcoreapp1.1\01. Matrix of Palindromes.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\01. Matrix of Palindromes\obj\Debug\netcoreapp1.1\01. Matrix of Palindromes.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\01. Matrix of Palindromes\obj\Debug\netcoreapp1.1\01. Matrix of Palindromes.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\01. Matrix of Palindromes\obj\Debug\netcoreapp1.1\01. Matrix of Palindromes.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\01. Matrix of Palindromes\obj\Debug\netcoreapp1.1\01. Matrix of Palindromes.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\01. Matrix of Palindromes\obj\Debug\netcoreapp1.1\01. Matrix of Palindromes.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\01. Matrix of Palindromes\obj\Debug\netcoreapp1.1\01. Matrix of Palindromes.AssemblyInfoInputs.cache

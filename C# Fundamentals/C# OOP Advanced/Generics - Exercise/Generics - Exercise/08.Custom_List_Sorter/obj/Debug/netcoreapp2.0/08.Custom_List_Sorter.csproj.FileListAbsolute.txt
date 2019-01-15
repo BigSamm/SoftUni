@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\08.Custom_List_Sorter\bin\Debug\netcoreapp2.0\08.Custom_List_Sorter.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\08.Custom_List_Sorter\bin\Debug\netcoreapp2.0\08.Custom_List_Sorter.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\08.Custom_List_Sorter\bin\Debug\netcoreapp2.0\08.Custom_List_Sorter.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\08.Custom_List_Sorter\bin\Debug\netcoreapp2.0\08.Custom_List_Sorter.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\08.Custom_List_Sorter\bin\Debug\netcoreapp2.0\08.Custom_List_Sorter.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\08.Custom_List_Sorter\obj\Debug\netcoreapp2.0\08.Custom_List_Sorter.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\08.Custom_List_Sorter\obj\Debug\netcoreapp2.0\08.Custom_List_Sorter.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\08.Custom_List_Sorter\obj\Debug\netcoreapp2.0\08.Custom_List_Sorter.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\08.Custom_List_Sorter\obj\Debug\netcoreapp2.0\08.Custom_List_Sorter.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\08.Custom_List_Sorter\obj\Debug\netcoreapp2.0\08.Custom_List_Sorter.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\08.Custom_List_Sorter\obj\Debug\netcoreapp2.0\08.Custom_List_Sorter.csprojResolveAssemblyReference.cache

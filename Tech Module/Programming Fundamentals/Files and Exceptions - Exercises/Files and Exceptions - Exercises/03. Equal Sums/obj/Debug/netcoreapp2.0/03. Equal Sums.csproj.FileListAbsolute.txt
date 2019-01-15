@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\03. Equal Sums\bin\Debug\netcoreapp2.0\03. Equal Sums.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\03. Equal Sums\bin\Debug\netcoreapp2.0\03. Equal Sums.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\03. Equal Sums\bin\Debug\netcoreapp2.0\03. Equal Sums.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\03. Equal Sums\bin\Debug\netcoreapp2.0\03. Equal Sums.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\03. Equal Sums\bin\Debug\netcoreapp2.0\03. Equal Sums.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\03. Equal Sums\obj\Debug\netcoreapp2.0\03. Equal Sums.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\03. Equal Sums\obj\Debug\netcoreapp2.0\03. Equal Sums.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\03. Equal Sums\obj\Debug\netcoreapp2.0\03. Equal Sums.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\03. Equal Sums\obj\Debug\netcoreapp2.0\03. Equal Sums.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\03. Equal Sums\obj\Debug\netcoreapp2.0\03. Equal Sums.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\03. Equal Sums\obj\Debug\netcoreapp2.0\03. Equal Sums.pdb

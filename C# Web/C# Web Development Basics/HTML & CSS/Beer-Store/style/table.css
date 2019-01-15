@@ -1,0 +1,29 @@
+﻿main table {
+    width: 100%;
+    border: 1px solid #feae00;
+    border-spacing: 0px;
+}
+
+main th, td {
+    width: 25%;
+    padding: 15px;
+    text-align: left;
+}
+
+main td {
+    vertical-align: bottom;
+}
+
+main th {
+    background-color: #feae00;
+    color: white;
+}
+
+main table img {
+    width: 100px;
+    height: auto;
+}
+
+main tr:nth-child(odd) {
+    background-color: white;
+}

@@ -1,0 +1,6 @@
+E:\SoftUni\7mi chas\Exam\Magical-Numbers\bin\Debug\Magical-Numbers.exe.config
+E:\SoftUni\7mi chas\Exam\Magical-Numbers\bin\Debug\Magical-Numbers.exe
+E:\SoftUni\7mi chas\Exam\Magical-Numbers\bin\Debug\Magical-Numbers.pdb
+E:\SoftUni\7mi chas\Exam\Magical-Numbers\obj\Debug\Magical-Numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\7mi chas\Exam\Magical-Numbers\obj\Debug\Magical-Numbers.exe
+E:\SoftUni\7mi chas\Exam\Magical-Numbers\obj\Debug\Magical-Numbers.pdb

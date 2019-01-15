@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\04. Average Grades\bin\Debug\_04.Average_Grades.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\04. Average Grades\bin\Debug\_04.Average_Grades.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\04. Average Grades\bin\Debug\_04.Average_Grades.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\04. Average Grades\obj\Debug\04. Average Grades.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\04. Average Grades\obj\Debug\_04.Average_Grades.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\04. Average Grades\obj\Debug\_04.Average_Grades.pdb

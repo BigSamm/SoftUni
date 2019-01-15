@@ -1,0 +1,48 @@
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.deps.json
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csprojAssemblyReference.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.AssemblyInfo.cs
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csproj.CopyComplete
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Asynchronous processing - Exercise\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.deps.json
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csprojAssemblyReference.cache
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.AssemblyInfo.cs
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csproj.CopyComplete
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.dll
+D:\SoftUni\C# Web\C# Web Development Basics\State Managment - Exercise\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.deps.json
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csprojAssemblyReference.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.AssemblyInfo.cs
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csproj.CopyComplete
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.dll
+D:\SoftUni\C# Web\C# Web Development Basics\Databases - EF Core\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.deps.json
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csprojAssemblyReference.cache
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.AssemblyInfo.cs
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csproj.CopyComplete
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.dll
+D:\SoftUni\C# Web\C# Web Development Basics\SIS\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.pdb

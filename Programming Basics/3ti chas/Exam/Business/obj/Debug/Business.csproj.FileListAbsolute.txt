@@ -1,0 +1,6 @@
+E:\SoftUni\3ti chas\Exam\Business\bin\Debug\Business.exe.config
+E:\SoftUni\3ti chas\Exam\Business\bin\Debug\Business.exe
+E:\SoftUni\3ti chas\Exam\Business\bin\Debug\Business.pdb
+E:\SoftUni\3ti chas\Exam\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\SoftUni\3ti chas\Exam\Business\obj\Debug\Business.exe
+E:\SoftUni\3ti chas\Exam\Business\obj\Debug\Business.pdb

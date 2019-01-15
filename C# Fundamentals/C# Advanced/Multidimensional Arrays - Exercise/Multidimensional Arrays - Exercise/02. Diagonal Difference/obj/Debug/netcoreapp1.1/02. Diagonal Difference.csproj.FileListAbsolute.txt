@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\02. Diagonal Difference\bin\Debug\netcoreapp1.1\02. Diagonal Difference.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\02. Diagonal Difference\bin\Debug\netcoreapp1.1\02. Diagonal Difference.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\02. Diagonal Difference\bin\Debug\netcoreapp1.1\02. Diagonal Difference.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\02. Diagonal Difference\bin\Debug\netcoreapp1.1\02. Diagonal Difference.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\02. Diagonal Difference\bin\Debug\netcoreapp1.1\02. Diagonal Difference.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\02. Diagonal Difference\obj\Debug\netcoreapp1.1\02. Diagonal Difference.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\02. Diagonal Difference\obj\Debug\netcoreapp1.1\02. Diagonal Difference.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\02. Diagonal Difference\obj\Debug\netcoreapp1.1\02. Diagonal Difference.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\02. Diagonal Difference\obj\Debug\netcoreapp1.1\02. Diagonal Difference.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\02. Diagonal Difference\obj\Debug\netcoreapp1.1\02. Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\02. Diagonal Difference\obj\Debug\netcoreapp1.1\02. Diagonal Difference.AssemblyInfoInputs.cache

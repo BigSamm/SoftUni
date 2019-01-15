@@ -1,0 +1,6 @@
+E:\SoftUni\6ti chas\Draw-with-Loops\01-Rectangle-of-10x10-Stars\bin\Debug\01-Rectangle-of-10x10-Stars.exe.config
+E:\SoftUni\6ti chas\Draw-with-Loops\01-Rectangle-of-10x10-Stars\bin\Debug\01-Rectangle-of-10x10-Stars.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\01-Rectangle-of-10x10-Stars\bin\Debug\01-Rectangle-of-10x10-Stars.pdb
+E:\SoftUni\6ti chas\Draw-with-Loops\01-Rectangle-of-10x10-Stars\obj\Debug\01-Rectangle-of-10x10-Stars.csprojResolveAssemblyReference.cache
+E:\SoftUni\6ti chas\Draw-with-Loops\01-Rectangle-of-10x10-Stars\obj\Debug\01-Rectangle-of-10x10-Stars.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\01-Rectangle-of-10x10-Stars\obj\Debug\01-Rectangle-of-10x10-Stars.pdb

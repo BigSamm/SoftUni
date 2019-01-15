@@ -1,0 +1,2 @@
+E:\SoftUni\2ri chas\Simple-Calculations\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe.config
+E:\SoftUni\2ri chas\Simple-Calculations\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.csprojResolveAssemblyReference.cache

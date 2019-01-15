@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\05. Book Library\bin\Debug\_05.Book_Library.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\05. Book Library\bin\Debug\_05.Book_Library.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\05. Book Library\bin\Debug\_05.Book_Library.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\05. Book Library\obj\Debug\05. Book Library.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\05. Book Library\obj\Debug\_05.Book_Library.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\05. Book Library\obj\Debug\_05.Book_Library.pdb

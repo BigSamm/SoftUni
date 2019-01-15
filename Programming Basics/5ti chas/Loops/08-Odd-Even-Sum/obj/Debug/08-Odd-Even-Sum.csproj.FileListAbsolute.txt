@@ -1,0 +1,5 @@
+E:\SoftUni\5ti chas\Loops\08-Odd-Even-Sum\bin\Debug\08-Odd-Even-Sum.exe.config
+E:\SoftUni\5ti chas\Loops\08-Odd-Even-Sum\bin\Debug\08-Odd-Even-Sum.exe
+E:\SoftUni\5ti chas\Loops\08-Odd-Even-Sum\bin\Debug\08-Odd-Even-Sum.pdb
+E:\SoftUni\5ti chas\Loops\08-Odd-Even-Sum\obj\Debug\08-Odd-Even-Sum.exe
+E:\SoftUni\5ti chas\Loops\08-Odd-Even-Sum\obj\Debug\08-Odd-Even-Sum.pdb

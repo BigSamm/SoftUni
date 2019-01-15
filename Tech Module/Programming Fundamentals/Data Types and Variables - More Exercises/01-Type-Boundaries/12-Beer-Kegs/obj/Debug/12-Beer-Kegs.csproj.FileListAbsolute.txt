@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\12-Beer-Kegs\bin\Debug\12-Beer-Kegs.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\12-Beer-Kegs\bin\Debug\12-Beer-Kegs.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\12-Beer-Kegs\bin\Debug\12-Beer-Kegs.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\12-Beer-Kegs\obj\Debug\12-Beer-Kegs.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\12-Beer-Kegs\obj\Debug\12-Beer-Kegs.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\12-Beer-Kegs\obj\Debug\12-Beer-Kegs.pdb

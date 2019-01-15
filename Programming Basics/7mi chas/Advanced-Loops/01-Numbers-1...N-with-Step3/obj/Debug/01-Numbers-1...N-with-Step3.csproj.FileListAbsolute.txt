@@ -1,0 +1,9 @@
+E:\SoftUni\6ti chas\Advanced-Loops\01-Numbers-1...N-with-Step3\bin\Debug\_01_Numbers_1._._.N_with_Step3.exe.config
+E:\SoftUni\6ti chas\Advanced-Loops\01-Numbers-1...N-with-Step3\bin\Debug\_01_Numbers_1._._.N_with_Step3.exe
+E:\SoftUni\6ti chas\Advanced-Loops\01-Numbers-1...N-with-Step3\bin\Debug\_01_Numbers_1._._.N_with_Step3.pdb
+E:\SoftUni\6ti chas\Advanced-Loops\01-Numbers-1...N-with-Step3\obj\Debug\01-Numbers-1...N-with-Step3.csprojResolveAssemblyReference.cache
+E:\SoftUni\6ti chas\Advanced-Loops\01-Numbers-1...N-with-Step3\obj\Debug\_01_Numbers_1._._.N_with_Step3.exe
+E:\SoftUni\6ti chas\Advanced-Loops\01-Numbers-1...N-with-Step3\obj\Debug\_01_Numbers_1._._.N_with_Step3.pdb
+E:\SoftUni\7ti chas\Advanced-Loops\01-Numbers-1...N-with-Step3\bin\Debug\_01_Numbers_1._._.N_with_Step3.exe.config
+E:\SoftUni\7ti chas\Advanced-Loops\01-Numbers-1...N-with-Step3\obj\Debug\_01_Numbers_1._._.N_with_Step3.exe
+E:\SoftUni\7ti chas\Advanced-Loops\01-Numbers-1...N-with-Step3\obj\Debug\_01_Numbers_1._._.N_with_Step3.pdb

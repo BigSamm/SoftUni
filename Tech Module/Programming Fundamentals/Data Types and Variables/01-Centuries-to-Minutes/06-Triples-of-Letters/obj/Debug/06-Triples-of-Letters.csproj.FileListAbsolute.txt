@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\06-Triples-of-Letters\bin\Debug\06-Triples-of-Letters.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\06-Triples-of-Letters\bin\Debug\06-Triples-of-Letters.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\06-Triples-of-Letters\bin\Debug\06-Triples-of-Letters.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\06-Triples-of-Letters\obj\Debug\06-Triples-of-Letters.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables\01-Centuries-to-Minutes\06-Triples-of-Letters\obj\Debug\06-Triples-of-Letters.pdb

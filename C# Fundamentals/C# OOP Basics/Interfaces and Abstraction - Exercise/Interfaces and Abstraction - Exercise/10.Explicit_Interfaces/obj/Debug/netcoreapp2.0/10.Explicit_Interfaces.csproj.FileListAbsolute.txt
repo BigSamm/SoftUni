@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\10.Explicit_Interfaces\bin\Debug\netcoreapp2.0\10.Explicit_Interfaces.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\10.Explicit_Interfaces\bin\Debug\netcoreapp2.0\10.Explicit_Interfaces.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\10.Explicit_Interfaces\bin\Debug\netcoreapp2.0\10.Explicit_Interfaces.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\10.Explicit_Interfaces\bin\Debug\netcoreapp2.0\10.Explicit_Interfaces.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\10.Explicit_Interfaces\bin\Debug\netcoreapp2.0\10.Explicit_Interfaces.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\10.Explicit_Interfaces\obj\Debug\netcoreapp2.0\10.Explicit_Interfaces.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\10.Explicit_Interfaces\obj\Debug\netcoreapp2.0\10.Explicit_Interfaces.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\10.Explicit_Interfaces\obj\Debug\netcoreapp2.0\10.Explicit_Interfaces.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\10.Explicit_Interfaces\obj\Debug\netcoreapp2.0\10.Explicit_Interfaces.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\10.Explicit_Interfaces\obj\Debug\netcoreapp2.0\10.Explicit_Interfaces.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\10.Explicit_Interfaces\obj\Debug\netcoreapp2.0\10.Explicit_Interfaces.csprojResolveAssemblyReference.cache

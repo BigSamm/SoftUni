@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\00.Generic_Box\bin\Debug\netcoreapp2.0\00.Generic_Box.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\00.Generic_Box\bin\Debug\netcoreapp2.0\00.Generic_Box.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\00.Generic_Box\bin\Debug\netcoreapp2.0\00.Generic_Box.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\00.Generic_Box\obj\Debug\netcoreapp2.0\00.Generic_Box.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\00.Generic_Box\obj\Debug\netcoreapp2.0\00.Generic_Box.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\00.Generic_Box\obj\Debug\netcoreapp2.0\00.Generic_Box.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\00.Generic_Box\obj\Debug\netcoreapp2.0\00.Generic_Box.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\00.Generic_Box\obj\Debug\netcoreapp2.0\00.Generic_Box.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\00.Generic_Box\obj\Debug\netcoreapp2.0\00.Generic_Box.pdb

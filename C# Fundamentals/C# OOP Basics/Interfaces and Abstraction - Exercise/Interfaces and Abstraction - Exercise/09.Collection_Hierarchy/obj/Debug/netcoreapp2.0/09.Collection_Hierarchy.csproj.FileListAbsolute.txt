@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\09.Collection_Hierarchy\bin\Debug\netcoreapp2.0\09.Collection_Hierarchy.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\09.Collection_Hierarchy\bin\Debug\netcoreapp2.0\09.Collection_Hierarchy.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\09.Collection_Hierarchy\bin\Debug\netcoreapp2.0\09.Collection_Hierarchy.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\09.Collection_Hierarchy\bin\Debug\netcoreapp2.0\09.Collection_Hierarchy.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\09.Collection_Hierarchy\bin\Debug\netcoreapp2.0\09.Collection_Hierarchy.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\09.Collection_Hierarchy\obj\Debug\netcoreapp2.0\09.Collection_Hierarchy.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\09.Collection_Hierarchy\obj\Debug\netcoreapp2.0\09.Collection_Hierarchy.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\09.Collection_Hierarchy\obj\Debug\netcoreapp2.0\09.Collection_Hierarchy.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\09.Collection_Hierarchy\obj\Debug\netcoreapp2.0\09.Collection_Hierarchy.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\09.Collection_Hierarchy\obj\Debug\netcoreapp2.0\09.Collection_Hierarchy.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\09.Collection_Hierarchy\obj\Debug\netcoreapp2.0\09.Collection_Hierarchy.pdb

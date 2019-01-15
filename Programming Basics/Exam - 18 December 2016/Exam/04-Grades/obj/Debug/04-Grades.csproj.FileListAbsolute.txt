@@ -1,0 +1,6 @@
+E:\SoftUni\Exam - 18 December 2016\Exam\04-Grades\bin\Debug\04-Grades.exe.config
+E:\SoftUni\Exam - 18 December 2016\Exam\04-Grades\bin\Debug\04-Grades.exe
+E:\SoftUni\Exam - 18 December 2016\Exam\04-Grades\bin\Debug\04-Grades.pdb
+E:\SoftUni\Exam - 18 December 2016\Exam\04-Grades\obj\Debug\04-Grades.exe
+E:\SoftUni\Exam - 18 December 2016\Exam\04-Grades\obj\Debug\04-Grades.pdb
+E:\SoftUni\Exam - 18 December 2016\Exam\04-Grades\obj\Debug\04-Grades.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation III\Exam Preparation III\03. Rage Quit\bin\Debug\_03.Rage_Quit.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation III\Exam Preparation III\03. Rage Quit\bin\Debug\_03.Rage_Quit.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation III\Exam Preparation III\03. Rage Quit\bin\Debug\_03.Rage_Quit.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation III\Exam Preparation III\03. Rage Quit\obj\Debug\03. Rage Quit.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation III\Exam Preparation III\03. Rage Quit\obj\Debug\_03.Rage_Quit.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation III\Exam Preparation III\03. Rage Quit\obj\Debug\_03.Rage_Quit.pdb

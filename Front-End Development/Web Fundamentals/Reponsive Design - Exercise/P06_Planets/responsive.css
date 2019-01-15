@@ -1,0 +1,15 @@
+﻿@media screen and (max-width: 1000px) {
+    body {
+        max-width: 100%;
+    }
+    header {
+        height: 250px;
+    }
+    #logoarea, #menu, #header-area-right {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 756px) {
+
+}

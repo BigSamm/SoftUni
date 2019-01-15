@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Debit-Card-Number\02-Rectangle-Area\bin\Debug\02-Rectangle-Area.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Debit-Card-Number\02-Rectangle-Area\bin\Debug\02-Rectangle-Area.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Debit-Card-Number\02-Rectangle-Area\bin\Debug\02-Rectangle-Area.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Debit-Card-Number\02-Rectangle-Area\obj\Debug\02-Rectangle-Area.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basic Syntax - Exercises\01-Debit-Card-Number\02-Rectangle-Area\obj\Debug\02-Rectangle-Area.pdb

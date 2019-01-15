@@ -1,0 +1,14 @@
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P11_Find_Latest_10_Projects\bin\Debug\netcoreapp2.0\P11_Find_Latest_10_Projects.deps.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P11_Find_Latest_10_Projects\bin\Debug\netcoreapp2.0\P11_Find_Latest_10_Projects.runtimeconfig.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P11_Find_Latest_10_Projects\bin\Debug\netcoreapp2.0\P11_Find_Latest_10_Projects.runtimeconfig.dev.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P11_Find_Latest_10_Projects\bin\Debug\netcoreapp2.0\P11_Find_Latest_10_Projects.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P11_Find_Latest_10_Projects\bin\Debug\netcoreapp2.0\P11_Find_Latest_10_Projects.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P11_Find_Latest_10_Projects\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P11_Find_Latest_10_Projects\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P11_Find_Latest_10_Projects\obj\Debug\netcoreapp2.0\P11_Find_Latest_10_Projects.csprojAssemblyReference.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P11_Find_Latest_10_Projects\obj\Debug\netcoreapp2.0\P11_Find_Latest_10_Projects.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P11_Find_Latest_10_Projects\obj\Debug\netcoreapp2.0\P11_Find_Latest_10_Projects.AssemblyInfoInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P11_Find_Latest_10_Projects\obj\Debug\netcoreapp2.0\P11_Find_Latest_10_Projects.AssemblyInfo.cs
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P11_Find_Latest_10_Projects\obj\Debug\netcoreapp2.0\P11_Find_Latest_10_Projects.csproj.CopyComplete
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P11_Find_Latest_10_Projects\obj\Debug\netcoreapp2.0\P11_Find_Latest_10_Projects.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P11_Find_Latest_10_Projects\obj\Debug\netcoreapp2.0\P11_Find_Latest_10_Projects.pdb

@@ -1,0 +1,14 @@
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P15_Remove_Towns\bin\Debug\netcoreapp2.0\P15_Remove_Towns.deps.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P15_Remove_Towns\bin\Debug\netcoreapp2.0\P15_Remove_Towns.runtimeconfig.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P15_Remove_Towns\bin\Debug\netcoreapp2.0\P15_Remove_Towns.runtimeconfig.dev.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P15_Remove_Towns\bin\Debug\netcoreapp2.0\P15_Remove_Towns.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P15_Remove_Towns\bin\Debug\netcoreapp2.0\P15_Remove_Towns.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P15_Remove_Towns\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P15_Remove_Towns\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P15_Remove_Towns\obj\Debug\netcoreapp2.0\P15_Remove_Towns.csprojAssemblyReference.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P15_Remove_Towns\obj\Debug\netcoreapp2.0\P15_Remove_Towns.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P15_Remove_Towns\obj\Debug\netcoreapp2.0\P15_Remove_Towns.AssemblyInfoInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P15_Remove_Towns\obj\Debug\netcoreapp2.0\P15_Remove_Towns.AssemblyInfo.cs
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P15_Remove_Towns\obj\Debug\netcoreapp2.0\P15_Remove_Towns.csproj.CopyComplete
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P15_Remove_Towns\obj\Debug\netcoreapp2.0\P15_Remove_Towns.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P15_Remove_Towns\obj\Debug\netcoreapp2.0\P15_Remove_Towns.pdb

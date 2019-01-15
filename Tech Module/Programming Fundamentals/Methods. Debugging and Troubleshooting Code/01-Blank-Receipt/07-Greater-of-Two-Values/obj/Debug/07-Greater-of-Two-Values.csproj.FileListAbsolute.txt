@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\07-Greater-of-Two-Values\bin\Debug\07-Greater-of-Two-Values.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\07-Greater-of-Two-Values\bin\Debug\07-Greater-of-Two-Values.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\07-Greater-of-Two-Values\bin\Debug\07-Greater-of-Two-Values.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\07-Greater-of-Two-Values\obj\Debug\07-Greater-of-Two-Values.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\07-Greater-of-Two-Values\obj\Debug\07-Greater-of-Two-Values.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\01-Blank-Receipt\07-Greater-of-Two-Values\obj\Debug\07-Greater-of-Two-Values.pdb

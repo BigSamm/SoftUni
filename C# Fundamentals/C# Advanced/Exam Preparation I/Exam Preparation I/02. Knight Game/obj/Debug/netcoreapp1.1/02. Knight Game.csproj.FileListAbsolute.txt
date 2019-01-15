@@ -1,0 +1,10 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\02. Knight Game\bin\Debug\netcoreapp1.1\02. Knight Game.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\02. Knight Game\bin\Debug\netcoreapp1.1\02. Knight Game.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\02. Knight Game\bin\Debug\netcoreapp1.1\02. Knight Game.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\02. Knight Game\bin\Debug\netcoreapp1.1\02. Knight Game.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\02. Knight Game\bin\Debug\netcoreapp1.1\02. Knight Game.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\02. Knight Game\obj\Debug\netcoreapp1.1\02. Knight Game.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\02. Knight Game\obj\Debug\netcoreapp1.1\02. Knight Game.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\02. Knight Game\obj\Debug\netcoreapp1.1\02. Knight Game.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\02. Knight Game\obj\Debug\netcoreapp1.1\02. Knight Game.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation I\Exam Preparation I\02. Knight Game\obj\Debug\netcoreapp1.1\02. Knight Game.AssemblyInfoInputs.cache

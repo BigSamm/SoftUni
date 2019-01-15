@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\03. Decimal to Binary Converter\bin\Debug\netcoreapp1.1\03. Decimal to Binary Converter.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\03. Decimal to Binary Converter\bin\Debug\netcoreapp1.1\03. Decimal to Binary Converter.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\03. Decimal to Binary Converter\bin\Debug\netcoreapp1.1\03. Decimal to Binary Converter.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\03. Decimal to Binary Converter\bin\Debug\netcoreapp1.1\03. Decimal to Binary Converter.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\03. Decimal to Binary Converter\bin\Debug\netcoreapp1.1\03. Decimal to Binary Converter.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\03. Decimal to Binary Converter\obj\Debug\netcoreapp1.1\03. Decimal to Binary Converter.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\03. Decimal to Binary Converter\obj\Debug\netcoreapp1.1\03. Decimal to Binary Converter.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\03. Decimal to Binary Converter\obj\Debug\netcoreapp1.1\03. Decimal to Binary Converter.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Stacks and Queues\Stacks and Queues\03. Decimal to Binary Converter\obj\Debug\netcoreapp1.1\03. Decimal to Binary Converter.pdb

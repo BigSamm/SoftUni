@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\04. Hit List\bin\Debug\netcoreapp1.1\04. Hit List.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\04. Hit List\bin\Debug\netcoreapp1.1\04. Hit List.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\04. Hit List\bin\Debug\netcoreapp1.1\04. Hit List.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\04. Hit List\bin\Debug\netcoreapp1.1\04. Hit List.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\04. Hit List\bin\Debug\netcoreapp1.1\04. Hit List.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\04. Hit List\obj\Debug\netcoreapp1.1\04. Hit List.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\04. Hit List\obj\Debug\netcoreapp1.1\04. Hit List.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\04. Hit List\obj\Debug\netcoreapp1.1\04. Hit List.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\EXAM\EXAM\04. Hit List\obj\Debug\netcoreapp1.1\04. Hit List.pdb

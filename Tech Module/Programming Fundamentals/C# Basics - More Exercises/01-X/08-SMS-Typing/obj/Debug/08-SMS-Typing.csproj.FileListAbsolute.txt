@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\08-SMS-Typing\bin\Debug\08-SMS-Typing.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\08-SMS-Typing\bin\Debug\08-SMS-Typing.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\08-SMS-Typing\bin\Debug\08-SMS-Typing.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\08-SMS-Typing\obj\Debug\08-SMS-Typing.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\08-SMS-Typing\obj\Debug\08-SMS-Typing.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\08-SMS-Typing\obj\Debug\08-SMS-Typing.pdb

@@ -1,0 +1,14 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\06.Generic_Count_Method_Double\bin\Debug\netcoreapp2.0\06.Generic_Count_Method_Double.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\06.Generic_Count_Method_Double\bin\Debug\netcoreapp2.0\06.Generic_Count_Method_Double.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\06.Generic_Count_Method_Double\bin\Debug\netcoreapp2.0\06.Generic_Count_Method_Double.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\06.Generic_Count_Method_Double\bin\Debug\netcoreapp2.0\06.Generic_Count_Method_Double.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\06.Generic_Count_Method_Double\bin\Debug\netcoreapp2.0\06.Generic_Count_Method_Double.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\06.Generic_Count_Method_Double\bin\Debug\netcoreapp2.0\00.Generic_Box.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\06.Generic_Count_Method_Double\bin\Debug\netcoreapp2.0\00.Generic_Box.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\06.Generic_Count_Method_Double\obj\Debug\netcoreapp2.0\06.Generic_Count_Method_Double.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\06.Generic_Count_Method_Double\obj\Debug\netcoreapp2.0\06.Generic_Count_Method_Double.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\06.Generic_Count_Method_Double\obj\Debug\netcoreapp2.0\06.Generic_Count_Method_Double.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\06.Generic_Count_Method_Double\obj\Debug\netcoreapp2.0\06.Generic_Count_Method_Double.csproj.CopyComplete
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\06.Generic_Count_Method_Double\obj\Debug\netcoreapp2.0\06.Generic_Count_Method_Double.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\06.Generic_Count_Method_Double\obj\Debug\netcoreapp2.0\06.Generic_Count_Method_Double.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Generics - Exercise\Generics - Exercise\06.Generic_Count_Method_Double\obj\Debug\netcoreapp2.0\06.Generic_Count_Method_Double.csprojResolveAssemblyReference.cache

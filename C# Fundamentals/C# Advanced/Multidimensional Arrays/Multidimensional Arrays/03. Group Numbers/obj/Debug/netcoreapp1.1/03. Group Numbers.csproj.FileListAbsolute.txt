@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\03. Group Numbers\bin\Debug\netcoreapp1.1\03. Group Numbers.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\03. Group Numbers\bin\Debug\netcoreapp1.1\03. Group Numbers.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\03. Group Numbers\bin\Debug\netcoreapp1.1\03. Group Numbers.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\03. Group Numbers\bin\Debug\netcoreapp1.1\03. Group Numbers.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\03. Group Numbers\bin\Debug\netcoreapp1.1\03. Group Numbers.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\03. Group Numbers\obj\Debug\netcoreapp1.1\03. Group Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\03. Group Numbers\obj\Debug\netcoreapp1.1\03. Group Numbers.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\03. Group Numbers\obj\Debug\netcoreapp1.1\03. Group Numbers.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\03. Group Numbers\obj\Debug\netcoreapp1.1\03. Group Numbers.pdb

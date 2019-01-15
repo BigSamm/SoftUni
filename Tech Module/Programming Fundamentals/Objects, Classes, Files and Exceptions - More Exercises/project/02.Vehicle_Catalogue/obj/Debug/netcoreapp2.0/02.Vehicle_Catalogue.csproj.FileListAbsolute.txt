@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\02.Vehicle_Catalogue\bin\Debug\netcoreapp2.0\02.Vehicle_Catalogue.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\02.Vehicle_Catalogue\bin\Debug\netcoreapp2.0\02.Vehicle_Catalogue.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\02.Vehicle_Catalogue\bin\Debug\netcoreapp2.0\02.Vehicle_Catalogue.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\02.Vehicle_Catalogue\bin\Debug\netcoreapp2.0\02.Vehicle_Catalogue.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\02.Vehicle_Catalogue\bin\Debug\netcoreapp2.0\02.Vehicle_Catalogue.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\02.Vehicle_Catalogue\obj\Debug\netcoreapp2.0\02.Vehicle_Catalogue.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\02.Vehicle_Catalogue\obj\Debug\netcoreapp2.0\02.Vehicle_Catalogue.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\02.Vehicle_Catalogue\obj\Debug\netcoreapp2.0\02.Vehicle_Catalogue.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\02.Vehicle_Catalogue\obj\Debug\netcoreapp2.0\02.Vehicle_Catalogue.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\02.Vehicle_Catalogue\obj\Debug\netcoreapp2.0\02.Vehicle_Catalogue.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\02.Vehicle_Catalogue\obj\Debug\netcoreapp2.0\02.Vehicle_Catalogue.pdb

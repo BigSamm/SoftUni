@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\07-Cake-Ingredients\bin\Debug\07-Cake-Ingredients.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\07-Cake-Ingredients\bin\Debug\07-Cake-Ingredients.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\07-Cake-Ingredients\bin\Debug\07-Cake-Ingredients.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\07-Cake-Ingredients\obj\Debug\07-Cake-Ingredients.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\07-Cake-Ingredients\obj\Debug\07-Cake-Ingredients.pdb

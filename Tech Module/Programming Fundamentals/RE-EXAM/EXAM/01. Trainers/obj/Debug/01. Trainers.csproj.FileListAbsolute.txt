@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\EXAM\EXAM\01. Trainers\bin\Debug\_01.Trainers.exe.config
+C:\Users\User\Desktop\EXAM\EXAM\01. Trainers\bin\Debug\_01.Trainers.exe
+C:\Users\User\Desktop\EXAM\EXAM\01. Trainers\bin\Debug\_01.Trainers.pdb
+C:\Users\User\Desktop\EXAM\EXAM\01. Trainers\obj\Debug\01. Trainers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\EXAM\EXAM\01. Trainers\obj\Debug\_01.Trainers.exe
+C:\Users\User\Desktop\EXAM\EXAM\01. Trainers\obj\Debug\_01.Trainers.pdb

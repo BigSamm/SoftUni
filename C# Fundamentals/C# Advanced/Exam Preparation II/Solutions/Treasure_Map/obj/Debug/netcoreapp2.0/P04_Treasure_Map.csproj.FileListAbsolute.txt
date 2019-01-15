@@ -1,0 +1,9 @@
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Treasure_Map\bin\Debug\netcoreapp2.0\P04_Treasure_Map.deps.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Treasure_Map\bin\Debug\netcoreapp2.0\P04_Treasure_Map.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Treasure_Map\bin\Debug\netcoreapp2.0\P04_Treasure_Map.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Treasure_Map\bin\Debug\netcoreapp2.0\P04_Treasure_Map.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Treasure_Map\bin\Debug\netcoreapp2.0\P04_Treasure_Map.pdb
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Treasure_Map\obj\Debug\netcoreapp2.0\P04_Treasure_Map.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Treasure_Map\obj\Debug\netcoreapp2.0\P04_Treasure_Map.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Treasure_Map\obj\Debug\netcoreapp2.0\P04_Treasure_Map.dll
+D:\SoftUni\C# Fundamentals\C# Advanced\Exam Preparation II\Solutions\Treasure_Map\obj\Debug\netcoreapp2.0\P04_Treasure_Map.pdb

@@ -1,0 +1,5 @@
+E:\SoftUni\2ri chas\Simple-Calculations\Circle\bin\Debug\Circle.exe.config
+E:\SoftUni\2ri chas\Simple-Calculations\Circle\bin\Debug\Circle.exe
+E:\SoftUni\2ri chas\Simple-Calculations\Circle\bin\Debug\Circle.pdb
+E:\SoftUni\2ri chas\Simple-Calculations\Circle\obj\Debug\Circle.exe
+E:\SoftUni\2ri chas\Simple-Calculations\Circle\obj\Debug\Circle.pdb

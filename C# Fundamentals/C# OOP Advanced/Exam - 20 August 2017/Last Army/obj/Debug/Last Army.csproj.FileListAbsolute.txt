@@ -1,0 +1,10 @@
+C:\Users\sevda\Desktop\OOP\Army\The Last Army\Last Army\obj\Debug\Last Army.csprojResolveAssemblyReference.cache
+C:\Users\sevda\Desktop\OOP\Army\The Last Army\Last Army\bin\Debug\Last Army.exe.config
+C:\Users\sevda\Desktop\OOP\Army\The Last Army\Last Army\bin\Debug\Last Army.exe
+C:\Users\sevda\Desktop\OOP\Army\The Last Army\Last Army\bin\Debug\Last Army.pdb
+C:\Users\sevda\Desktop\OOP\Army\The Last Army\Last Army\obj\Debug\Last Army.exe
+C:\Users\sevda\Desktop\OOP\Army\The Last Army\Last Army\obj\Debug\Last Army.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 20 August 2017\Last Army\obj\Debug\Last Army.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 20 August 2017\Last Army\obj\Debug\Last Army.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 20 August 2017\Last Army\obj\Debug\Last Army.exe
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 20 August 2017\Last Army\obj\Debug\Last Army.pdb

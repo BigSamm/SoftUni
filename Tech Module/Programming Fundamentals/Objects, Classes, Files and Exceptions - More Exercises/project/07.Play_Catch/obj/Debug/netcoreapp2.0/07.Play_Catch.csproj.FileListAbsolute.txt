@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\07.Play_Catch\bin\Debug\netcoreapp2.0\07.Play_Catch.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\07.Play_Catch\bin\Debug\netcoreapp2.0\07.Play_Catch.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\07.Play_Catch\bin\Debug\netcoreapp2.0\07.Play_Catch.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\07.Play_Catch\bin\Debug\netcoreapp2.0\07.Play_Catch.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\07.Play_Catch\bin\Debug\netcoreapp2.0\07.Play_Catch.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\07.Play_Catch\obj\Debug\netcoreapp2.0\07.Play_Catch.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\07.Play_Catch\obj\Debug\netcoreapp2.0\07.Play_Catch.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\07.Play_Catch\obj\Debug\netcoreapp2.0\07.Play_Catch.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\07.Play_Catch\obj\Debug\netcoreapp2.0\07.Play_Catch.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\07.Play_Catch\obj\Debug\netcoreapp2.0\07.Play_Catch.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\07.Play_Catch\obj\Debug\netcoreapp2.0\07.Play_Catch.pdb

@@ -1,0 +1,5 @@
+E:\SoftUni\3ti chas\Simple-Conditions\Excellent-or-Not\bin\Debug\Excellent-or-Not.exe.config
+E:\SoftUni\3ti chas\Simple-Conditions\Excellent-or-Not\bin\Debug\Excellent-or-Not.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Excellent-or-Not\bin\Debug\Excellent-or-Not.pdb
+E:\SoftUni\3ti chas\Simple-Conditions\Excellent-or-Not\obj\Debug\Excellent-or-Not.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Excellent-or-Not\obj\Debug\Excellent-or-Not.pdb

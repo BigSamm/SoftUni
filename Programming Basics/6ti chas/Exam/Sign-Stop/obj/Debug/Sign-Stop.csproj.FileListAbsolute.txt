@@ -1,0 +1,6 @@
+E:\SoftUni\6ti chas\Exam\Sign-Stop\bin\Debug\Sign-Stop.exe.config
+E:\SoftUni\6ti chas\Exam\Sign-Stop\bin\Debug\Sign-Stop.exe
+E:\SoftUni\6ti chas\Exam\Sign-Stop\bin\Debug\Sign-Stop.pdb
+E:\SoftUni\6ti chas\Exam\Sign-Stop\obj\Debug\Sign-Stop.csprojResolveAssemblyReference.cache
+E:\SoftUni\6ti chas\Exam\Sign-Stop\obj\Debug\Sign-Stop.exe
+E:\SoftUni\6ti chas\Exam\Sign-Stop\obj\Debug\Sign-Stop.pdb

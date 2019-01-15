@@ -1,0 +1,6 @@
+E:\SoftUni\6ti chas\Draw-with-Loops\09-House\bin\Debug\09-House.exe.config
+E:\SoftUni\6ti chas\Draw-with-Loops\09-House\bin\Debug\09-House.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\09-House\bin\Debug\09-House.pdb
+E:\SoftUni\6ti chas\Draw-with-Loops\09-House\obj\Debug\09-House.csprojResolveAssemblyReference.cache
+E:\SoftUni\6ti chas\Draw-with-Loops\09-House\obj\Debug\09-House.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\09-House\obj\Debug\09-House.pdb

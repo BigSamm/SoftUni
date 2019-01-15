@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\04.MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\04.MaxSequenceOfEqualElements.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\04.MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\04.MaxSequenceOfEqualElements.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\04.MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\04.MaxSequenceOfEqualElements.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\04.MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\04.MaxSequenceOfEqualElements.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\04.MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\04.MaxSequenceOfEqualElements.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\04.MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\04.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\04.MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\04.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\04.MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\04.MaxSequenceOfEqualElements.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\04.MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\04.MaxSequenceOfEqualElements.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\04.MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\04.MaxSequenceOfEqualElements.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\04.MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\04.MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\05. Match Numbers\bin\Debug\_05.Match_Numbers.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\05. Match Numbers\bin\Debug\_05.Match_Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\05. Match Numbers\bin\Debug\_05.Match_Numbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\05. Match Numbers\obj\Debug\05. Match Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\05. Match Numbers\obj\Debug\_05.Match_Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Regex\Regex\05. Match Numbers\obj\Debug\_05.Match_Numbers.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\Exam - 20 November 2016\Exam\06-Max-Combination\bin\Debug\06-Max-Combination.exe.config
+E:\SoftUni\Exam - 20 November 2016\Exam\06-Max-Combination\bin\Debug\06-Max-Combination.exe
+E:\SoftUni\Exam - 20 November 2016\Exam\06-Max-Combination\bin\Debug\06-Max-Combination.pdb
+E:\SoftUni\Exam - 20 November 2016\Exam\06-Max-Combination\obj\Debug\06-Max-Combination.csprojResolveAssemblyReference.cache
+E:\SoftUni\Exam - 20 November 2016\Exam\06-Max-Combination\obj\Debug\06-Max-Combination.exe
+E:\SoftUni\Exam - 20 November 2016\Exam\06-Max-Combination\obj\Debug\06-Max-Combination.pdb

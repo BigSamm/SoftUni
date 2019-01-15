@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\02.High_Quality_Mistakes\bin\Debug\netcoreapp2.0\02.High_Quality_Mistakes.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\02.High_Quality_Mistakes\bin\Debug\netcoreapp2.0\02.High_Quality_Mistakes.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\02.High_Quality_Mistakes\bin\Debug\netcoreapp2.0\02.High_Quality_Mistakes.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\02.High_Quality_Mistakes\bin\Debug\netcoreapp2.0\02.High_Quality_Mistakes.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\02.High_Quality_Mistakes\bin\Debug\netcoreapp2.0\02.High_Quality_Mistakes.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\02.High_Quality_Mistakes\obj\Debug\netcoreapp2.0\02.High_Quality_Mistakes.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\02.High_Quality_Mistakes\obj\Debug\netcoreapp2.0\02.High_Quality_Mistakes.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\02.High_Quality_Mistakes\obj\Debug\netcoreapp2.0\02.High_Quality_Mistakes.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\02.High_Quality_Mistakes\obj\Debug\netcoreapp2.0\02.High_Quality_Mistakes.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\02.High_Quality_Mistakes\obj\Debug\netcoreapp2.0\02.High_Quality_Mistakes.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Reflection and Attributes\Reflection and Attributes\02.High_Quality_Mistakes\obj\Debug\netcoreapp2.0\02.High_Quality_Mistakes.pdb

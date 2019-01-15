@@ -1,0 +1,6 @@
+E:\SoftUni\4ti chas\Complex-Conditions\11-Cinema\bin\Debug\11-Cinema.exe.config
+E:\SoftUni\4ti chas\Complex-Conditions\11-Cinema\obj\Debug\11-Cinema.csprojResolveAssemblyReference.cache
+E:\SoftUni\4ti chas\Complex-Conditions\11-Cinema\bin\Debug\11-Cinema.exe
+E:\SoftUni\4ti chas\Complex-Conditions\11-Cinema\bin\Debug\11-Cinema.pdb
+E:\SoftUni\4ti chas\Complex-Conditions\11-Cinema\obj\Debug\11-Cinema.exe
+E:\SoftUni\4ti chas\Complex-Conditions\11-Cinema\obj\Debug\11-Cinema.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\04-Numbers-in-Reversed-Orde\bin\Debug\04-Numbers-in-Reversed-Orde.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\04-Numbers-in-Reversed-Orde\bin\Debug\04-Numbers-in-Reversed-Orde.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\04-Numbers-in-Reversed-Orde\bin\Debug\04-Numbers-in-Reversed-Orde.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\04-Numbers-in-Reversed-Orde\obj\Debug\04-Numbers-in-Reversed-Orde.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\04-Numbers-in-Reversed-Orde\obj\Debug\04-Numbers-in-Reversed-Orde.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\04-Numbers-in-Reversed-Orde\obj\Debug\04-Numbers-in-Reversed-Orde.csprojResolveAssemblyReference.cache

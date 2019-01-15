@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\04. Split by Word Casing\obj\Debug\04. Split by Word Casing.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\04. Split by Word Casing\obj\Debug\_04.Split_by_Word_Casing.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\04. Split by Word Casing\obj\Debug\_04.Split_by_Word_Casing.pdb

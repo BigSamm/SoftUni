@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam Retake 5 September 2017\solution\bin\Debug\netcoreapp2.0\GrandPrix_20180315.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam Retake 5 September 2017\solution\bin\Debug\netcoreapp2.0\GrandPrix_20180315.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam Retake 5 September 2017\solution\bin\Debug\netcoreapp2.0\GrandPrix_20180315.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam Retake 5 September 2017\solution\bin\Debug\netcoreapp2.0\GrandPrix_20180315.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam Retake 5 September 2017\solution\bin\Debug\netcoreapp2.0\GrandPrix_20180315.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam Retake 5 September 2017\solution\obj\Debug\netcoreapp2.0\GrandPrix_20180315.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam Retake 5 September 2017\solution\obj\Debug\netcoreapp2.0\GrandPrix_20180315.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam Retake 5 September 2017\solution\obj\Debug\netcoreapp2.0\GrandPrix_20180315.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam Retake 5 September 2017\solution\obj\Debug\netcoreapp2.0\GrandPrix_20180315.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam Retake 5 September 2017\solution\obj\Debug\netcoreapp2.0\GrandPrix_20180315.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Exam Retake 5 September 2017\solution\obj\Debug\netcoreapp2.0\GrandPrix_20180315.pdb

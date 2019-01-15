@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\02-Choose-a-Drink-2.0\bin\Debug\02-Choose-a-Drink-2.0.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\02-Choose-a-Drink-2.0\bin\Debug\02-Choose-a-Drink-2.0.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\02-Choose-a-Drink-2.0\bin\Debug\02-Choose-a-Drink-2.0.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\02-Choose-a-Drink-2.0\obj\Debug\02-Choose-a-Drink-2.0.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\01-Choose-a-Drink\02-Choose-a-Drink-2.0\obj\Debug\02-Choose-a-Drink-2.0.pdb

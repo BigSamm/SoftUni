@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\05-BPM-Counter\bin\Debug\05-BPM-Counter.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\05-BPM-Counter\bin\Debug\05-BPM-Counter.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\05-BPM-Counter\bin\Debug\05-BPM-Counter.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\05-BPM-Counter\obj\Debug\05-BPM-Counter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\05-BPM-Counter\obj\Debug\05-BPM-Counter.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\C# Basics - More Exercises\01-X\05-BPM-Counter\obj\Debug\05-BPM-Counter.pdb

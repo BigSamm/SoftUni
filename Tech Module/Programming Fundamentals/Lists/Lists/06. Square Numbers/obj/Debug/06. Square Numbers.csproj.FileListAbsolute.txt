@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\06. Square Numbers\bin\Debug\_06.Square_Numbers.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\06. Square Numbers\bin\Debug\_06.Square_Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\06. Square Numbers\bin\Debug\_06.Square_Numbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\06. Square Numbers\obj\Debug\06. Square Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\06. Square Numbers\obj\Debug\_06.Square_Numbers.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Lists\Lists\06. Square Numbers\obj\Debug\_06.Square_Numbers.pdb

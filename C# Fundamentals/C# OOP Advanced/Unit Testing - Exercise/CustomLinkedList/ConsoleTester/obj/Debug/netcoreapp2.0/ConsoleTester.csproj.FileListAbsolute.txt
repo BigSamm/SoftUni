@@ -1,0 +1,14 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\ConsoleTester\bin\Debug\netcoreapp2.0\ConsoleTester.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\ConsoleTester\bin\Debug\netcoreapp2.0\ConsoleTester.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\ConsoleTester\bin\Debug\netcoreapp2.0\ConsoleTester.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\ConsoleTester\bin\Debug\netcoreapp2.0\ConsoleTester.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\ConsoleTester\bin\Debug\netcoreapp2.0\ConsoleTester.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\ConsoleTester\bin\Debug\netcoreapp2.0\CustomLinkedList.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\ConsoleTester\bin\Debug\netcoreapp2.0\CustomLinkedList.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\ConsoleTester\obj\Debug\netcoreapp2.0\ConsoleTester.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\ConsoleTester\obj\Debug\netcoreapp2.0\ConsoleTester.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\ConsoleTester\obj\Debug\netcoreapp2.0\ConsoleTester.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\ConsoleTester\obj\Debug\netcoreapp2.0\ConsoleTester.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\ConsoleTester\obj\Debug\netcoreapp2.0\ConsoleTester.csproj.CopyComplete
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\ConsoleTester\obj\Debug\netcoreapp2.0\ConsoleTester.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\CustomLinkedList\ConsoleTester\obj\Debug\netcoreapp2.0\ConsoleTester.pdb

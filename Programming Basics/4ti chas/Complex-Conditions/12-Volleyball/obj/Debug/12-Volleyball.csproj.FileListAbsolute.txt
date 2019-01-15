@@ -1,0 +1,6 @@
+E:\SoftUni\4ti chas\Complex-Conditions\12-Volleyball\bin\Debug\12-Volleyball.exe.config
+E:\SoftUni\4ti chas\Complex-Conditions\12-Volleyball\bin\Debug\12-Volleyball.exe
+E:\SoftUni\4ti chas\Complex-Conditions\12-Volleyball\bin\Debug\12-Volleyball.pdb
+E:\SoftUni\4ti chas\Complex-Conditions\12-Volleyball\obj\Debug\12-Volleyball.csprojResolveAssemblyReference.cache
+E:\SoftUni\4ti chas\Complex-Conditions\12-Volleyball\obj\Debug\12-Volleyball.exe
+E:\SoftUni\4ti chas\Complex-Conditions\12-Volleyball\obj\Debug\12-Volleyball.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\1vi chas\KvadratOtZvezdichki\KvadratOtZvezdichki\bin\Debug\KvadratOtZvezdichki.exe.config
+E:\SoftUni\1vi chas\KvadratOtZvezdichki\KvadratOtZvezdichki\obj\Debug\KvadratOtZvezdichki.csprojResolveAssemblyReference.cache
+E:\SoftUni\1vi chas\KvadratOtZvezdichki\KvadratOtZvezdichki\bin\Debug\KvadratOtZvezdichki.exe
+E:\SoftUni\1vi chas\KvadratOtZvezdichki\KvadratOtZvezdichki\bin\Debug\KvadratOtZvezdichki.pdb
+E:\SoftUni\1vi chas\KvadratOtZvezdichki\KvadratOtZvezdichki\obj\Debug\KvadratOtZvezdichki.exe
+E:\SoftUni\1vi chas\KvadratOtZvezdichki\KvadratOtZvezdichki\obj\Debug\KvadratOtZvezdichki.pdb

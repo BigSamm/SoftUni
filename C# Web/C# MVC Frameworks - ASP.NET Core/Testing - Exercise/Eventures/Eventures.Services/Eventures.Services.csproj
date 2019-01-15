@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Eventures.Data\Eventures.Data.csproj" />
+    <ProjectReference Include="..\Eventures.Models\Eventures.Models.csproj" />
+    <ProjectReference Include="..\Eventures.ViewModels\Eventures.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

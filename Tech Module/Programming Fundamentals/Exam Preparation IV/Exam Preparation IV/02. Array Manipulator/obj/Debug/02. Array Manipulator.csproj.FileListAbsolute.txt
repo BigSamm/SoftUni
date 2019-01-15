@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\02. Array Manipulator\obj\Debug\02. Array Manipulator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\02. Array Manipulator\obj\Debug\_02.Array_Manipulator.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\02. Array Manipulator\obj\Debug\_02.Array_Manipulator.pdb

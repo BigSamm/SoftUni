@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Service Estimate</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+          integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+</head>
+<body>
+
+<header>
+    <h1><span>Basic</span> calculated fields sample.</h1>
+</header>
+
+<main>
+    <form action="get">
+        <section class="distance">
+            <h2>Distance (mi) *</h2>
+            <input type="text" name="distance" placeholder="Enter Distance">
+        </section>
+
+        <section class="weightNfragile">
+            <div class="weight">
+                <h2>Weight (lb)</h2>
+                <input type="text" name="weight" placeholder="Enter Weight">
+            </div>
+            <div class="fragile">
+                <h2>Fragile</h2>
+                <label>
+                    <select name="fragile" id="fragile">
+                        <option value="Yes">Yes</option>
+                        <option value="No" selected>No</option>
+                    </select>
+                </label>
+            </div>
+        </section>
+
+        <section class="size">
+            <div class="length">
+                <h2>Length (in)</h2>
+                <input type="text" name="length" placeholder="Length">
+            </div>
+            <div class="height">
+                <h2>height (in)</h2>
+                <input type="text" name="height" placeholder="height">
+            </div>
+            <div class="width">
+                <h2>width (in)</h2>
+                <input type="text" name="width" placeholder="10">
+            </div>
+        </section>
+
+        <section class="extra-services">
+            <h2>Extra services:</h2>
+            <input type="radio" name="fragile" value="Insurance" checked>
+            <label>Insurance</label>
+            <input type="radio" name="fragile" value="Express Delivery">
+            <label>Express Delivery</label>
+        </section>
+
+        <section class="total">
+            <h2>total:</h2>
+            <h2>$ 00.00</h2>
+        </section>
+
+    </form>
+</main>
+
+</body>
+</html>

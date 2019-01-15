@@ -1,0 +1,5 @@
+E:\SoftUni\6ti chas\Exam\Draw-Fort\bin\Debug\Draw-Fort.exe.config
+E:\SoftUni\6ti chas\Exam\Draw-Fort\bin\Debug\Draw-Fort.exe
+E:\SoftUni\6ti chas\Exam\Draw-Fort\bin\Debug\Draw-Fort.pdb
+E:\SoftUni\6ti chas\Exam\Draw-Fort\obj\Debug\Draw-Fort.exe
+E:\SoftUni\6ti chas\Exam\Draw-Fort\obj\Debug\Draw-Fort.pdb

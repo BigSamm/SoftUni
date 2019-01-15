@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\01.Order_by_Age\bin\Debug\netcoreapp2.0\01.Order_by_Age.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\01.Order_by_Age\bin\Debug\netcoreapp2.0\01.Order_by_Age.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\01.Order_by_Age\bin\Debug\netcoreapp2.0\01.Order_by_Age.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\01.Order_by_Age\bin\Debug\netcoreapp2.0\01.Order_by_Age.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\01.Order_by_Age\bin\Debug\netcoreapp2.0\01.Order_by_Age.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\01.Order_by_Age\obj\Debug\netcoreapp2.0\01.Order_by_Age.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\01.Order_by_Age\obj\Debug\netcoreapp2.0\01.Order_by_Age.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\01.Order_by_Age\obj\Debug\netcoreapp2.0\01.Order_by_Age.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\01.Order_by_Age\obj\Debug\netcoreapp2.0\01.Order_by_Age.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\01.Order_by_Age\obj\Debug\netcoreapp2.0\01.Order_by_Age.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects, Classes, Files and Exceptions - More Exercises\project\01.Order_by_Age\obj\Debug\netcoreapp2.0\01.Order_by_Age.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\5ti chas\Loops\12-Equal-Pairs\bin\Debug\12-Equal-Pairs.exe.config
+E:\SoftUni\5ti chas\Loops\12-Equal-Pairs\obj\Debug\12-Equal-Pairs.csprojResolveAssemblyReference.cache
+E:\SoftUni\5ti chas\Loops\12-Equal-Pairs\bin\Debug\12-Equal-Pairs.exe
+E:\SoftUni\5ti chas\Loops\12-Equal-Pairs\bin\Debug\12-Equal-Pairs.pdb
+E:\SoftUni\5ti chas\Loops\12-Equal-Pairs\obj\Debug\12-Equal-Pairs.exe
+E:\SoftUni\5ti chas\Loops\12-Equal-Pairs\obj\Debug\12-Equal-Pairs.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\04.Shopping_Spree\bin\Debug\netcoreapp2.0\04.Shopping_Spree.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\04.Shopping_Spree\bin\Debug\netcoreapp2.0\04.Shopping_Spree.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\04.Shopping_Spree\bin\Debug\netcoreapp2.0\04.Shopping_Spree.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\04.Shopping_Spree\bin\Debug\netcoreapp2.0\04.Shopping_Spree.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\04.Shopping_Spree\bin\Debug\netcoreapp2.0\04.Shopping_Spree.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\04.Shopping_Spree\obj\Debug\netcoreapp2.0\04.Shopping_Spree.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\04.Shopping_Spree\obj\Debug\netcoreapp2.0\04.Shopping_Spree.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\04.Shopping_Spree\obj\Debug\netcoreapp2.0\04.Shopping_Spree.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\04.Shopping_Spree\obj\Debug\netcoreapp2.0\04.Shopping_Spree.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\04.Shopping_Spree\obj\Debug\netcoreapp2.0\04.Shopping_Spree.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\04.Shopping_Spree\obj\Debug\netcoreapp2.0\04.Shopping_Spree.pdb

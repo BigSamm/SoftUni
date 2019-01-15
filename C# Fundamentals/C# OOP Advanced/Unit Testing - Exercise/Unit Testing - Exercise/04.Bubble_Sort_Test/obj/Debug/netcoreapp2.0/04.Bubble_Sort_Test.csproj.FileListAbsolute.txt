@@ -1,0 +1,15 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\04.Bubble_Sort_Test\bin\Debug\netcoreapp2.0\04.Bubble_Sort_Test.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\04.Bubble_Sort_Test\bin\Debug\netcoreapp2.0\04.Bubble_Sort_Test.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\04.Bubble_Sort_Test\bin\Debug\netcoreapp2.0\04.Bubble_Sort_Test.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\04.Bubble_Sort_Test\bin\Debug\netcoreapp2.0\04.Bubble_Sort_Test.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\04.Bubble_Sort_Test\obj\Debug\netcoreapp2.0\04.Bubble_Sort_Test.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\04.Bubble_Sort_Test\obj\Debug\netcoreapp2.0\04.Bubble_Sort_Test.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\04.Bubble_Sort_Test\obj\Debug\netcoreapp2.0\04.Bubble_Sort_Test.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\04.Bubble_Sort_Test\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\04.Bubble_Sort_Test\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\04.Bubble_Sort_Test\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\04.Bubble_Sort_Test\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\04.Bubble_Sort_Test\obj\Debug\netcoreapp2.0\04.Bubble_Sort_Test.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\04.Bubble_Sort_Test\bin\Debug\netcoreapp2.0\04.Bubble_Sort_Test.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\04.Bubble_Sort_Test\obj\Debug\netcoreapp2.0\04.Bubble_Sort_Test.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Unit Testing - Exercise\Unit Testing - Exercise\04.Bubble_Sort_Test\obj\Debug\netcoreapp2.0\04.Bubble_Sort_Test.pdb

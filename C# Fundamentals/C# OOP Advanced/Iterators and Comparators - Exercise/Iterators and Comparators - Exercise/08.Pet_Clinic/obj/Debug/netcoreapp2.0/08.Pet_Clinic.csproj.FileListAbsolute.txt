@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\08.Pet_Clinic\bin\Debug\netcoreapp2.0\08.Pet_Clinic.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\08.Pet_Clinic\bin\Debug\netcoreapp2.0\08.Pet_Clinic.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\08.Pet_Clinic\bin\Debug\netcoreapp2.0\08.Pet_Clinic.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\08.Pet_Clinic\bin\Debug\netcoreapp2.0\08.Pet_Clinic.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\08.Pet_Clinic\bin\Debug\netcoreapp2.0\08.Pet_Clinic.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\08.Pet_Clinic\obj\Debug\netcoreapp2.0\08.Pet_Clinic.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\08.Pet_Clinic\obj\Debug\netcoreapp2.0\08.Pet_Clinic.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\08.Pet_Clinic\obj\Debug\netcoreapp2.0\08.Pet_Clinic.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\08.Pet_Clinic\obj\Debug\netcoreapp2.0\08.Pet_Clinic.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\08.Pet_Clinic\obj\Debug\netcoreapp2.0\08.Pet_Clinic.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\08.Pet_Clinic\obj\Debug\netcoreapp2.0\08.Pet_Clinic.pdb

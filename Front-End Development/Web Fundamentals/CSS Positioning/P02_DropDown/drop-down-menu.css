@@ -1,0 +1,42 @@
+@import "http://fonts.googleapis.com/css?family=Open+Sans";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 22px;
+    background: #1d211e;
+    color: white;
+}
+
+ul {
+    background: #e67c1f;
+}
+
+li {
+    list-style: none;
+}
+
+.first {
+    width: 99%;
+    margin: 50px auto;
+    height: 60px;
+    text-align: center;
+}
+.first li {
+    display: inline-block;
+    padding: 15px 15px;
+}
+.second {
+    display: none;
+}
+.third li {
+    display: none;
+}
+
+.first-drop-down:hover .second {
+    display: block;
+}

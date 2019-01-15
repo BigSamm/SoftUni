@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\11-String-Concatenation\bin\Debug\11-String-Concatenation.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\11-String-Concatenation\bin\Debug\11-String-Concatenation.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\11-String-Concatenation\bin\Debug\11-String-Concatenation.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\11-String-Concatenation\obj\Debug\11-String-Concatenation.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\11-String-Concatenation\obj\Debug\11-String-Concatenation.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\11-String-Concatenation\obj\Debug\11-String-Concatenation.pdb

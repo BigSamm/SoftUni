@@ -1,0 +1,5 @@
+E:\SoftUni\Exam - 20 November 2016\Exam\02-Flower-Shop\bin\Debug\02-Flower-Shop.exe.config
+E:\SoftUni\Exam - 20 November 2016\Exam\02-Flower-Shop\bin\Debug\02-Flower-Shop.exe
+E:\SoftUni\Exam - 20 November 2016\Exam\02-Flower-Shop\bin\Debug\02-Flower-Shop.pdb
+E:\SoftUni\Exam - 20 November 2016\Exam\02-Flower-Shop\obj\Debug\02-Flower-Shop.exe
+E:\SoftUni\Exam - 20 November 2016\Exam\02-Flower-Shop\obj\Debug\02-Flower-Shop.pdb

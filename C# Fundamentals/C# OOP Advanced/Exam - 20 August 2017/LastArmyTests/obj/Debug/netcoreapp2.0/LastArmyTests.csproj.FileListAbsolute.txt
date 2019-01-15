@@ -1,0 +1,10 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 20 August 2017\LastArmyTests\bin\Debug\netcoreapp2.0\LastArmyTests.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 20 August 2017\LastArmyTests\bin\Debug\netcoreapp2.0\LastArmyTests.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 20 August 2017\LastArmyTests\obj\Debug\netcoreapp2.0\LastArmyTests.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 20 August 2017\LastArmyTests\obj\Debug\netcoreapp2.0\LastArmyTests.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 20 August 2017\LastArmyTests\obj\Debug\netcoreapp2.0\LastArmyTests.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 20 August 2017\LastArmyTests\obj\Debug\netcoreapp2.0\LastArmyTests.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 20 August 2017\LastArmyTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 20 August 2017\LastArmyTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 20 August 2017\LastArmyTests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam - 20 August 2017\LastArmyTests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll

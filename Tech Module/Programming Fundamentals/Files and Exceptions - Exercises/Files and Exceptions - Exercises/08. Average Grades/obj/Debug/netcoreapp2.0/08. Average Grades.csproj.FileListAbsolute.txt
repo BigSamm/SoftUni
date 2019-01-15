@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\08. Average Grades\bin\Debug\netcoreapp2.0\08. Average Grades.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\08. Average Grades\bin\Debug\netcoreapp2.0\08. Average Grades.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\08. Average Grades\bin\Debug\netcoreapp2.0\08. Average Grades.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\08. Average Grades\bin\Debug\netcoreapp2.0\08. Average Grades.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\08. Average Grades\bin\Debug\netcoreapp2.0\08. Average Grades.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\08. Average Grades\obj\Debug\netcoreapp2.0\08. Average Grades.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\08. Average Grades\obj\Debug\netcoreapp2.0\08. Average Grades.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\08. Average Grades\obj\Debug\netcoreapp2.0\08. Average Grades.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\08. Average Grades\obj\Debug\netcoreapp2.0\08. Average Grades.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\08. Average Grades\obj\Debug\netcoreapp2.0\08. Average Grades.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\Files and Exceptions - Exercises\Files and Exceptions - Exercises\08. Average Grades\obj\Debug\netcoreapp2.0\08. Average Grades.pdb

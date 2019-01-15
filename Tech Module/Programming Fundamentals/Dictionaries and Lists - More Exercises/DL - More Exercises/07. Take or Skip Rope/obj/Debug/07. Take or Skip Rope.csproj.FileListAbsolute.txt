@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\07. Take or Skip Rope\bin\Debug\_07.Take_or_Skip_Rope.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\07. Take or Skip Rope\bin\Debug\_07.Take_or_Skip_Rope.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\07. Take or Skip Rope\bin\Debug\_07.Take_or_Skip_Rope.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\07. Take or Skip Rope\obj\Debug\07. Take or Skip Rope.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\07. Take or Skip Rope\obj\Debug\_07.Take_or_Skip_Rope.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\07. Take or Skip Rope\obj\Debug\_07.Take_or_Skip_Rope.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\10-Sum-of-Chars\bin\Debug\10-Sum-of-Chars.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\10-Sum-of-Chars\bin\Debug\10-Sum-of-Chars.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\10-Sum-of-Chars\bin\Debug\10-Sum-of-Chars.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\10-Sum-of-Chars\obj\Debug\10-Sum-of-Chars.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\10-Sum-of-Chars\obj\Debug\10-Sum-of-Chars.pdb

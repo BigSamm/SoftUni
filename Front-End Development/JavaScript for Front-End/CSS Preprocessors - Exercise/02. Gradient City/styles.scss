@@ -1,0 +1,153 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+$main-color: #808080;
+$borders: 2px double $main-color;
+
+$purple: #320132;
+$light-purple: #FEEEFE;
+$blue: #0202B0;
+$light-blue: #EEEEFF;
+$green: #043204;
+$light-green: #F0FFF0;
+$yellow: #F5F500;
+$light-yellow: #FFFFDD;
+$orange: #EB9203;
+$light-orange: #FFFFDD;
+$red: #CC0000;
+$light-red: #FEE3E3;
+
+@mixin gradients {
+
+}
+@mixin subtitle-decoration {
+  text-align: center;
+  color: $main-color;
+  text-decoration: underline;
+  font-size: 20px;
+  font-weight: normal;
+  margin: 20px 0;
+  }
+@mixin h3-decoration {
+  color: $main-color;
+  font-size: 16px;
+  text-align: center;
+  font-weight: normal;
+  margin: 20px 0;
+}
+@mixin articles() {
+  border: 1px solid $main-color;
+  width: 95%;
+  margin: 20px auto;
+}
+@mixin  gradient-colors($direction) {
+  .purple { background: linear-gradient(to $direction, $purple, $light-purple); }
+  .blue { background: linear-gradient(to $direction, $blue, $light-blue); }
+  .green { background: linear-gradient(to $direction, $green, $light-green) }
+  .yellow { background: linear-gradient(to $direction, $yellow, $light-yellow) }
+  .orange { background: linear-gradient(to $direction, $orange, $light-orange) }
+  .red { background: linear-gradient(to $direction, $red, $light-red) }
+}
+
+body {
+  background: linear-gradient(to bottom, $main-color, white);
+  #wrapper {
+    border: $borders;
+    width: 90%;
+    margin: 0 auto;
+    background: white;
+    & > header {
+      border: $borders;
+      margin: 20px;
+      h1 {
+        color: $main-color;
+        text-align: center;
+        font-size: 50px;
+        margin: 20px 0;
+      }
+      nav {
+        width: 55%;
+        margin: 0 auto;
+        ul {
+          display: flex;
+          justify-content: space-around;
+          margin: 20px 0;
+        }
+        li {
+          border: $borders;
+          list-style: none;
+          width: 100px;
+          height: 40px;
+          text-align: center;
+          line-height: 40px;
+          a {
+            text-decoration: none;
+            color: $main-color;
+          }
+        }
+        li:hover {
+          background: linear-gradient(to bottom, $main-color, white);
+          a {
+            color: white;
+          }
+        }
+      }
+    }
+
+    & > section {
+      border: $borders;
+      margin: 20px;
+      header h1 {
+        @include subtitle-decoration();
+      }
+      article {
+        @include articles();
+        h2 {
+          @include h3-decoration();
+        }
+        div.innerContainer {
+          width: 752px;
+          margin: 20px auto;
+          text-align: center;
+          & > div {
+            width: 120px;
+            height: 120px;
+            display: inline-block;
+            margin: -2px;
+            border-radius: 20px;
+          }
+        }
+      }
+      article:nth-of-type(1) { @include gradient-colors(bottom); }
+      article:nth-of-type(2) { @include gradient-colors(right); }
+      article:nth-of-type(3) { @include gradient-colors(right bottom); }
+    }
+    & > section.radial div {
+      .purple { background: radial-gradient($purple, $light-purple); }
+      .blue { background: radial-gradient($blue, $light-blue); }
+      .green { background: radial-gradient($green, $light-green) }
+      .yellow { background: radial-gradient(yellow, $light-yellow) }
+      .orange { background: radial-gradient($orange, $light-orange) }
+      .red { background: radial-gradient($red, $light-red) }
+    }
+
+    footer {
+      border: $borders;
+      margin: 20px;
+      h3 {
+        @include subtitle-decoration();
+      }
+      ul li {
+        @include h3-decoration();
+        list-style: none;
+        a {
+          color: $main-color;
+          text-decoration: none;
+        }
+      }
+    }
+
+  }
+}

@@ -1,0 +1,5 @@
+E:\SoftUni\5ti chas\Loops\03-Latin-Letters\bin\Debug\03-Latin-Letters.exe.config
+E:\SoftUni\5ti chas\Loops\03-Latin-Letters\bin\Debug\03-Latin-Letters.exe
+E:\SoftUni\5ti chas\Loops\03-Latin-Letters\bin\Debug\03-Latin-Letters.pdb
+E:\SoftUni\5ti chas\Loops\03-Latin-Letters\obj\Debug\03-Latin-Letters.exe
+E:\SoftUni\5ti chas\Loops\03-Latin-Letters\obj\Debug\03-Latin-Letters.pdb

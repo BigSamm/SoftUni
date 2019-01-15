@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\04-Variable-in-Hex-Format\bin\Debug\04-Variable-in-Hex-Format.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\04-Variable-in-Hex-Format\bin\Debug\04-Variable-in-Hex-Format.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\04-Variable-in-Hex-Format\bin\Debug\04-Variable-in-Hex-Format.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\04-Variable-in-Hex-Format\obj\Debug\04-Variable-in-Hex-Format.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\04-Variable-in-Hex-Format\obj\Debug\04-Variable-in-Hex-Format.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\06-Catch-the-Thief\bin\Debug\06-Catch-the-Thief.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\06-Catch-the-Thief\bin\Debug\06-Catch-the-Thief.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\06-Catch-the-Thief\bin\Debug\06-Catch-the-Thief.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\06-Catch-the-Thief\obj\Debug\06-Catch-the-Thief.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\06-Catch-the-Thief\obj\Debug\06-Catch-the-Thief.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\06-Catch-the-Thief\obj\Debug\06-Catch-the-Thief.pdb

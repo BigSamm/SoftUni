@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\07. Sales Report\bin\Debug\_07.Sales_Report.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\07. Sales Report\bin\Debug\_07.Sales_Report.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\07. Sales Report\bin\Debug\_07.Sales_Report.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\07. Sales Report\obj\Debug\07. Sales Report.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\07. Sales Report\obj\Debug\_07.Sales_Report.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Objects and Classes\Objects and Classes\07. Sales Report\obj\Debug\_07.Sales_Report.pdb

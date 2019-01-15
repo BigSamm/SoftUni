@@ -1,0 +1,16 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.Data.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.DataModels.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.DataModels.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csproj.CopyComplete
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\02.Kings_Gambit\bin\Debug\netcoreapp2.0\02.Kings_Gambit.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\02.Kings_Gambit\bin\Debug\netcoreapp2.0\02.Kings_Gambit.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\02.Kings_Gambit\bin\Debug\netcoreapp2.0\02.Kings_Gambit.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\02.Kings_Gambit\bin\Debug\netcoreapp2.0\02.Kings_Gambit.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\02.Kings_Gambit\bin\Debug\netcoreapp2.0\02.Kings_Gambit.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\02.Kings_Gambit\obj\Debug\netcoreapp2.0\02.Kings_Gambit.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\02.Kings_Gambit\obj\Debug\netcoreapp2.0\02.Kings_Gambit.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\02.Kings_Gambit\obj\Debug\netcoreapp2.0\02.Kings_Gambit.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\02.Kings_Gambit\obj\Debug\netcoreapp2.0\02.Kings_Gambit.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\02.Kings_Gambit\obj\Debug\netcoreapp2.0\02.Kings_Gambit.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events - Exercise\project\02.Kings_Gambit\obj\Debug\netcoreapp2.0\02.Kings_Gambit.pdb

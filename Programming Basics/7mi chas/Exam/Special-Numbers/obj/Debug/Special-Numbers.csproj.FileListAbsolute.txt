@@ -1,0 +1,6 @@
+E:\SoftUni\7mi chas\Exam\Special-Numbers\bin\Debug\Special-Numbers.exe.config
+E:\SoftUni\7mi chas\Exam\Special-Numbers\bin\Debug\Special-Numbers.exe
+E:\SoftUni\7mi chas\Exam\Special-Numbers\bin\Debug\Special-Numbers.pdb
+E:\SoftUni\7mi chas\Exam\Special-Numbers\obj\Debug\Special-Numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\7mi chas\Exam\Special-Numbers\obj\Debug\Special-Numbers.exe
+E:\SoftUni\7mi chas\Exam\Special-Numbers\obj\Debug\Special-Numbers.pdb

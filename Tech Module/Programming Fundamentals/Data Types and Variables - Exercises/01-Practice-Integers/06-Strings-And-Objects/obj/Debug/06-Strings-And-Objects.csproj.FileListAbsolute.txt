@@ -1,0 +1,5 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\06-Strings-And-Objects\bin\Debug\06-Strings-And-Objects.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\06-Strings-And-Objects\bin\Debug\06-Strings-And-Objects.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\06-Strings-And-Objects\bin\Debug\06-Strings-And-Objects.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\06-Strings-And-Objects\obj\Debug\06-Strings-And-Objects.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - Exercises\01-Practice-Integers\06-Strings-And-Objects\obj\Debug\06-Strings-And-Objects.pdb

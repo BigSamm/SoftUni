@@ -1,0 +1,45 @@
+﻿@model Chushka.ViewModels.Products.ProductBaseViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 class="text-center">Create Product</h1>
+<hr class="hr-2 bg-dark" />
+<form class="mx-auto half-width" method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" placeholder="Name..." />
+    </div>
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" type="number" min="0.01" step="0.01" class="form-control" placeholder="Price..." />
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control" placeholder="Description..." draggable="false" rows="5"></textarea>
+    </div>
+    <div class="form-group">
+        <h3 class="text-center">Product Type</h3>
+        <hr class="hr-2 bg-dark half-width" />
+        <div class="d-flex justify-content-around">
+            @{ var types = new[] { "Food", "Domestic", "Health", "Cosmetic", "Other" }; }
+            @foreach (string type in types)
+            {
+                <div class="col-md-2">
+                    <input asp-for="Type" type="radio" value="@type" />
+                    <label asp-for="Type">@type</label>
+                </div>
+            }
+        </div>
+        <hr class="hr-2 bg-dark half-width" />
+    </div>
+    <div class="button-holder d-flex justify-content-center">
+        <button type="submit" class="btn chushka-bg-color">Create</button>
+    </div>
+</form>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

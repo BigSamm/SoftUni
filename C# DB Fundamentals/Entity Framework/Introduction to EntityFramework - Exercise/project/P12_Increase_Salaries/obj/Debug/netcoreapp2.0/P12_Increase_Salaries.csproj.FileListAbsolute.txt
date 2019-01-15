@@ -1,0 +1,14 @@
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P12_Increase_Salaries\bin\Debug\netcoreapp2.0\P12_Increase_Salaries.deps.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P12_Increase_Salaries\bin\Debug\netcoreapp2.0\P12_Increase_Salaries.runtimeconfig.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P12_Increase_Salaries\bin\Debug\netcoreapp2.0\P12_Increase_Salaries.runtimeconfig.dev.json
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P12_Increase_Salaries\bin\Debug\netcoreapp2.0\P12_Increase_Salaries.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P12_Increase_Salaries\bin\Debug\netcoreapp2.0\P12_Increase_Salaries.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P12_Increase_Salaries\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P12_Increase_Salaries\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P12_Increase_Salaries\obj\Debug\netcoreapp2.0\P12_Increase_Salaries.csprojAssemblyReference.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P12_Increase_Salaries\obj\Debug\netcoreapp2.0\P12_Increase_Salaries.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P12_Increase_Salaries\obj\Debug\netcoreapp2.0\P12_Increase_Salaries.AssemblyInfoInputs.cache
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P12_Increase_Salaries\obj\Debug\netcoreapp2.0\P12_Increase_Salaries.AssemblyInfo.cs
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P12_Increase_Salaries\obj\Debug\netcoreapp2.0\P12_Increase_Salaries.csproj.CopyComplete
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P12_Increase_Salaries\obj\Debug\netcoreapp2.0\P12_Increase_Salaries.dll
+D:\SoftUni\C# DB Fundamentals\Entity Framework\Introduction to EntityFramework - Exercise\project\P12_Increase_Salaries\obj\Debug\netcoreapp2.0\P12_Increase_Salaries.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\03-English-Name-of-LastDigit\bin\Debug\03-English-Name-of-LastDigit.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\03-English-Name-of-LastDigit\bin\Debug\03-English-Name-of-LastDigit.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\03-English-Name-of-LastDigit\bin\Debug\03-English-Name-of-LastDigit.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\03-English-Name-of-LastDigit\obj\Debug\03-English-Name-of-LastDigit.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\03-English-Name-of-LastDigit\obj\Debug\03-English-Name-of-LastDigit.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Methods. Debugging and Troubleshooting Code - Exercises\01-Hello,-Name!\03-English-Name-of-LastDigit\obj\Debug\03-English-Name-of-LastDigit.pdb

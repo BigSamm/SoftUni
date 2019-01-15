@@ -1,0 +1,5 @@
+E:\SoftUni\8mi chas\Exam 28 August 2016\04-Hospital\bin\Debug\04-Hospital.exe.config
+E:\SoftUni\8mi chas\Exam 28 August 2016\04-Hospital\bin\Debug\04-Hospital.exe
+E:\SoftUni\8mi chas\Exam 28 August 2016\04-Hospital\bin\Debug\04-Hospital.pdb
+E:\SoftUni\8mi chas\Exam 28 August 2016\04-Hospital\obj\Debug\04-Hospital.exe
+E:\SoftUni\8mi chas\Exam 28 August 2016\04-Hospital\obj\Debug\04-Hospital.pdb

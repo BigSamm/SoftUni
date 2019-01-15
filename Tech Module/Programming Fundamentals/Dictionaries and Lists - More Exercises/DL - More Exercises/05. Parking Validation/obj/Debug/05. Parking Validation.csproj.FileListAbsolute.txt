@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\05. Parking Validation\bin\Debug\_05.Parking_Validation.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\05. Parking Validation\bin\Debug\_05.Parking_Validation.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\05. Parking Validation\bin\Debug\_05.Parking_Validation.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\05. Parking Validation\obj\Debug\05. Parking Validation.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\05. Parking Validation\obj\Debug\_05.Parking_Validation.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\05. Parking Validation\obj\Debug\_05.Parking_Validation.pdb

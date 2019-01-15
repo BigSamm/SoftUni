@@ -1,0 +1,5 @@
+E:\SoftUni\6ti chas\Draw-with-Loops\03-Square-of-Stars\bin\Debug\03-Square-of-Stars.exe.config
+E:\SoftUni\6ti chas\Draw-with-Loops\03-Square-of-Stars\bin\Debug\03-Square-of-Stars.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\03-Square-of-Stars\bin\Debug\03-Square-of-Stars.pdb
+E:\SoftUni\6ti chas\Draw-with-Loops\03-Square-of-Stars\obj\Debug\03-Square-of-Stars.exe
+E:\SoftUni\6ti chas\Draw-with-Loops\03-Square-of-Stars\obj\Debug\03-Square-of-Stars.pdb

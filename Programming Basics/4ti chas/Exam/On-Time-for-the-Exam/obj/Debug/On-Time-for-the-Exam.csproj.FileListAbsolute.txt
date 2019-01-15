@@ -1,0 +1,6 @@
+E:\SoftUni\4ti chas\Exam\On-Time-for-the-Exam\bin\Debug\On-Time-for-the-Exam.exe.config
+E:\SoftUni\4ti chas\Exam\On-Time-for-the-Exam\obj\Debug\On-Time-for-the-Exam.csprojResolveAssemblyReference.cache
+E:\SoftUni\4ti chas\Exam\On-Time-for-the-Exam\bin\Debug\On-Time-for-the-Exam.exe
+E:\SoftUni\4ti chas\Exam\On-Time-for-the-Exam\bin\Debug\On-Time-for-the-Exam.pdb
+E:\SoftUni\4ti chas\Exam\On-Time-for-the-Exam\obj\Debug\On-Time-for-the-Exam.exe
+E:\SoftUni\4ti chas\Exam\On-Time-for-the-Exam\obj\Debug\On-Time-for-the-Exam.pdb

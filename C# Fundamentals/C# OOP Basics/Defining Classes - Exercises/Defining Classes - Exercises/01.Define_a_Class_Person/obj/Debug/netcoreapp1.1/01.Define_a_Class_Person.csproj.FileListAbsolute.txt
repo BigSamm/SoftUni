@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\01.Define_a_Class_Person\bin\Debug\netcoreapp1.1\01.Define_a_Class_Person.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\01.Define_a_Class_Person\bin\Debug\netcoreapp1.1\01.Define_a_Class_Person.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\01.Define_a_Class_Person\bin\Debug\netcoreapp1.1\01.Define_a_Class_Person.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\01.Define_a_Class_Person\bin\Debug\netcoreapp1.1\01.Define_a_Class_Person.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\01.Define_a_Class_Person\bin\Debug\netcoreapp1.1\01.Define_a_Class_Person.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\01.Define_a_Class_Person\obj\Debug\netcoreapp1.1\01.Define_a_Class_Person.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\01.Define_a_Class_Person\obj\Debug\netcoreapp1.1\01.Define_a_Class_Person.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\01.Define_a_Class_Person\obj\Debug\netcoreapp1.1\01.Define_a_Class_Person.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\01.Define_a_Class_Person\obj\Debug\netcoreapp1.1\01.Define_a_Class_Person.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\01.Define_a_Class_Person\obj\Debug\netcoreapp1.1\01.Define_a_Class_Person.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\01.Define_a_Class_Person\obj\Debug\netcoreapp1.1\01.Define_a_Class_Person.csprojResolveAssemblyReference.cache

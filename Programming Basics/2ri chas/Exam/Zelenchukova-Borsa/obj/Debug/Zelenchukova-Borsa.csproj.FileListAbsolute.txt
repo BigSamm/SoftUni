@@ -1,0 +1,5 @@
+E:\SoftUni\2ri chas\Exam\Zelenchukova-Borsa\bin\Debug\Zelenchukova-Borsa.exe.config
+E:\SoftUni\2ri chas\Exam\Zelenchukova-Borsa\bin\Debug\Zelenchukova-Borsa.exe
+E:\SoftUni\2ri chas\Exam\Zelenchukova-Borsa\bin\Debug\Zelenchukova-Borsa.pdb
+E:\SoftUni\2ri chas\Exam\Zelenchukova-Borsa\obj\Debug\Zelenchukova-Borsa.exe
+E:\SoftUni\2ri chas\Exam\Zelenchukova-Borsa\obj\Debug\Zelenchukova-Borsa.pdb

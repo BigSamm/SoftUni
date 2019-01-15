@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\06. Byte Flip\bin\Debug\_06.Byte_Flip.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\06. Byte Flip\bin\Debug\_06.Byte_Flip.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\06. Byte Flip\bin\Debug\_06.Byte_Flip.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\06. Byte Flip\obj\Debug\_06.Byte_Flip.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\06. Byte Flip\obj\Debug\_06.Byte_Flip.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries and Lists - More Exercises\DL - More Exercises\06. Byte Flip\obj\Debug\06. Byte Flip.csprojResolveAssemblyReference.cache

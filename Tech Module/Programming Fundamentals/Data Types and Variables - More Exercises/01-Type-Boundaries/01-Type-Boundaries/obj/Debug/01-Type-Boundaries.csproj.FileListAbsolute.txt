@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\01-Type-Boundaries\bin\Debug\01-Type-Boundaries.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\01-Type-Boundaries\bin\Debug\01-Type-Boundaries.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\01-Type-Boundaries\bin\Debug\01-Type-Boundaries.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\01-Type-Boundaries\obj\Debug\01-Type-Boundaries.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\01-Type-Boundaries\obj\Debug\01-Type-Boundaries.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Data Types and Variables - More Exercises\01-Type-Boundaries\01-Type-Boundaries\obj\Debug\01-Type-Boundaries.pdb

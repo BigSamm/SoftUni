@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.exe.config
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\06. Fold and Sum\obj\Debug\06. Fold and Sum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\06. Fold and Sum\obj\Debug\_06.Fold_and_Sum.exe
+D:\SoftUni\Tech Module\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DLL\06. Fold and Sum\obj\Debug\_06.Fold_and_Sum.pdb

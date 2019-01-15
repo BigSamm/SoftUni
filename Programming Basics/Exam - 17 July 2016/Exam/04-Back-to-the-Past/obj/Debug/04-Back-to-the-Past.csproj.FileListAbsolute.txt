@@ -1,0 +1,6 @@
+E:\SoftUni\Exam - 17 July 2016\Exam\04-Back-to-the-Past\bin\Debug\04-Back-to-the-Past.exe.config
+E:\SoftUni\Exam - 17 July 2016\Exam\04-Back-to-the-Past\obj\Debug\04-Back-to-the-Past.csprojResolveAssemblyReference.cache
+E:\SoftUni\Exam - 17 July 2016\Exam\04-Back-to-the-Past\bin\Debug\04-Back-to-the-Past.exe
+E:\SoftUni\Exam - 17 July 2016\Exam\04-Back-to-the-Past\bin\Debug\04-Back-to-the-Past.pdb
+E:\SoftUni\Exam - 17 July 2016\Exam\04-Back-to-the-Past\obj\Debug\04-Back-to-the-Past.exe
+E:\SoftUni\Exam - 17 July 2016\Exam\04-Back-to-the-Past\obj\Debug\04-Back-to-the-Past.pdb

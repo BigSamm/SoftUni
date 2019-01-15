@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\15.Drawing_Tool\bin\Debug\netcoreapp2.0\15.Drawing_Tool.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\15.Drawing_Tool\bin\Debug\netcoreapp2.0\15.Drawing_Tool.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\15.Drawing_Tool\bin\Debug\netcoreapp2.0\15.Drawing_Tool.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\15.Drawing_Tool\bin\Debug\netcoreapp2.0\15.Drawing_Tool.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\15.Drawing_Tool\bin\Debug\netcoreapp2.0\15.Drawing_Tool.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\15.Drawing_Tool\obj\Debug\netcoreapp2.0\15.Drawing_Tool.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\15.Drawing_Tool\obj\Debug\netcoreapp2.0\15.Drawing_Tool.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\15.Drawing_Tool\obj\Debug\netcoreapp2.0\15.Drawing_Tool.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\15.Drawing_Tool\obj\Debug\netcoreapp2.0\15.Drawing_Tool.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\15.Drawing_Tool\obj\Debug\netcoreapp2.0\15.Drawing_Tool.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Defining Classes - Exercises\Defining Classes - Exercises\15.Drawing_Tool\obj\Debug\netcoreapp2.0\15.Drawing_Tool.csprojResolveAssemblyReference.cache

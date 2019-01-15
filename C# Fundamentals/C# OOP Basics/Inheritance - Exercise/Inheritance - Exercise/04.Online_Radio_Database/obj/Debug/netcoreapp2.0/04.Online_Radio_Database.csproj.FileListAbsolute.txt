@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\04.Online_Radio_Database\bin\Debug\netcoreapp2.0\04.Online_Radio_Database.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\04.Online_Radio_Database\bin\Debug\netcoreapp2.0\04.Online_Radio_Database.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\04.Online_Radio_Database\bin\Debug\netcoreapp2.0\04.Online_Radio_Database.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\04.Online_Radio_Database\bin\Debug\netcoreapp2.0\04.Online_Radio_Database.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\04.Online_Radio_Database\bin\Debug\netcoreapp2.0\04.Online_Radio_Database.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\04.Online_Radio_Database\obj\Debug\netcoreapp2.0\04.Online_Radio_Database.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\04.Online_Radio_Database\obj\Debug\netcoreapp2.0\04.Online_Radio_Database.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\04.Online_Radio_Database\obj\Debug\netcoreapp2.0\04.Online_Radio_Database.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\04.Online_Radio_Database\obj\Debug\netcoreapp2.0\04.Online_Radio_Database.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\04.Online_Radio_Database\obj\Debug\netcoreapp2.0\04.Online_Radio_Database.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Inheritance - Exercise\Inheritance - Exercise\04.Online_Radio_Database\obj\Debug\netcoreapp2.0\04.Online_Radio_Database.csprojResolveAssemblyReference.cache

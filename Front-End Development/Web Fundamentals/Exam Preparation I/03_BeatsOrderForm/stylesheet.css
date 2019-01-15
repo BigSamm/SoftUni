@@ -1,0 +1,106 @@
+@import "https://fonts.googleapis.com/css?family=Open+Sans:400,900";
+
+body {
+    font-family: 'Open Sans', sans-serif ;
+    background: linear-gradient(to right, #14353F 0%, #60676D 100%) no-repeat center center;
+}
+
+.wrapper {
+    width: 80%;
+    margin: 5% 10%;
+    background: white;
+    height: 582px;
+    border-radius: 10px;
+}
+
+section {
+    height: 606px;
+}
+
+.wrapper .beatsImg {
+    width: 40%;
+    text-align: center;
+    display: inline-block;
+    margin-top: -5px;
+}
+
+.wrapper .beatsImg img {
+    height: 630px;
+}
+
+.wrapper .form {
+    width: 60%;
+    display: inline-block;
+    float: right;
+}
+
+.wrapper .form form {
+    position: relative;
+}
+
+.wrapper .form .header {
+    margin-top: 10%;
+    margin-right: 10%;
+}
+
+.wrapper .form .header div {
+    text-align: right;
+    color: #9E9E9E;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.wrapper .form .header div:last-of-type {
+    color: #7d7d7d;
+}
+
+.wrapper .form .main {
+    position: relative;
+    margin-top: 6%;
+}
+
+.wrapper .form .main .left-side {
+    width: 45%;
+    display: inline-block;
+    float: left;
+}
+
+.wrapper .form .main .right-side {
+    width: 45%;
+    display: inline-block;
+    float: right;
+    margin-top: 9%;
+}
+
+
+input {
+    border: none;
+    padding: 10px 10px 10px 50px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #535E66;
+}
+
+.form-field {
+    position: relative;
+}
+
+.fa {
+    position: absolute;
+    top: 5px;
+    left: 15px;
+    color: #535E66;
+}
+
+.wrapper .form .main button {
+    text-transform: uppercase;
+    background: #535E66;
+    color: white;
+    border: none;
+    width: 200px;
+    float: right;
+    margin: 2% 15%;
+    height: 40px;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}

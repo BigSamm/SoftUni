@@ -1,0 +1,5 @@
+E:\SoftUni\3ti chas\Simple-Conditions\Even-or-Odd\bin\Debug\Even-or-Odd.exe.config
+E:\SoftUni\3ti chas\Simple-Conditions\Even-or-Odd\bin\Debug\Even-or-Odd.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Even-or-Odd\bin\Debug\Even-or-Odd.pdb
+E:\SoftUni\3ti chas\Simple-Conditions\Even-or-Odd\obj\Debug\Even-or-Odd.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Even-or-Odd\obj\Debug\Even-or-Odd.pdb

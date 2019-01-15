@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction\3. Student System\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction\3. Student System\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction\3. Student System\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction\3. Student System\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction\3. Student System\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction\3. Student System\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction\3. Student System\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction\3. Student System\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction\3. Student System\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction\3. Student System\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.dll
+D:\SoftUni\C# Fundamentals\C# OOP Basics\Working with Abstraction\3. Student System\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events\project\bin\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.deps.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events\project\bin\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events\project\bin\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events\project\bin\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events\project\bin\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events\project\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events\project\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events\project\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events\project\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events\project\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Object Communication and Events\project\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.pdb

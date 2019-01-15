@@ -1,0 +1,14 @@
+D:\Workshop\Forum.App\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.deps.json
+D:\Workshop\Forum.App\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.runtimeconfig.json
+D:\Workshop\Forum.App\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.runtimeconfig.dev.json
+D:\Workshop\Forum.App\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.dll
+D:\Workshop\Forum.App\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+D:\Workshop\Forum.App\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Models.dll
+D:\Workshop\Forum.App\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+D:\Workshop\Forum.App\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csprojResolveAssemblyReference.cache
+D:\Workshop\Forum.App\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csproj.CoreCompileInputs.cache
+D:\Workshop\Forum.App\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfoInputs.cache
+D:\Workshop\Forum.App\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfo.cs
+D:\Workshop\Forum.App\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csproj.CopyComplete
+D:\Workshop\Forum.App\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.dll
+D:\Workshop\Forum.App\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.pdb

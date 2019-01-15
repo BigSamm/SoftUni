@@ -1,0 +1,6 @@
+E:\SoftUni\EXAM\01-House-Painting\bin\Debug\01-House-Painting.exe.config
+E:\SoftUni\EXAM\01-House-Painting\bin\Debug\01-House-Painting.exe
+E:\SoftUni\EXAM\01-House-Painting\bin\Debug\01-House-Painting.pdb
+E:\SoftUni\EXAM\01-House-Painting\obj\Debug\01-House-Painting.csprojResolveAssemblyReference.cache
+E:\SoftUni\EXAM\01-House-Painting\obj\Debug\01-House-Painting.exe
+E:\SoftUni\EXAM\01-House-Painting\obj\Debug\01-House-Painting.pdb

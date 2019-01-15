@@ -1,0 +1,5 @@
+E:\SoftUni\3ti chas\Simple-Conditions\Equal-Words\bin\Debug\Equal-Words.exe.config
+E:\SoftUni\3ti chas\Simple-Conditions\Equal-Words\bin\Debug\Equal-Words.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Equal-Words\bin\Debug\Equal-Words.pdb
+E:\SoftUni\3ti chas\Simple-Conditions\Equal-Words\obj\Debug\Equal-Words.exe
+E:\SoftUni\3ti chas\Simple-Conditions\Equal-Words\obj\Debug\Equal-Words.pdb

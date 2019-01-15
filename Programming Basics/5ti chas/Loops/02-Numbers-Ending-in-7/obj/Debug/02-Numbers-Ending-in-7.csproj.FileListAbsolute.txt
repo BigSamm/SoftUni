@@ -1,0 +1,5 @@
+E:\SoftUni\5ti chas\Loops\02-Numbers-Ending-in-7\bin\Debug\02-Numbers-Ending-in-7.exe.config
+E:\SoftUni\5ti chas\Loops\02-Numbers-Ending-in-7\bin\Debug\02-Numbers-Ending-in-7.exe
+E:\SoftUni\5ti chas\Loops\02-Numbers-Ending-in-7\bin\Debug\02-Numbers-Ending-in-7.pdb
+E:\SoftUni\5ti chas\Loops\02-Numbers-Ending-in-7\obj\Debug\02-Numbers-Ending-in-7.exe
+E:\SoftUni\5ti chas\Loops\02-Numbers-Ending-in-7\obj\Debug\02-Numbers-Ending-in-7.pdb
